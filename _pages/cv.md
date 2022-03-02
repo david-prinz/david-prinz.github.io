@@ -7,53 +7,16 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Employment
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam), academic assistant in the group of [Prof Paycha](https://www.math.uni-potsdam.de/~paycha/paycha/Home.html), 08/2021 - 02/2022
+* [Humboldt University of Berlin](https://www.hu-berlin.de/en?set_language=en), guest scientist at [KMPB](https://www2.mathematik.hu-berlin.de/~maphy/), 01/2021 - 06/2021
+* [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de), PhD student at [IMPRS](https://www.imprs-gcq.aei.mpg.de), 10/2016 - 12/2020
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* PhD (Mathematical Physics), expected summer 2022, [Humboldt University of Berlin](https://www.hu-berlin.de/en?set_language=en), [KMPB](https://www2.mathematik.hu-berlin.de/~maphy/) and [IMPRS](https://www.imprs-gcq.aei.mpg.de)
+* Master of Science (Mathematics), 2017, [Humboldt University of Berlin](https://www.hu-berlin.de/en?set_language=en)
+* Master of Science (Physics), 2015, [Humboldt University of Berlin](https://www.hu-berlin.de/en?set_language=en)
+* Bachelor of Science (Physics), 2013, [University of Innsbruck](https://www.uibk.ac.at/index.html.en)
+* High school diploma (Abitur), 2010, [Alexander-von-Humboldt-Gymnasium Konstanz](https://humboldt-konstanz.de)
