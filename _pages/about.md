@@ -19,6 +19,8 @@ Welcome! I am a mathematical physicist at [HU Berlin](https://www2.mathematik.hu
 
 ### Furthermore, I am keen to learn more about:
 * Algebraic Quantum Field Theory
+* BV formalism
+* Deformation quantization
 * Noncommutative geometry
 
 ## You can find my articles here:
