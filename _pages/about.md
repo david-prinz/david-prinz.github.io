@@ -11,13 +11,15 @@ redirect_from:
 
 Welcome! I am a mathematical physicist at [HU Berlin](https://www2.mathematik.hu-berlin.de/~maphy/). Currently I am in the final phase of my PhD studies under the supervision of [Prof Kreimer](https://www2.mathematik.hu-berlin.de/~kreimer/).
 
-## My research insterests are:
+## Research insterests
+
+### Topics I have worked on:
 * Renormalization in Quantum Field Theory
 * Quantization of gauge theories and gravity
 * Mathematical Relativity
 * Structure of asymptotically flat spacetimes
 
-### Furthermore, I am keen to learn more about:
+### Topics I am keen to learn:
 * Algebraic Quantum Field Theory
 * BV formalism
 * Deformation quantization
