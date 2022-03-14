@@ -21,7 +21,7 @@ redirect_from:
 * Bachelor of Science (Physics), 2013, [University of Innsbruck](https://www.uibk.ac.at/index.html.en)
 * High school diploma (Abitur), 2010, [Alexander-von-Humboldt-Gymnasium Konstanz](https://humboldt-konstanz.de)
 
-## Academic Services
+## Academic services
 
 * Supporting the organization of the conference [Microlocal and Global Analysis, Interactions with Geometry](https://potsdamconference2022.math.uni-potsdam.de/potsdamconference2022/index.html), 02/2022
 * Reviewing an article for [Nuclear Physics B](https://www.journals.elsevier.com/nuclear-physics-b), spring 2021
