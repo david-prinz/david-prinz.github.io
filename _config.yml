@@ -124,6 +124,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - Gemfile
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -133,7 +134,6 @@ exclude:
   - .sass-cache
   - CHANGELOG
   - Capfile
-  - Gemfile
   - Gruntfile.js
   - LICENSE
   - README
