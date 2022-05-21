@@ -5,6 +5,11 @@ title: "Updates"
 author_profile: true
 ---
 
+## 05/2022
+
+### Dissertation submitted
+"Renormalization of Gauge Theories and Gravity" at [Humboldt University of Berlin](https://www.hu-berlin.de/en)
+
 ## 03/2022
 
 ### Article accepted for publication
