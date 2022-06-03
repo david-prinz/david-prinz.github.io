@@ -5,6 +5,11 @@ title: "Updates"
 author_profile: true
 ---
 
+## 06/2022
+
+### New Preprint online
+[The BRST Double Complex for the Coupling of Gravity to Gauge Theories](https://arxiv.org/abs/2206.00780)
+
 ## 05/2022
 
 ### Dissertation submitted
