@@ -31,5 +31,5 @@ D. Prinz, [Class. Quantum Grav. 38 (2021) 215003](https://iopscience.iop.org/art
 ### Algebraic Structures in the Coupling of Gravity to Gauge Theories
 D. Prinz, [Annals Phys. 426 (2021) 168395](https://www.sciencedirect.com/science/article/abs/pii/S0003491621000014), [arXiv:1812.09919 [hep-th]](https://arxiv.org/abs/1812.09919)
 
-### The Corolla Polynomial for spontaneously broken Gauge Theories
+### The Corolla Polynomial for Spontaneously Broken Gauge Theories
 D. Prinz, [Math. Phys. Anal. Geom. 19 (2016) 3, 18](https://link.springer.com/article/10.1007/s11040-016-9222-0), [arXiv:1603.03321 [math-ph]](https://arxiv.org/abs/1603.03321)
