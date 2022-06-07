@@ -7,6 +7,9 @@ author_profile: true
 
 ## 06/2022
 
+### Article accepted for publication
+Revised version of [Lie Theory for Asymptotic Symmetries in General Relativity: The NU Group](https://arxiv.org/abs/2109.11476) in [Class. Quantum Grav.](https://iopscience.iop.org/journal/0264-9381)
+
 ### New Preprint online
 [The BRST Double Complex for the Coupling of Gravity to Gauge Theories](https://arxiv.org/abs/2206.00780)
 

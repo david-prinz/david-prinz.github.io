@@ -13,7 +13,7 @@ author_profile: true
 D. Prinz, [arXiv:2206.00780 [math-ph]](https://arxiv.org/abs/2206.00780)
 
 ### Lie Theory for Asymptotic Symmetries in General Relativity: The NU Group
-D. Prinz & [A. Schmeding](https://www.nord.no/en/employees/alexander-schmeding), under review in [Class. Quantum Grav.](https://iopscience.iop.org/journal/0264-9381), [arXiv:2109.11476 [gr-qc]](https://arxiv.org/abs/2109.11476)
+D. Prinz & [A. Schmeding](https://www.nord.no/en/employees/alexander-schmeding), accepted for publication in [Class. Quantum Grav.](https://iopscience.iop.org/journal/0264-9381), [arXiv:2109.11476 [gr-qc]](https://arxiv.org/abs/2109.11476)
 
 ### Gauge Symmetries and Renormalization
 D. Prinz, accepted for publication in [Math. Phys. Anal. Geom.](https://link.springer.com/journal/11040/volumes-and-issues), [arXiv:2001.00104 [math-ph]](https://arxiv.org/abs/2001.00104)
