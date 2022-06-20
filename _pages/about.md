@@ -9,7 +9,7 @@ redirect_from:
 
 # ---
 
-Welcome! I am a mathematical physicist at [HU Berlin](https://www2.mathematik.hu-berlin.de/~maphy/). Currently I am in the final phase of my PhD studies under the supervision of [Prof Kreimer](https://www2.mathematik.hu-berlin.de/~kreimer/).
+Welcome! I am a mathematical physicist at [HU Berlin](https://www2.mathematik.hu-berlin.de/~maphy/) in the group of [Prof Kreimer](https://www2.mathematik.hu-berlin.de/~kreimer/). I will spend this fall as a [Riemann fellow](https://www.rc.uni-hannover.de/en/) in the group of [Prof Giulini](https://www.itp.uni-hannover.de/de/ag/giulini/).
 
 ## Research insterests
 

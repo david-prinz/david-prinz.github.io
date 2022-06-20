@@ -7,6 +7,9 @@ author_profile: true
 
 ## 06/2022
 
+### Obtained Riemann fellowship
+I have obtained a [Riemann fellowship](https://www.rc.uni-hannover.de/en/), with which I will visit the group of [Prof Giulini](https://www.itp.uni-hannover.de/de/ag/giulini/) this fall.
+
 ### Article accepted for publication
 [Lie Theory for Asymptotic Symmetries in General Relativity: The NU Group](https://doi.org/10.1088/1361-6382/ac776c)
 
