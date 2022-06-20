@@ -7,7 +7,7 @@ author_profile: true
 
 ## 06/2022
 
-### Postdoc position at MPIM Bonn
+### Offered postdoc position at MPIM Bonn
 I have been offered a postdoc position at [MPIM Bonn](https://www.mpim-bonn.mpg.de), which I will start beginning next year
 
 ### Obtained Riemann fellowship
