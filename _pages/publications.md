@@ -12,15 +12,15 @@ author_profile: true
 ### The BRST Double Complex for the Coupling of Gravity to Gauge Theories
 D. Prinz, [arXiv:2206.00780 [math-ph]](https://arxiv.org/abs/2206.00780)
 
-### Lie Theory for Asymptotic Symmetries in General Relativity: The NU Group
-D. Prinz & [A. Schmeding](https://www.nord.no/en/employees/alexander-schmeding), [accepted manuscript](https://doi.org/10.1088/1361-6382/ac776c), [Class. Quantum Grav.](https://iopscience.iop.org/journal/0264-9381), [arXiv:2109.11476 [gr-qc]](https://arxiv.org/abs/2109.11476)
+
+
+## Journal articles
 
 ### Gauge Symmetries and Renormalization
 D. Prinz, accepted for publication in [Math. Phys. Anal. Geom.](https://link.springer.com/journal/11040/volumes-and-issues), [arXiv:2001.00104 [math-ph]](https://arxiv.org/abs/2001.00104)
 
-
-
-## Journal articles
+### Lie Theory for Asymptotic Symmetries in General Relativity: The NU Group
+D. Prinz & [A. Schmeding](https://www.nord.no/en/employees/alexander-schmeding), [Class. Quantum Grav. 39 (2022) 155005](https://iopscience.iop.org/article/10.1088/1361-6382/ac776c), [arXiv:2109.11476 [gr-qc]](https://arxiv.org/abs/2109.11476)
 
 ### Lie Theory for Asymptotic Symmetries in General Relativity: The BMS Group
 D. Prinz & [A. Schmeding](https://www.nord.no/en/employees/alexander-schmeding), [Class. Quantum Grav. 39 (2022) 065004](https://iopscience.iop.org/article/10.1088/1361-6382/ac4ae2), [arXiv:2106.12513 [gr-qc]](https://arxiv.org/abs/2106.12513)
