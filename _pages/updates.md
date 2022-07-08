@@ -5,6 +5,11 @@ title: "Updates"
 author_profile: true
 ---
 
+## 07/2022
+
+### Article published
+[Lie Theory for Asymptotic Symmetries in General Relativity: The NU Group](https://iopscience.iop.org/article/10.1088/1361-6382/ac776c)
+
 ## 06/2022
 
 ### Offered postdoc position at MPIM Bonn
