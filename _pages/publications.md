@@ -10,7 +10,7 @@ author_profile: true
 ## Preprints
 
 ### The BRST Double Complex for the Coupling of Gravity to Gauge Theories
-D. Prinz, [arXiv:2206.00780 [math-ph]](https://arxiv.org/abs/2206.00780)
+D. Prinz, [arXiv:2206.00780 [hep-th]](https://arxiv.org/abs/2206.00780)
 
 
 
