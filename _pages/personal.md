@@ -5,6 +5,8 @@ title: "Personal"
 author_profile: true
 ---
 
+
+
 # ---
 
 I am always very curious in the personalities behind the professional curtain. Thus, this page is intended to offer a little glimpse into my hobbies and interests beside math.
