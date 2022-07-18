@@ -5,10 +5,16 @@ title: "Updates"
 author_profile: true
 ---
 
+
+
 ## 07/2022
+
+### New Preprint online
+[Symmetric Ghost Lagrange Densities for the Coupling of Gravity to Gauge Theories](https://arxiv.org/abs/2207.07593)
 
 ### Article published
 [Lie Theory for Asymptotic Symmetries in General Relativity: The NU Group](https://iopscience.iop.org/article/10.1088/1361-6382/ac776c)
+
 
 ## 06/2022
 
@@ -24,10 +30,12 @@ I have obtained a [Riemann fellowship](https://www.rc.uni-hannover.de/en/), with
 ### New Preprint online
 [The BRST Double Complex for the Coupling of Gravity to Gauge Theories](https://arxiv.org/abs/2206.00780)
 
+
 ## 05/2022
 
 ### Dissertation submitted
 "Renormalization of Gauge Theories and Gravity" at [Humboldt University of Berlin](https://www.hu-berlin.de/en)
+
 
 ## 03/2022
 

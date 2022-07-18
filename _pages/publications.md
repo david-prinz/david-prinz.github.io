@@ -9,9 +9,11 @@ author_profile: true
 
 ## Preprints
 
+### Symmetric Ghost Lagrange Densities for the Coupling of Gravity to Gauge Theories
+D. Prinz, [arXiv:2207.07593 [hep-th]](https://arxiv.org/abs/2207.07593)
+
 ### The BRST Double Complex for the Coupling of Gravity to Gauge Theories
 D. Prinz, [arXiv:2206.00780 [hep-th]](https://arxiv.org/abs/2206.00780)
-
 
 
 ## Journal articles
