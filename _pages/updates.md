@@ -7,6 +7,11 @@ author_profile: true
 
 
 
+## 08/2022
+
+### Article published
+[Gauge Symmetries and Renormalization](https://link.springer.com/article/10.1007/s11040-022-09423-8)
+
 ## 07/2022
 
 ### New Preprint online

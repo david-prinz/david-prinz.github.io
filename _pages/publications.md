@@ -19,7 +19,7 @@ D. Prinz, [arXiv:2206.00780 [hep-th]](https://arxiv.org/abs/2206.00780)
 ## Journal articles
 
 ### Gauge Symmetries and Renormalization
-D. Prinz, accepted for publication in [Math. Phys. Anal. Geom.](https://link.springer.com/journal/11040/volumes-and-issues), [arXiv:2001.00104 [math-ph]](https://arxiv.org/abs/2001.00104)
+D. Prinz, [Math. Phys. Anal. Geom. 25 (2022) 3, 20](https://link.springer.com/article/10.1007/s11040-022-09423-8), [arXiv:2001.00104 [math-ph]](https://arxiv.org/abs/2001.00104)
 
 ### Lie Theory for Asymptotic Symmetries in General Relativity: The NU Group
 D. Prinz & [A. Schmeding](https://www.nord.no/en/employees/alexander-schmeding), [Class. Quantum Grav. 39 (2022) 155005](https://iopscience.iop.org/article/10.1088/1361-6382/ac776c), [arXiv:2109.11476 [gr-qc]](https://arxiv.org/abs/2109.11476)
