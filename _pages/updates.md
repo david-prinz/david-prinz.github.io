@@ -9,6 +9,9 @@ author_profile: true
 
 ## 08/2022
 
+### Disputation scheduled
+My disputation will take place on August 31 at 3 pm Berlin time in a hybrid format: Please contact me via [e-mail](mailto:prinz@math.hu-berlin.de) if you wish to participate
+
 ### Article published
 [Gauge Symmetries and Renormalization](https://link.springer.com/article/10.1007/s11040-022-09423-8)
 
