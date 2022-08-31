@@ -9,6 +9,9 @@ author_profile: true
 
 ## Preprints
 
+### Transversality in the Coupling of Gravity to Gauge Theories
+D. Prinz, [arXiv:2208.14166 [hep-th]](https://arxiv.org/abs/2208.14166)
+
 ### Symmetric Ghost Lagrange Densities for the Coupling of Gravity to Gauge Theories
 D. Prinz, [arXiv:2207.07593 [hep-th]](https://arxiv.org/abs/2207.07593)
 

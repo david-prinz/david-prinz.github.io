@@ -9,6 +9,9 @@ author_profile: true
 
 ## 08/2022
 
+### New Preprint online
+[Transversality in the Coupling of Gravity to Gauge Theories](https://arxiv.org/abs/2208.14166)
+
 ### Disputation scheduled
 My disputation will take place on August 31 at 3 pm Berlin time in a hybrid format: Please contact me via [e-mail](mailto:prinz@math.hu-berlin.de) if you wish to participate
 
