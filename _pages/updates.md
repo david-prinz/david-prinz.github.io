@@ -9,6 +9,9 @@ author_profile: true
 
 ## 08/2022
 
+### Dissertation successfully defended
+"Renormalization of Gauge Theories and Gravity" at [Humboldt University of Berlin](https://www.hu-berlin.de/en)
+
 ### New Preprint online
 [Transversality in the Coupling of Gravity to Gauge Theories](https://arxiv.org/abs/2208.14166)
 
