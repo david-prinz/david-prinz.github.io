@@ -33,10 +33,10 @@ My disputation will take place on August 31 at 3 pm Berlin time in a hybrid form
 ## 06/2022
 
 ### Offered postdoc position at MPIM Bonn
-I have been offered a postdoc position at [MPIM Bonn](https://www.mpim-bonn.mpg.de), which I will start beginning next year
+I have been offered a postdoc position at [MPIM Bonn](https://www.mpim-bonn.mpg.de), which I will start next year (Q2/2023)
 
 ### Obtained Riemann fellowship
-I have obtained a [Riemann fellowship](https://www.rc.uni-hannover.de/en/), with which I will visit the group of [Prof Giulini](https://www.itp.uni-hannover.de/de/ag/giulini/) this fall
+I have obtained a [Riemann fellowship](https://www.rc.uni-hannover.de/en/), with which I will visit the group of [Prof Giulini](https://www.itp.uni-hannover.de/de/ag/giulini/) next spring (Q1/2023)
 
 ### Article accepted for publication
 [Lie Theory for Asymptotic Symmetries in General Relativity: The NU Group](https://doi.org/10.1088/1361-6382/ac776c)

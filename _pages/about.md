@@ -11,7 +11,7 @@ redirect_from:
 
 # ---
 
-Welcome! I am a mathematical physicist working in the area of Quantum Field Theory, General Relativity and Quantum Gravity. Currently, I am located at [HU Berlin](https://www2.mathematik.hu-berlin.de/~maphy/) in the group of [Prof Kreimer](https://www2.mathematik.hu-berlin.de/~kreimer/). This fall, I will be [Riemann fellow](https://www.rc.uni-hannover.de/en/) in the group of [Prof Giulini](https://www.itp.uni-hannover.de/de/ag/giulini/). Thereafter, I will start my postdoc at [MPIM Bonn](https://www.mpim-bonn.mpg.de).
+Welcome! I am a mathematical physicist working in the area of Quantum Field Theory, General Relativity and Quantum Gravity. Currently, I am located at [HU Berlin](https://www2.mathematik.hu-berlin.de/~maphy/) in the group of [Prof Kreimer](https://www2.mathematik.hu-berlin.de/~kreimer/). Next spring, I will be [Riemann fellow](https://www.rc.uni-hannover.de/en/) in the group of [Prof Giulini](https://www.itp.uni-hannover.de/de/ag/giulini/). Thereafter, I will start my postdoc at [MPIM Bonn](https://www.mpim-bonn.mpg.de).
 
 
 ## Research insterests
