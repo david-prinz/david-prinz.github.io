@@ -7,6 +7,12 @@ author_profile: true
 
 
 
+## Dissertation
+
+### Renormalization of Gauge Theories and Gravity
+D. Prinz, [arXiv:2210.17510 [hep-th]](https://arxiv.org/abs/2210.17510)
+
+
 ## Preprints
 
 ### Transversality in the Coupling of Gravity to Gauge Theories

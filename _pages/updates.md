@@ -7,6 +7,11 @@ author_profile: true
 
 
 
+## 10/2022
+
+### Dissertation on arXiv
+[Renormalization of Gauge Theories and Gravity](https://arxiv.org/abs/2210.17510)
+
 ## 08/2022
 
 ### Dissertation successfully defended
