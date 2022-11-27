@@ -10,7 +10,7 @@ author_profile: true
 ## Dissertation
 
 ### Renormalization of Gauge Theories and Gravity
-D. Prinz, [Humboldt University of Berlin (2022)](http://edoc.hu-berlin.de/18452/26190), [arXiv:2210.17510 [hep-th]](https://arxiv.org/abs/2210.17510)
+D. Prinz, [Humboldt University of Berlin (2022)](https://edoc.hu-berlin.de/18452/26190), [arXiv:2210.17510 [hep-th]](https://arxiv.org/abs/2210.17510)
 
 
 ## Preprints

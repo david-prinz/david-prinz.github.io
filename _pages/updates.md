@@ -10,7 +10,7 @@ author_profile: true
 ## 11/2022
 
 ### Dissertation officially published
-[Renormalization of Gauge Theories and Gravity](http://edoc.hu-berlin.de/18452/26190)
+[Renormalization of Gauge Theories and Gravity](https://edoc.hu-berlin.de/18452/26190)
 
 ## 10/2022
 
