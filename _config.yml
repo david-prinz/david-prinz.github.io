@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. David Prinz"
+title                    : "David Prinz"
 title_separator          : "-"
-name                     : &name "Dr. David Prinz"
+name                     : &name "David Prinz"
 description              : &description "personal description"
 url                      : https://david-prinz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
