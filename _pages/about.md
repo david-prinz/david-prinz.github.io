@@ -38,5 +38,6 @@ Welcome! I am a mathematical physicist working in the area of Quantum Field Theo
 
 ## Furthermore, you can view some of my recent talks on YouTube:
 
+* [Interdisciplinary junior scientist workshop: Mathematical General Relativity](https://mediaup.uni-potsdam.de/Play/48577)
 * [Erwin Schrödinger Institute Vienna, AT](https://youtu.be/beUsX0497DE)
 * [University of Potsdam, DE](https://youtu.be/OtAfPwqOlqA)
