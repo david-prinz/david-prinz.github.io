@@ -36,7 +36,7 @@ Welcome! I am a mathematical physicist working in the area of Quantum Field Theo
 * [ORCiD](https://orcid.org/0000-0001-7089-8870)
 
 
-## Furthermore, you can view some of my recent talks on YouTube:
+## Furthermore, you can view some of my recent talks here:
 
 * [Interdisciplinary junior scientist workshop: Mathematical General Relativity](https://mediaup.uni-potsdam.de/Play/48577)
 * [Erwin Schrödinger Institute Vienna, AT](https://youtu.be/beUsX0497DE)
