@@ -9,7 +9,7 @@ author_profile: true
 
 ## 05/2023
 
-### Participating at Spring School
+### Participation at Spring School planned
 
 [KMPB spring school: 3 facets of gravity](https://gbaverez.github.io/facets_of_gravity/)
 
