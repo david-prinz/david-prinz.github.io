@@ -23,7 +23,7 @@ author_profile: true
 
 ### Riemann fellowship started
 
-[Official statement](https://www.rc.uni-hannover.de/en/center/news-and-events/news/aktuelles-detailansicht/news/the-rc-welcomes-new-riemann-fellow-david-prinz)
+[Official announcement](https://www.rc.uni-hannover.de/en/center/news-and-events/news/aktuelles-detailansicht/news/the-rc-welcomes-new-riemann-fellow-david-prinz)
 
 ## 11/2022
 
