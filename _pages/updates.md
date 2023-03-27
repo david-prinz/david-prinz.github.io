@@ -7,22 +7,19 @@ author_profile: true
 
 
 
-## 05/2023
+## 03/2023
 
-### Participation at Spring School planned
-
-[KMPB spring school: 3 facets of gravity](https://gbaverez.github.io/facets_of_gravity/)
+### New Preprint online
+[On Perturbative Quantum Gravity with a Cosmological Constant](https://arxiv.org/abs/2303.14160)
 
 ## 02/2023
 
 ### Participated at workshop
-
 [Interdisciplinary junior scientist workshop: Mathematical General Relativity](https://www.math.uni-potsdam.de/grworkshop); see my talk [here](https://mediaup.uni-potsdam.de/Play/48577) and my slides [here](https://www.math.uni-potsdam.de/fileadmin/user_upload/Prof-Part-Diff/GRWorkshop2/Slides/slides-prinz.pdf)
 
 ## 01/2023
 
 ### Riemann fellowship started
-
 [Official announcement](https://www.rc.uni-hannover.de/en/center/news-and-events/news/aktuelles-detailansicht/news/the-rc-welcomes-new-riemann-fellow-david-prinz)
 
 ## 11/2022
