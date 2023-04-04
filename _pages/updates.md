@@ -27,6 +27,11 @@ author_profile: true
 ### Riemann fellowship started
 [Official announcement](https://www.rc.uni-hannover.de/en/center/news-and-events/news/aktuelles-detailansicht/news/the-rc-welcomes-new-riemann-fellow-david-prinz)
 
+## 12/2022
+
+### Mathematics Genealogy Project listing
+Find my entry [here](https://www.mathgenealogy.org/id.php?id=291529)
+
 ## 11/2022
 
 ### Dissertation officially published
