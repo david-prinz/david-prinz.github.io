@@ -12,7 +12,7 @@ author_profile: true
 ### Participation and poster at conference (Humboldt University of Berlin)
 [Three facets of Gravity](https://gbaverez.github.io/facets_of_gravity/)
 
-### Talk at gravity seminar, May 16. (Cologne University; Prof Kiefer)
+### Talk at gravity seminar, May 16 (Cologne University; Prof Kiefer)
 [Official announcement](https://www.thp.uni-koeln.de/gravitation/seminars/seminars.html)
 
 ### Participation and talk at seminar (Stockholm University)
