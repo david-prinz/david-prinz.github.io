@@ -7,7 +7,21 @@ author_profile: true
 
 
 
+## 05/2023
+
+### Participation and poster at conference (Humboldt University of Berlin)
+[Three facets of Gravity](https://gbaverez.github.io/facets_of_gravity/)
+
+### Talk at gravity seminar, May 16. (Cologne University; Prof Kiefer)
+[Official announcement](https://www.thp.uni-koeln.de/gravitation/seminars/seminars.html)
+
+### Participation and talk at seminar (Stockholm University)
+[13th Central European Relativity Seminar](https://cers.univie.ac.at/cers13/index.html)
+
 ## 04/2023
+
+### Talk at amplitudes seminar, April 27 (Bonn University; Prof Duhr, Prof Klemm, Dr Loebbert)
+[Official announcement](https://indico.hiskp.uni-bonn.de/category/34/)
 
 ### Postdoc started
 [Max Planck Institute for Mathematics, Bonn](https://www.mpim-bonn.mpg.de/peoplelist?pltype=0&plcount=0&plgroup=postdocs&plkeyword=Prinz)
@@ -19,7 +33,7 @@ author_profile: true
 
 ## 02/2023
 
-### Participated at workshop
+### Participation and talk at workshop
 [Interdisciplinary junior scientist workshop: Mathematical General Relativity](https://www.math.uni-potsdam.de/grworkshop); see my talk [here](https://mediaup.uni-potsdam.de/Play/48577) and my slides [here](https://www.math.uni-potsdam.de/fileadmin/user_upload/Prof-Part-Diff/GRWorkshop2/Slides/slides-prinz.pdf)
 
 ## 01/2023
