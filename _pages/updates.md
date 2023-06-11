@@ -23,7 +23,7 @@ author_profile: true
 ### Talk at gravity seminar, May 16 (Cologne University; Prof Kiefer)
 [Official announcement](https://www.thp.uni-koeln.de/gravitation/seminars/seminars.html)
 
-### Participation and talk at seminar (Stockholm University)
+### Participation and talk at conference (Stockholm University)
 [13th Central European Relativity Seminar](https://cers.univie.ac.at/cers13/index.html)
 
 ## 04/2023
