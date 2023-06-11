@@ -7,6 +7,14 @@ author_profile: true
 
 
 
+## 06/2023
+
+### Talk and research stay (University of Göttingen, Prof Bahns & research group)
+[Official announcement](https://www.uni-goettingen.de/de/50226.html?cid=844688)
+
+### Talk and research stay (University of Oxford, Dr Panzer)
+[Official announcement](https://www.maths.ox.ac.uk/node/64405)
+
 ## 05/2023
 
 ### Participation and poster at conference (Humboldt University of Berlin)
