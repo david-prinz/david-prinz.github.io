@@ -7,6 +7,12 @@ author_profile: true
 
 
 
+## 07/2023
+
+### Participation and poster at conference (University of Warsaw)
+
+[School of General Relativity, Astrophysics and Cosmology](https://indico2.fuw.edu.pl/event/5/)
+
 ## 06/2023
 
 ### Talk and research stay (University of Göttingen, Prof Bahns & research group)
