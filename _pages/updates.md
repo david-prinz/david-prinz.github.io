@@ -9,6 +9,10 @@ author_profile: true
 
 ## 08/2023
 
+### Talk at MPIM Oberseminar, August 31
+
+I will speak about "Renormalization of Gauge Theories and Gravity", [let me know if you want to participate](mailto:prinz@mpim-bonn.mpg.de)
+
 ### Visitor and scientific collaboration
 
 [Arne Hofmann](https://www.studip.uni-goettingen.de/extern.php?module=Persondetails&config_id=897b155b5389e37c6d7cb8eda9833d46&range_id=db66fd7fdd6564055fadd6873d86b790&username=hofmann12&seminar_id=ea2ad126dc58374bf3ce47c6d38be5a9) from the [University of Göttingen](https://www.uni-goettingen.de) has been visiting me at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de) for a scientific collaboration
