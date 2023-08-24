@@ -11,7 +11,7 @@ author_profile: true
 
 ### Talk at MPIM Oberseminar, August 31
 
-I will speak about ["Renormalization of Gauge Theories and Gravity"](https://www.mpim-bonn.mpg.de/de/weekly_program), please [let me know](mailto:prinz@mpim-bonn.mpg.de) if you want to participate
+I will speak about ["Renormalization of Gauge Theories and Gravity"](https://www.mpim-bonn.mpg.de/de/node/12415), please [let me know](mailto:prinz@mpim-bonn.mpg.de) if you want to participate
 
 ### Visitor and scientific collaboration
 
