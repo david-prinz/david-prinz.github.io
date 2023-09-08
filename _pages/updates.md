@@ -11,7 +11,7 @@ author_profile: true
 
 ### Supervising MPIM Interns
 
-I am conducting a small research project with pupils from the [Matheolympiade](https://www.mathematik-olympiaden.de) at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de)
+I am conducting a small research project with students from the [Matheolympiade](https://www.mathematik-olympiaden.de) at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de)
 
 ## 08/2023
 
