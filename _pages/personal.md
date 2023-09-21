@@ -19,3 +19,9 @@ In addition, besides school and studies, I did the following (volunteering) work
 * Youth leader at [German Alpine Club](https://www.alpenverein.de) (overseeing a weekly climbing group & planning outdoor trips)
 * Working as a skiing instructor at [PTSV Konstanz](http://dsv-skischule-konstanz.de)
 * Working in a bicycle shop at [Rad Center Paradies](https://regiostars.suedkurier.de/Profil/RAD-CENTER_Paradies_GBR_57091)
+
+Currently, I am doing the following volunteering work:
+* Organizing regular events aimed for mathematicians in Bonn
+* Organizing regular events for the [Mensa association](https://www.mensa.de)
+
+Please [get in touch with me](mailto:prinz@mpim-bonn.mpg.de), if you wish to participate.
