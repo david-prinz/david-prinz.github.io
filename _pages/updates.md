@@ -11,7 +11,7 @@ author_profile: true
 
 ### Participation at conference (University of Bonn)
 
-[Panorama of Mathematics II](https://www.hcm.uni-bonn.de/events/eventpages/2023/panorama2/), find me in the [Mood video](https://youtu.be/w9fQUvXn3hQ) at 0:32, while asking a question to [Martin Hairer](https://www.hairer.org)
+[Panorama of Mathematics II](https://www.hcm.uni-bonn.de/events/eventpages/2023/panorama2/), find me in the [Mood video](https://youtu.be/w9fQUvXn3hQ) at [0:32](https://youtu.be/w9fQUvXn3hQ&t=32), while asking a question to [Martin Hairer](https://www.hairer.org)
 
 ## 09/2023
 
