@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /mpim_math-phys_seminar/
+permalink: /seminar/
 title: "MPIM Math-Phys Seminar"
 author_profile: true
 ---
