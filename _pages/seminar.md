@@ -11,8 +11,11 @@ A seminar about different topics in mathematicsl physics, broadly around Quantum
 
 We meet almost every Thursday (see dates below) at 11:30 am in the MPIM seminar room.
 
-## Upcoming Events
+## Upcoming Events for 2024
 
-### 2024, February 1:
+### February 1:
 * Clarifying organizational issues, setting up schedule
 * David Aretz: "Supersymmetric Quantum Mechanics"
+
+### February 8:
+* No meeting due to (carneval)[https://de.wikipedia.org/wiki/Weiberfastnacht]
