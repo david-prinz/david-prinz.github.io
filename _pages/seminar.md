@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-A [seminar](https://www.mpim-bonn.mpg.de/node/12745) about different topics in mathematicsl physics, broadly around Quantum Field Theory and Homological Algebra. Our meetings are hosted by an assigned speaker, who gives an informal introduction to his topic. Alongside, we will have questions from the audience, which typically lead to a lively discussion.
+A seminar about different topics in mathematicsl physics, broadly around Quantum Field Theory and Homological Algebra. Our meetings are hosted by an assigned speaker, who gives an informal introduction to his topic. Alongside, we will have questions from the audience, which typically lead to a lively discussion. [Link to MPIM webpage](https://www.mpim-bonn.mpg.de/node/12745).
 
 We meet almost every Thursday (see dates below) at 11:30 am in the [MPIM seminar room](https://www.mpim-bonn.mpg.de/node/4234).
 
