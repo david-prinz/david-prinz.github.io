@@ -15,7 +15,10 @@ main:
     
   - title: "Updates"
     url: /updates/
-
+    
+  - title: "MPIM Math-Phys Seminar"
+    url: /mpim_math-phys_seminar/
+  
 #  - title: "Talks"
 #    url: /talks/
 
