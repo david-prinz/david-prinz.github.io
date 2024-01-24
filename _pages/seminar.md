@@ -18,4 +18,4 @@ We meet almost every Thursday (see dates below) at 11:30 am in the MPIM seminar 
 * David Aretz: "Supersymmetric Quantum Mechanics"
 
 ### February 8:
-* No meeting due to [carneval](https://de.wikipedia.org/wiki/Weiberfastnacht)
+* No meeting due to carneval
