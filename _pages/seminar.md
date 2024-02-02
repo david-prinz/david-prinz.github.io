@@ -15,24 +15,24 @@ We meet almost every Thursday (see dates below) at 11:30 am in the [MPIM seminar
 
 ## Topics
 
-We have decided on the following three topics, with some additional buzzwords:
+We have decided on the following three main topics, with some additional mathematical buzzwords:
 
-### Supersymmetric Quantum Field Theories:
-* Supergeometry
-* Atiyah--Singer theorem
-* Morse theory
+### [Supersymmetric Quantum Field Theories](https://ncatlab.org/nlab/show/supersymmetry):
+* [Supergeometry](https://ncatlab.org/nlab/show/supergeometry)
+* [Atiyah--Singer theorem](https://ncatlab.org/nlab/show/Atiyah-Singer+index+theorem)
+* [Morse theory](https://ncatlab.org/nlab/show/Morse+theory)
 
-### Conformal Field Theories:
-* Representation theory
-* Kac--Moody and vertex algebras
-* Line bundles
-* Loop groups
-* Conformal blocks
+### [Conformal Field Theories](https://ncatlab.org/nlab/show/conformal+field+theory):
+* [Representation theory](https://ncatlab.org/nlab/show/representation+theory)
+* [Kac--Moody](https://ncatlab.org/nlab/show/Kac-Moody+algebra) and [vertex algebras](https://ncatlab.org/nlab/show/vertex+operator+algebra)
+* [Line bundles](https://ncatlab.org/nlab/show/line+bundle)
+* [Loop groups](https://ncatlab.org/nlab/show/loop+group)
+* [Conformal blocks](https://ncatlab.org/nlab/show/conformal+block)
 
-### (Perturbative) Chern--Simons Theory:
-* BV formalism
-* Knot theory
-* Kontsevich integral (with link to supersymmetry)
+### [(Perturbative) Chern--Simons Theory](https://ncatlab.org/nlab/show/Chern-Simons+theory):
+* [BV formalism](https://ncatlab.org/nlab/show/BV-BRST+formalism)
+* [Knot theory](https://ncatlab.org/nlab/show/knot+theory+-+contentsk)
+* [Kontsevich integral](https://ncatlab.org/nlab/show/Kontsevich+integral) (with link to supersymmetry)
 
 
 ## Talks
@@ -56,7 +56,7 @@ We have decided on the following three topics, with some additional buzzwords:
 ### March 7:
 * Peter Moody
 
-### March 14, 21 and 28:
+### March 14, 21 and 28 (order tbd):
 * Daniel Bermudez
 * Michele Lorenzi
 * Paolo Tomasini
