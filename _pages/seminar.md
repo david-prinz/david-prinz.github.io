@@ -13,7 +13,29 @@ A seminar about different topics in mathematicsl physics, broadly around Quantum
 
 We meet almost every Thursday (see dates below) at 11:30 am in the [MPIM seminar room](https://www.mpim-bonn.mpg.de/node/4234).
 
-## Upcoming Events for 2024
+## Topics
+
+We have decided on the following three topics, with some additional buzzwords:
+
+### Supersymmetric Quantum Field Theories:
+* Supergeometry
+* Atiyah--Singer theorem
+* Morse theory
+
+### Conformal Field Theories:
+* Representation theory
+* Kac--Moody and vertex algebras
+* Line bundles
+* Loop groups
+* Conformal blocks
+
+### (Perturbative) Chern--Simons Theory:
+* BV formalism
+* Knot theory
+* Kontsevich integral (with link to supersymmetry)
+
+
+## Talks
 
 ### [February 1](https://www.mpim-bonn.mpg.de/node/12747):
 * Clarifying organizational issues, setting up schedule
@@ -21,3 +43,20 @@ We meet almost every Thursday (see dates below) at 11:30 am in the [MPIM seminar
 
 ### February 8:
 * No meeting due to carneval
+
+### February 15:
+* David Aretz: "Supersymmetric Quantum Mechanics, Part 2"
+
+### February 22:
+* TBD
+
+### February 29:
+* Jonah Epstein
+
+### March 7:
+* Peter Moody
+
+### March 14, 21 and 28:
+* Daniel Bermudez
+* Michele Lorenzi
+* Paolo Tomasini
