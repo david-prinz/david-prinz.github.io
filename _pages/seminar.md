@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-Organized by David Aretz and myself. Contact: lastname@mpim-bonn.mpg.de
+Organized by David Aretz and myself. Contact: {aretz, prinz}@mpim-bonn.mpg.de
 
 A seminar about different topics in mathematical physics, broadly around Quantum Field Theory, Algebraic Topology and Differential Geometry. Our meetings are hosted by an assigned speaker, who gives an informal introduction to his topic. Alongside, we will have questions from the audience, which typically lead to a lively discussion.
 
