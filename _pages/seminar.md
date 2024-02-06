@@ -17,7 +17,7 @@ We meet almost every Thursday (see dates below) at 11:30 am in the [MPIM seminar
 
 ## Topics
 
-We have decided on the following three main topics, with some additional mathematical buzzwords:
+We have decided on the following three main topics, with some additional points that we would like to cover:
 
 ### [Supersymmetric Quantum Field Theories](https://ncatlab.org/nlab/show/supersymmetry):
 * [Supergeometry](https://ncatlab.org/nlab/show/supergeometry)
