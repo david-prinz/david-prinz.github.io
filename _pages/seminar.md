@@ -46,7 +46,7 @@ We have decided on the following three main topics, with some additional points 
 ### February 8:
 * No meeting due to carneval
 
-### February 15:
+### [February 15](https://www.mpim-bonn.mpg.de/node/12762):
 * David Aretz: "Supersymmetric Quantum Mechanics, Part 2"
 
 ### February 22:
