@@ -9,7 +9,7 @@ author_profile: true
 
 Organized by David Aretz and myself. Contact: {aretz, prinz}@mpim-bonn.mpg.de
 
-A seminar about different topics in Mathematical Physics, broadly around Quantum Field Theory, Algebraic Topology and Differential Geometry. Our meetings are hosted by an assigned speaker, who gives an informal introduction to his topic. Alongside, we will have questions from the audience, which typically lead to a lively discussion.
+A learning seminar about different topics in Mathematical Physics, broadly around Quantum Field Theory, Algebraic Topology and Differential Geometry. Our meetings are hosted by an assigned speaker, who gives an informal introduction to his topic. Alongside, we will have questions from the audience, which typically lead to a lively discussion.
 
 [Official MPIM seminar webpage](https://www.mpim-bonn.mpg.de/node/12745), this webpage might be more up to date though.
 
@@ -50,7 +50,7 @@ We have decided on the following three main topics, with some additional points 
 * David Aretz: "Supersymmetric Quantum Mechanics, Part 2"
 
 ### February 22:
-* David Prinz: "Supersymmetric Quantum Field Theory"
+* David Prinz: "Supersymmetric Quantum Field Theories"
 
 ### February 29:
 * Jonah Epstein
