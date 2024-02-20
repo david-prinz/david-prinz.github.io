@@ -7,6 +7,26 @@ author_profile: true
 
 
 
+## 02/2024
+
+### Talk in Learning Seminar (Max Planck Institute for Mathematics, Bonn)
+
+[MPIM Math-Phys Seminar](https://davidprinz.org/seminar/)
+
+### Participation and talk at Conference (Max Planck Institute for Mathematics in the Sciences, Leipzig)
+
+[Positive Geometry in Particle Physics and Cosmology](https://www.mis.mpg.de/events/series/positive-geometry-in-particle-physics-and-cosmology)
+
+### Organization of Seminar
+
+[MPIM Math-Phys Seminar](https://davidprinz.org/seminar/) together with David Aretz
+
+## 01/2024
+
+### Participation and talk at Winter School (SRS SwissMAP Research Station in Les Diablerets)
+
+[2024 Winter School in Mathematical Physics](https://indico.cern.ch/event/1225541/)
+
 ## 10/2023
 
 ### Participation at conference (University of Bonn)
