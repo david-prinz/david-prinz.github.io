@@ -53,7 +53,7 @@ We have decided on the following three main topics, with some additional points 
 * David Prinz: "Supersymmetric Quantum Field Theory"
 
 ### February 29:
-* Jonah Epstein
+* Jonah Epstein: "The Atiyah--Singer Index Theorem, revisited from Supersymmetry"
 
 ### March 7:
 * Peter Moody
