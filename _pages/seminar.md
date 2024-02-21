@@ -50,7 +50,7 @@ We have decided on the following three main topics, with some additional points 
 * David Aretz: "Supersymmetric Quantum Mechanics, Part 2"
 
 ### February 22:
-* David Prinz: "Supersymmetric Quantum Field Theories"
+* David Prinz: "Supersymmetric Quantum Field Theory"
 
 ### February 29:
 * Jonah Epstein
