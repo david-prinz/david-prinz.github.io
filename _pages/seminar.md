@@ -40,7 +40,7 @@ We have decided on the following three main topics, with some additional points 
 ## Talks
 
 ### [February 1](https://www.mpim-bonn.mpg.de/node/12747):
-* David Prinz: Clarifying organizational issues, setting up schedule
+* Clarifying organizational issues, setting up schedule
 * David Aretz: "Supersymmetric Quantum Mechanics"
 
 ### February 8:
