@@ -58,7 +58,7 @@ We have decided on the following three main topics, with some additional points 
 ### March 7:
 * Peter Moody
 
-### March 14, 21 and 28 (order tbd):
+### March 14, 21 and 28 (order tba):
 * Daniel Bermudez
 * Michele Lorenzi
 * Paolo Tomasini
