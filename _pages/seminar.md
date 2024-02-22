@@ -49,7 +49,7 @@ We have decided on the following three main topics, with some additional points 
 ### [February 15](https://www.mpim-bonn.mpg.de/node/12762):
 * David Aretz: "Supersymmetric Quantum Mechanics, Part 2"
 
-### February 22:
+### [February 22](https://www.mpim-bonn.mpg.de/node/12785):
 * David Prinz: "Supersymmetric Quantum Field Theory"
 
 ### February 29:
