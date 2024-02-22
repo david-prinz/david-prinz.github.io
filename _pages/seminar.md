@@ -52,7 +52,7 @@ We have decided on the following three main topics, with some additional points 
 ### [February 22](https://www.mpim-bonn.mpg.de/node/12785):
 * David Prinz: "Supersymmetric Quantum Field Theory"
 
-### February 29:
+### [February 29](https://www.mpim-bonn.mpg.de/node/12787):
 * Jonah Epstein: "The Atiyah--Singer Index Theorem, Revisited From Supersymmetry"
 
 ### March 7:
