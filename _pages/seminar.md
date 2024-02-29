@@ -43,7 +43,7 @@ We have decided on the following three main topics, with some additional points 
 * Clarifying organizational issues, setting up schedule
 * David Aretz: "Supersymmetric Quantum Mechanics"
 
-### February 8:
+### [February 8](https://de.wikipedia.org/wiki/Weiberfastnacht):
 * No meeting due to carneval
 
 ### [February 15](https://www.mpim-bonn.mpg.de/node/12762):
