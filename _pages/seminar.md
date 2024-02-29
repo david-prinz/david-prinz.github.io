@@ -13,7 +13,7 @@ A learning seminar about different topics in Mathematical Physics, broadly aroun
 
 [Official MPIM seminar webpage](https://www.mpim-bonn.mpg.de/node/12745), this webpage might be more up to date though.
 
-We meet almost every Thursday (see dates below) at 11:30 am in the [MPIM seminar room](https://www.mpim-bonn.mpg.de/node/4234).
+We meet almost every Thursday (see dates below) at 11:30 am in the [MPIM Seminar Room](https://www.mpim-bonn.mpg.de/node/4234).
 
 ## Topics
 
@@ -58,7 +58,7 @@ We have decided on the following three main topics, with some additional points 
 ### [March 7](https://www.mpim-bonn.mpg.de/node/12823):
 * Daniel Bermudez: "Conformal Field Theory and Conformal Blocks"
 
-### [March 14](https://www.mpim-bonn.mpg.de/node/12825):
+### [March 14](https://www.mpim-bonn.mpg.de/node/12825) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
 * Werner Nahm: "Euclidean Quantum Field Theory in One Axiom" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12825)
 
 ### March 21:
