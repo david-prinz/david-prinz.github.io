@@ -55,7 +55,7 @@ We have decided on the following three main topics, with some additional points 
 ### [February 29](https://www.mpim-bonn.mpg.de/node/12787):
 * Jonah Epstein: "The Atiyah--Singer Index Theorem, Revisited From Supersymmetry"
 
-### [March 6](https://www.mpim-bonn.mpg.de/node/12823) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
+### [March 6 (Wednesday)](https://www.mpim-bonn.mpg.de/node/12823) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
 * Daniel Bermudez: "Conformal Field Theory and Conformal Blocks"
 
 ### [March 14](https://www.mpim-bonn.mpg.de/node/12825) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
@@ -63,3 +63,6 @@ We have decided on the following three main topics, with some additional points 
 
 ### March 21:
 * Paolo Tomasini
+
+### [April 26 (Friday)](https://www.mpim-bonn.mpg.de/node/12832) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
+* Bernd Sturmfels: "Minimal Kinematics on $\mathcal{M}_{0,n}$" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12832)
