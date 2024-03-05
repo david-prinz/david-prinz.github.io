@@ -55,7 +55,7 @@ We have decided on the following three main topics, with some additional points 
 ### [February 29](https://www.mpim-bonn.mpg.de/node/12787):
 * Jonah Epstein: "The Atiyah--Singer Index Theorem, Revisited From Supersymmetry"
 
-### [March 7](https://www.mpim-bonn.mpg.de/node/12823):
+### [March 6](https://www.mpim-bonn.mpg.de/node/12823) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
 * Daniel Bermudez: "Conformal Field Theory and Conformal Blocks"
 
 ### [March 14](https://www.mpim-bonn.mpg.de/node/12825) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
