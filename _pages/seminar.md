@@ -61,8 +61,11 @@ We have decided on the following three main topics, with some additional points 
 ### [March 14](https://www.mpim-bonn.mpg.de/node/12825) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
 * Werner Nahm: "Euclidean Quantum Field Theory in One Axiom" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12825)
 
-### [March 21](https://www.mpim-bonn.mpg.de/node/12843):
+### [March 20 (Wednesday, 12:00 a.m.)](https://www.mpim-bonn.mpg.de/node/12843) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
 * Paolo Tomasini: "Some Aspects of Vertex Algebras" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12843)
+
+### March 28:
+* Jiadong Han
 
 ### [April 26 (Friday, 11:30 a.m.)](https://www.mpim-bonn.mpg.de/node/12832) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
 * Bernd Sturmfels: "Minimal Kinematics on $\mathcal{M}_{0,n}$" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12832)
