@@ -67,5 +67,14 @@ We have decided on the following three main topics, with some additional points 
 ### [March 28:](https://www.mpim-bonn.mpg.de/node/12873)
 * Jiadong Han: "Conformal Blocks and Generalized Theta Functions"
 
+### April 4:
+* Sid Maibach
+
+### April 11:
+* Peter Moody
+
+### April 18:
+* Philip Schwartz (University of Hannover)
+
 ### [April 26 (Friday, 11:30 a.m.)](https://www.mpim-bonn.mpg.de/node/12832) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
 * Bernd Sturmfels: "Minimal Kinematics on $\mathcal{M}_{0,n}$" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12832)
