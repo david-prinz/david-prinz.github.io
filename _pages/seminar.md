@@ -64,8 +64,8 @@ We have decided on the following three main topics, with some additional points 
 ### [March 20 (Wednesday, 12:00 a.m.)](https://www.mpim-bonn.mpg.de/node/12843) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
 * Paolo Tomasini: "Some Aspects of Vertex Algebras" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12843)
 
-### March 28:
-* Jiadong Han
+### [March 28:](https://www.mpim-bonn.mpg.de/node/12873)
+* Jiadong Han: "Conformal Blocks and Generalized Theta Functions"
 
 ### [April 26 (Friday, 11:30 a.m.)](https://www.mpim-bonn.mpg.de/node/12832) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
 * Bernd Sturmfels: "Minimal Kinematics on $\mathcal{M}_{0,n}$" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12832)
