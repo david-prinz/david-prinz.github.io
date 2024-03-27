@@ -64,14 +64,14 @@ We have decided on the following three main topics, with some additional points 
 ### [March 20 (Wednesday, 12:00 a.m.)](https://www.mpim-bonn.mpg.de/node/12843) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
 * Paolo Tomasini: "Some Aspects of Vertex Algebras" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12843)
 
-### [March 28:](https://www.mpim-bonn.mpg.de/node/12873)
+### [March 28](https://www.mpim-bonn.mpg.de/node/12873):
 * Jiadong Han: "Conformal Blocks and Generalized Theta Functions"
 
-### April 4:
-* Sid Maibach
+### [April 4](https://www.mpim-bonn.mpg.de/node/12884):
+* Sid Maibach: "Fundamental Aspects of Conformal Field Theory and their Mathematical Formulations" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12884)
 
-### April 11:
-* Peter Moody
+### [April 11](https://www.mpim-bonn.mpg.de/node/12885):
+* Peter Moody: "Little Group Method" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12885)
 
 ### April 18:
 * Philip Schwartz
