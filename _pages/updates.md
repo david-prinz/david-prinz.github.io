@@ -21,9 +21,13 @@ author_profile: true
 
 ## 04/2024
 
-### Talk in QFT Seminar at University of Münster
+### Visitor and Scientific Collaboration
 
-[Official announcement](https://www.uni-muenster.de/Physik.TP/en/teaching/courses/research_seminar_quantum_field_theory_ss2024.html)
+[Philip Schwartz](https://www.pschwartz.de) from the [Leibnitz University of Hannover](https://www.uni-hannover.de/de/) will visit me at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de) for a scientific collaboration
+
+### Talk and Research Stay (University of Münster)
+
+[Official announcement](https://www.uni-muenster.de/Physik.TP/en/teaching/courses/research_seminar_quantum_field_theory_ss2024.html) and scientific collaboration with [Dr Johannes Thüringen](https://www.uni-muenster.de/FB10/Service/show_perspage.shtml?id=1408)
 
 ### Co-Supervision of Doctoral Student
 
@@ -67,7 +71,7 @@ I am conducting a small research project with students from the [Mathematik-Olym
 
 I will speak about ["Renormalization of Gauge Theories and Gravity"](https://www.mpim-bonn.mpg.de/de/node/12415), please [let me know](mailto:prinz@mpim-bonn.mpg.de) if you want to participate
 
-### Visitor and scientific collaboration
+### Visitor and Scientific Collaboration
 
 [Arne Hofmann](https://www.studip.uni-goettingen.de/extern.php?module=Persondetails&config_id=897b155b5389e37c6d7cb8eda9833d46&range_id=db66fd7fdd6564055fadd6873d86b790&username=hofmann12&seminar_id=ea2ad126dc58374bf3ce47c6d38be5a9) from the [University of Göttingen](https://www.uni-goettingen.de) has been visiting me at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de) for a scientific collaboration
 
@@ -79,26 +83,26 @@ I will speak about ["Renormalization of Gauge Theories and Gravity"](https://www
 
 ## 06/2023
 
-### Talk and research stay (University of Göttingen, Prof Bahns & research group)
+### Talk and Research Stay (University of Göttingen, Prof Bahns & research group)
 [Official announcement](https://www.uni-goettingen.de/de/50226.html?cid=844688)
 
-### Talk and research stay (University of Oxford, Dr Panzer)
+### Talk and Research Stay (University of Oxford, Dr Panzer)
 [Official announcement](https://www.maths.ox.ac.uk/node/64405)
 
 ## 05/2023
 
-### Participation and poster at conference (Humboldt University of Berlin)
+### Participation and Poster Presentation at Conference (Humboldt University of Berlin)
 [Three facets of Gravity](https://gbaverez.github.io/facets_of_gravity/)
 
-### Talk at gravity seminar, May 16 (Cologne University; Prof Kiefer)
+### Talk at Gravity Seminar, May 16 (Cologne University; Prof Kiefer)
 [Official announcement](https://www.thp.uni-koeln.de/gravitation/seminars/seminars.html)
 
-### Participation and talk at conference (Stockholm University)
+### Participation and Talk at Conference (Stockholm University)
 [13th Central European Relativity Seminar](https://cers.univie.ac.at/cers13/index.html)
 
 ## 04/2023
 
-### Talk at amplitudes seminar, April 27 (Bonn University; Prof Duhr, Prof Klemm, Dr Loebbert)
+### Talk at Amplitudes Seminar, April 27 (Bonn University; Prof Duhr, Prof Klemm, Dr Loebbert)
 [Official announcement](https://indico.hiskp.uni-bonn.de/category/34/)
 
 ### Postdoc started
