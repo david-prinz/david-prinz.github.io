@@ -7,13 +7,35 @@ author_profile: true
 
 
 
+## 06/2024
+
+### Participation and Poster Presentation/Gong Show at Conference (Institut of Advanced Study, Princeton)
+
+[Amplitudes 2024 Conference and Summer School](https://www.ias.edu/amplitudes2024)
+
+## 05/2024
+
+### Participation at Spring School (Max Planck Institute for Mathematics in the Sciences, Leipzig)
+
+[Combinatorial Algebraic Geometry from Physics](https://www.mis.mpg.de/de/events/series/combinatorial-algebraic-geometry-from-physics)
+
+## 04/2024
+
+### Talk in QFT Seminar at University of Münster
+
+[Official announcement](https://www.uni-muenster.de/Physik.TP/en/teaching/courses/research_seminar_quantum_field_theory_ss2024.html)
+
+### Co-Supervision of Doctoral Student
+
+[Jonah Epstein](https://www.mpim-bonn.mpg.de/peoplelist?pltype=0&plcount=0&plgroup=graduates&plkeyword=Epstein) starts his doctoral studies at [University of Bonn](https://www.uni-bonn.de/de), which I will co-supervise together with [Prof Albrecht Klemm](http://www.th.physik.uni-bonn.de/Groups/Klemm/)
+
 ## 02/2024
 
 ### Talk in Learning Seminar (Max Planck Institute for Mathematics, Bonn)
 
 [MPIM Math-Phys Seminar](https://davidprinz.org/seminar/)
 
-### Participation and talk at Conference (Max Planck Institute for Mathematics in the Sciences, Leipzig)
+### Participation and Talk at Conference (Max Planck Institute for Mathematics in the Sciences, Leipzig)
 
 [Positive Geometry in Particle Physics and Cosmology](https://www.mis.mpg.de/events/series/positive-geometry-in-particle-physics-and-cosmology)
 
