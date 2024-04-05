@@ -19,7 +19,7 @@ redirect_from:
 
 ## Education
 
-* Doctor rerum naturalium (Mathematical Physics), 2022, [Humboldt University of Berlin](https://www.hu-berlin.de/en?set_language=en), [KMPB](https://www2.mathematik.hu-berlin.de/~maphy/) and [IMPRS](https://www.imprs-gcq.aei.mpg.de): [Thesis](https://edoc.hu-berlin.de/18452/26190)
+* Doctor rerum naturalium (Mathematics), 2022, [Humboldt University of Berlin](https://www.hu-berlin.de/en?set_language=en), [KMPB](https://www2.mathematik.hu-berlin.de/~maphy/) and [IMPRS](https://www.imprs-gcq.aei.mpg.de): [Thesis](https://edoc.hu-berlin.de/18452/26190)
 * Master of Science (Mathematics), 2017, [Humboldt University of Berlin](https://www.hu-berlin.de/en?set_language=en)
 * Master of Science (Physics), 2015, [Humboldt University of Berlin](https://www.hu-berlin.de/en?set_language=en)
 * Bachelor of Science (Physics), 2013, [University of Innsbruck](https://www.uibk.ac.at/index.html.en)
