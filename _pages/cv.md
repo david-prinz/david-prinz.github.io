@@ -28,6 +28,6 @@ redirect_from:
 ## Academic services
 
 * Organizing regular social events for the math community in Bonn
-* Refereeing an article for [Computer Physics Communication](https://www.sciencedirect.com/journal/computer-physics-communications), summer 2023
+* Refereeing an article for [Computer Physics Communications](https://www.sciencedirect.com/journal/computer-physics-communications), summer 2023
 * Supporting the organization of the conference [Microlocal and Global Analysis, Interactions with Geometry](https://potsdamconference2022.math.uni-potsdam.de/potsdamconference2022/index.html), spring 2022
 * Refereeing an article for [Nuclear Physics B](https://www.journals.elsevier.com/nuclear-physics-b), spring 2021
