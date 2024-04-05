@@ -27,6 +27,7 @@ redirect_from:
 
 ## Academic services
 
+* Organizing the [MPIM Math-Phys Seminar](https://davidprinz.org/seminar/), see also the [official MPIM website](https://www.mpim-bonn.mpg.de/node/12745)
 * Organizing regular social events for the math community in Bonn
 * Refereeing an article for [Computer Physics Communications](https://www.sciencedirect.com/journal/computer-physics-communications), summer 2023
 * Supporting the organization of the conference [Microlocal and Global Analysis, Interactions with Geometry](https://potsdamconference2022.math.uni-potsdam.de/potsdamconference2022/index.html), spring 2022
