@@ -73,8 +73,8 @@ We have decided on the following three main topics, with some additional points 
 ### [April 11](https://www.mpim-bonn.mpg.de/node/12885):
 * Peter Moody: "Little Group Method" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12885)
 
-### April 18:
-* Philip Schwartz
+### [April 18](https://www.mpim-bonn.mpg.de/node/12916):
+* Philip Schwartz: "Teleparallel Newton—Cartan Gravity" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12916)
 
 ### [April 26 (Friday, 11:30 a.m.)](https://www.mpim-bonn.mpg.de/node/12832) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
 * Bernd Sturmfels: "Minimal Kinematics on $\mathcal{M}_{0,n}$" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12832)
