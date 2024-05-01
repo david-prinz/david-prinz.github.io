@@ -24,6 +24,7 @@ If not stated otherwise, we meet Thursdays at 12:00 a.m. in the [MPIM Lecture Ha
 ### [May 2](https://www.mpim-bonn.mpg.de/node/13024):
 * Organizational Meeting for the Summer Term
 
+
 # Spring Term 2024
 
 ## Topics
