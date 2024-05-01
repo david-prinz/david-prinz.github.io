@@ -11,9 +11,20 @@ Organized by David Aretz and myself. Contact: {aretz, prinz}@mpim-bonn.mpg.de
 
 A learning seminar about different topics in Mathematical Physics, broadly around Quantum Field Theory, Algebraic Topology and Differential Geometry. Our meetings are hosted by an assigned speaker, who gives an informal introduction to his topic. Alongside, we will have questions from the audience, which typically lead to a lively discussion.
 
-[Official MPIM seminar webpage](https://www.mpim-bonn.mpg.de/node/12745), this webpage might be more up to date though.
+[Official MPIM seminar webpage](https://www.mpim-bonn.mpg.de/node/12745) and [program overview](https://www.mpim-bonn.mpg.de/node/12745/program).
 
-We meet typically on Thursdays at 11:30 a.m. in the [MPIM Seminar Room](https://www.mpim-bonn.mpg.de/node/4234) (see the exceptions below).
+If not stated otherwise, we meet Thursdays at 12:00 a.m. in the [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444) (see the exceptions below).
+
+
+# Summer Term 2024
+
+
+## Talks
+
+### [May 2](https://www.mpim-bonn.mpg.de/node/13024):
+* Organizational Meeting for the Summer Term
+
+# Spring Term 2024
 
 ## Topics
 
