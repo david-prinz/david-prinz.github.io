@@ -15,7 +15,7 @@ author_profile: true
 
 ## 05/2024
 
-### Participation at Spring School (Max Planck Institute for Mathematics in the Sciences, Leipzig)
+### Participation at Spring School and gong show (Max Planck Institute for Mathematics in the Sciences, Leipzig)
 
 [Combinatorial Algebraic Geometry from Physics](https://www.mis.mpg.de/de/events/series/combinatorial-algebraic-geometry-from-physics)
 
