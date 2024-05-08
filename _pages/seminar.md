@@ -24,6 +24,18 @@ If not stated otherwise, we meet Thursdays at 12:00 a.m. in the [MPIM Lecture Ha
 ### [May 2](https://www.mpim-bonn.mpg.de/node/13024):
 * Organizational Meeting for the Summer Term
 
+### May 9:
+* Public Holiday
+
+### May 16:
+* No meeting, as most of us are traveling
+
+### [May 23](https://www.mpim-bonn.mpg.de/node/13063):
+* Stephan Stolz: "Quantum Observables for Free Fermions With Boundary Conditions" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13063)
+
+### May 30:
+* Public Holiday
+
 
 # Spring Term 2024
 
