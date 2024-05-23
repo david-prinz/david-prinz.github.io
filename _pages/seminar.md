@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /seminar/
-title: "Physical Math Seminar"
+title: "Physical Math Seminar @ MPIM"
 author_profile: true
 ---
 
