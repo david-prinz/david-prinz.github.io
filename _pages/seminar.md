@@ -16,7 +16,7 @@ A seminar about different topics in Mathematical Physics, broadly around Quantum
 If not stated otherwise, we meet Thursdays at 12:00 a.m. in the [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444) (see the exceptions below).
 
 
-# Summer Term 2024: Physical Math Seminar
+# Summer Term 2024
 
 
 ## Talks
@@ -40,7 +40,7 @@ If not stated otherwise, we meet Thursdays at 12:00 a.m. in the [MPIM Lecture Ha
 * Luuk Steehouver: "Zirnbauer vs Freed-Moore equivalence of the 10-fold way"
 
 
-# Spring Term 2024: MPIM Math-Phys Seminar
+# Spring Term 2024
 
 Organized by David Aretz and myself. Contact: {aretz, prinz}@mpim-bonn.mpg.de
 
