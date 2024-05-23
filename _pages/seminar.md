@@ -1,22 +1,22 @@
 ---
 layout: archive
 permalink: /seminar/
-title: "MPIM Math-Phys Seminar"
+title: "Physical Math Seminar"
 author_profile: true
 ---
 
 
 
-Organized by David Aretz and myself. Contact: {aretz, prinz}@mpim-bonn.mpg.de
+Organized by David Aretz, Peter Teichner and myself. Contact: {aretz, prinz, teichner}@mpim-bonn.mpg.de
 
-A learning seminar about different topics in Mathematical Physics, broadly around Quantum Field Theory, Algebraic Topology and Differential Geometry. Our meetings are hosted by an assigned speaker, who gives an informal introduction to his topic. Alongside, we will have questions from the audience, which typically lead to a lively discussion.
+A seminar about different topics in Mathematical Physics, broadly around Quantum Field Theory, Algebraic Topology and Differential Geometry. Our meetings are hosted by an assigned speaker, who gives an informal introduction to his topic. Alongside, we will have questions from the audience, which typically lead to a lively discussion.
 
-[Official MPIM seminar webpage](https://www.mpim-bonn.mpg.de/node/12745) and [program overview](https://www.mpim-bonn.mpg.de/node/12745/program).
+[Official MPIM seminar webpage](https://www.mpim-bonn.mpg.de/node/13069) and [program overview](https://www.mpim-bonn.mpg.de/node/13069/program).
 
 If not stated otherwise, we meet Thursdays at 12:00 a.m. in the [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444) (see the exceptions below).
 
 
-# Summer Term 2024
+# Summer Term 2024: Physical Math Seminar
 
 
 ## Talks
@@ -36,8 +36,15 @@ If not stated otherwise, we meet Thursdays at 12:00 a.m. in the [MPIM Lecture Ha
 ### May 30:
 * Public Holiday
 
+### June 6:
+* Luuk Steehouver: "Zirnbauer vs Freed-Moore equivalence of the 10-fold way"
 
-# Spring Term 2024
+
+# Spring Term 2024: MPIM Math-Phys Seminar
+
+Organized by David Aretz and myself. Contact: {aretz, prinz}@mpim-bonn.mpg.de
+
+[Official MPIM seminar webpage](https://www.mpim-bonn.mpg.de/node/12745) and [program overview](https://www.mpim-bonn.mpg.de/node/12745/program).
 
 ## Topics
 
