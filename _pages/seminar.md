@@ -37,7 +37,7 @@ If not stated otherwise, we meet Thursdays at 12:00 a.m. in the [MPIM Lecture Ha
 * Public Holiday
 
 ### June 6:
-* Luuk Steehouver: "Zirnbauer vs Freed-Moore equivalence of the 10-fold way"
+* Luuk Stehouwer: "Zirnbauer vs Freed-Moore equivalence of the 10-fold way"
 
 
 # Spring Term 2024
