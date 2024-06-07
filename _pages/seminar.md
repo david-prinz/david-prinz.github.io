@@ -18,6 +18,8 @@ If not stated otherwise, we meet Thursdays at 12:00 a.m. in the [MPIM Lecture Ha
 
 # Summer Term 2024
 
+This term, we start by discussion the following [Preprint](https://arxiv.org/abs/2108.13542).
+
 
 ## Talks
 
@@ -33,11 +35,20 @@ If not stated otherwise, we meet Thursdays at 12:00 a.m. in the [MPIM Lecture Ha
 ### [May 23](https://www.mpim-bonn.mpg.de/node/13063):
 * Stephan Stolz: "Quantum Observables for Free Fermions With Boundary Conditions" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13063)
 
-### May 30:
-* Public Holiday
+### [May 31 (special online talk)](https://www.mpim-bonn.mpg.de/node/13107):
+* Simone Noja: "The Geometry of Forms on Supermanifolds" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13107) [-> Zoom](https://eu02web.zoom-x.de/j/62712863739?pwd=qq8p8w4bhWeLVaTpp99oDmMvETsKJO.1)
 
-### June 6:
-* Luuk Stehouwer: "Zirnbauer vs Freed-Moore equivalence of the 10-fold way"
+### [June 6](https://www.mpim-bonn.mpg.de/node/13102):
+* Luuk Stehouwer: "A K-Theoretic Framework for Neutral Fermionic Topological Phases" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13102)
+
+### [June 13](https://www.mpim-bonn.mpg.de/node/13181):
+* [Alessandro Nanto](https://www.mpim-bonn.mpg.de/node/13181): "Spectra, Complex Oriented Cohomology Theories, and Formal Group Laws" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13181)
+
+### [June 20](https://www.mpim-bonn.mpg.de/node/13187):
+* Paolo Tomasini: "A Soft Introduction to TMF" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13187)
+
+### June 27:
+* Peter Teichner: TBA
 
 
 # Spring Term 2024
