@@ -42,10 +42,10 @@ This term, we start by discussion the following [Preprint](https://arxiv.org/abs
 * Luuk Stehouwer: "A K-Theoretic Framework for Neutral Fermionic Topological Phases" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13102)
 
 ### [June 13](https://www.mpim-bonn.mpg.de/node/13181):
-* Alessandro Nanto: "Spectra, Complex Oriented Cohomology Theories, and Formal Group Laws" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13181)
+* Alessandro Nanto: "Spectra, Complex Oriented Cohomology Theories, and Formal Group Laws" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13181) [-> Notes](files/Nanto.pdf)
 
 ### [June 20](https://www.mpim-bonn.mpg.de/node/13187):
-* Paolo Tomasini: "A Soft Introduction to TMF" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13187)
+* Paolo Tomasini: "A Soft Introduction to TMF" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13187) [-> Notes](Tomasini.pdf)
 
 ### June 27:
 * Jonah Epstein: "The Witten Index"
