@@ -47,11 +47,17 @@ This term, we start by discussion the following [Preprint](https://arxiv.org/abs
 ### [June 20](https://www.mpim-bonn.mpg.de/node/13187):
 * Paolo Tomasini: "A Soft Introduction to TMF" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13187) [-> Notes](../files/Tomasini.pdf)
 
-### June 27:
+### [June 27](https://www.mpim-bonn.mpg.de/node/13213):
 * Jonah Epstein: "The Witten Index"
 
+### [July 4](https://www.mpim-bonn.mpg.de/node/13240):
+* Peter Teichner: "How geometric field theories represent (generalized, twisted, equivariant) cohomology classes, part 1"
+
+### July 11:
+* No talk!
+
 ### July 4:
-* Peter Teichner: "An Overview for Global Anomalies"
+* Peter Teichner: "How geometric field theories represent (generalized, twisted, equivariant) cohomology classes, part 2"
 
 
 # Spring Term 2024
