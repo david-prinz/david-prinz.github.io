@@ -51,7 +51,7 @@ This term, we start by discussion the following [Preprint](https://arxiv.org/abs
 * Jonah Epstein: "The Witten Index"
 
 ### [July 4](https://www.mpim-bonn.mpg.de/node/13240):
-* Peter Teichner: "How geometric field theories represent (generalized, twisted, equivariant) cohomology classes, part 1"
+* Peter Teichner: "How geometric field theories represent (generalized, twisted, equivariant) cohomology classes, part 1" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13240)
 
 ### July 11:
 * No talk!
