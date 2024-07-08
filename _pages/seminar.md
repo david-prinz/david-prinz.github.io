@@ -54,9 +54,9 @@ This term, we start by discussion the following [Preprint](https://arxiv.org/abs
 * Peter Teichner: "How geometric field theories represent (generalized, twisted, equivariant) cohomology classes, part 1" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13240)
 
 ### July 11:
-* No talk!
+* No talk! I suggest going to the talk by [Ilya Chevyrev](https://ilyachevyrev.wordpress.com/about-me/) on "Stochastic quantisation of gauge theories" in the [Hausdorff-Kolloquium](https://www.mathematics.uni-bonn.de/hcm/events/hausdorff-colloquium) of the university on Wednesday, July 10, at 15:15.
 
-### July 4:
+### July 18:
 * Peter Teichner: "How geometric field theories represent (generalized, twisted, equivariant) cohomology classes, part 2"
 
 
