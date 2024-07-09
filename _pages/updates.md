@@ -7,6 +7,12 @@ author_profile: true
 
 
 
+## 07/2024
+
+### Co-organization and talk at Workshop
+
+[Combinatorics, Resurgence and Algebraic Geometry in Quantum Field Theory](https://www.mpim-bonn.mpg.de/node/13203)
+
 ## 06/2024
 
 ### Participation and Poster Presentation/Gong Show at Conference (Institut of Advanced Study, Princeton)
