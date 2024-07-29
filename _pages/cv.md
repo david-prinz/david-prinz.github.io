@@ -27,6 +27,7 @@ redirect_from:
 
 ## Academic services
 
+* Co-Organizing the [Workshop on "Combinatorics, Resurgence and Algebraic Geometry in Quantum Field Theory"](https://www.mpim-bonn.mpg.de/node/13203)
 * Organizing the [Physical Math Seminar](https://davidprinz.org/seminar/), see also the [official MPIM website](https://www.mpim-bonn.mpg.de/node/13069)
 * Organizing the [MPIM Math-Phys Seminar](https://davidprinz.org/seminar/), see also the [official MPIM website](https://www.mpim-bonn.mpg.de/node/12745)
 * Organizing regular social events for the math community in Bonn
