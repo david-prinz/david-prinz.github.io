@@ -11,7 +11,7 @@ author_profile: true
 
 ### Co-Organization and talk at Workshop
 
-[Combinatorics, Resurgence and Algebraic Geometry in Quantum Field Theory](https://www.mpim-bonn.mpg.de/node/13203), [program](https://www.mpim-bonn.mpg.de/node/13203/program) and [announcement of my talk](https://www.mpim-bonn.mpg.de/node/13275)
+[Combinatorics, Resurgence and Algebraic Geometry in Quantum Field Theory](https://www.mpim-bonn.mpg.de/node/13203), [conference program](https://www.mpim-bonn.mpg.de/node/13203/program) and [announcement of my talk](https://www.mpim-bonn.mpg.de/node/13275)
 
 ## 06/2024
 
