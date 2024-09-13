@@ -56,8 +56,41 @@ This term, we start by discussion the following [Preprint](https://arxiv.org/abs
 ### July 11:
 * No talk! I suggest going to the talk by [Ilya Chevyrev](https://ilyachevyrev.wordpress.com/about-me/) on "Stochastic quantisation of gauge theories" in the [Hausdorff-Kolloquium](https://www.mathematics.uni-bonn.de/hcm/events/hausdorff-colloquium) of the university on Wednesday, July 10, at 15:15.
 
-### July 18:
-* Peter Teichner: "How geometric field theories represent (generalized, twisted, equivariant) cohomology classes, part 2"
+### [July 18](https://www.mpim-bonn.mpg.de/node/13258):
+* Peter Teichner: "How geometric field theories represent (generalized, twisted, equivariant) cohomology classes, part 2" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13258)
+
+### [July 25](https://www.mpim-bonn.mpg.de/node/13265):
+* Alexey Sevastyanov: "Towards non-perturbative quantization and the mass gap problem for the Yang--Mills Field" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13265)
+
+### [August 7](https://www.mpim-bonn.mpg.de/node/13318):
+* Michael Borinsky: "On the Euler characteristic of the commutative graph complex" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13318)
+
+### [August 8](https://www.mpim-bonn.mpg.de/node/13319):
+* Christian Blohmann: "Multisymplectic structure and homotopy reduction of General Relativity" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13319)
+
+### [August 9](https://www.mpim-bonn.mpg.de/node/13321):
+* Gerald Dunne: "Resurgent Extrapolation and QFT: Mining Perturbation Theory for Non-perturbative Information" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13321)
+
+### [August 12](https://www.mpim-bonn.mpg.de/node/13324):
+* Karen Yeats: "Tubing expansions of Dyson--Schwinger equations" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13324)
+
+### [August 14](https://www.mpim-bonn.mpg.de/node/13325):
+* Ralph Kaufmann: "Connes--Kreimer--Feynman type bialgebras" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13325)
+
+### [August 14, 16:30--18:00](https://www.mpim-bonn.mpg.de/node/13317):
+* David Broadhurst: "Resurgence with quasi-modularity: outperforming Ramanujan" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13317)
+
+### [August 15](https://www.mpim-bonn.mpg.de/node/13327):
+* Søren Galatius: "Hopf algebra structures in the cohomology of moduli spaces" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13327)
+
+### [August 16](https://www.mpim-bonn.mpg.de/node/13328):
+* Karen Vogtmann: "Hidden structure in moduli spaces of graphs" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13328)
+
+### [August 29](https://www.mpim-bonn.mpg.de/node/13409):
+* Final Discussion Round of the QFT Workshop (hosted by myself) [-> Abstract](https://www.mpim-bonn.mpg.de/node/13409)
+
+### [September 5](https://www.mpim-bonn.mpg.de/node/13411):
+* Connor Malin: "A glimpse into Koszul duality for factorization algebras" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13411)
 
 
 # Spring Term 2024
