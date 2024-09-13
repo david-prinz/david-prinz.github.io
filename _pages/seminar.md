@@ -87,7 +87,7 @@ This term, we start by discussion the following [Preprint](https://arxiv.org/abs
 * Karen Vogtmann: "Hidden structure in moduli spaces of graphs" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13328)
 
 ### [August 29](https://www.mpim-bonn.mpg.de/node/13409):
-* Final Discussion Round of the QFT Workshop (hosted by myself) [-> Abstract](https://www.mpim-bonn.mpg.de/node/13409)
+* "Final Discussion Round of the QFT Workshop" (hosted by myself) [-> Abstract](https://www.mpim-bonn.mpg.de/node/13409)
 
 ### [September 5](https://www.mpim-bonn.mpg.de/node/13411):
 * Connor Malin: "A glimpse into Koszul duality for factorization algebras" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13411)
