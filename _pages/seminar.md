@@ -9,7 +9,7 @@ author_profile: true
 
 Organized by [David Aretz](https://guests.mpim-bonn.mpg.de/aretz/), [Peter Teichner](https://people.mpim-bonn.mpg.de/teichner/) and myself. Contact: {aretz, prinz, teichner}@mpim-bonn.mpg.de
 
-A seminar about different topics in Mathematical Physics, broadly around Quantum Field Theory, Algebraic Topology and Differential Geometry. We host research talks as well as pedagogical learning talks. In August 2024, this seminar was combined with the one-month [QFT Workshop](https://www.mpim-bonn.mpg.de/node/13203) that took place at the MPIM. Specifically, on the learning side, we currently aim to understand this [Preprint](https://arxiv.org/abs/2108.13542).
+A seminar about different topics in Mathematical Physics, broadly around Quantum Field Theory, Algebraic Topology and Differential Geometry. We host research talks as well as review talks.
 
 [Official MPIM seminar webpage](https://www.mpim-bonn.mpg.de/node/13069) and [program overview](https://www.mpim-bonn.mpg.de/node/13069/program).
 
@@ -18,6 +18,7 @@ If not stated otherwise, we meet Thursdays at 12:00 a.m. in the [MPIM Lecture Ha
 
 # Summer Term 2024
 
+In August 2024, this seminar was combined with the one-month [QFT Workshop](https://www.mpim-bonn.mpg.de/node/13203) that took place at the MPIM. Currently, we aim to understand this [Preprint](https://arxiv.org/abs/2108.13542) via some appropriate review talks.
 
 ## Talks
 
