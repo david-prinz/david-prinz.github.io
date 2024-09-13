@@ -7,6 +7,15 @@ author_profile: true
 
 
 
+## 09/2024
+
+### Election to be Postdoc Representative at MPIM
+I will serve as a [spokesperson for postdoc related matters at the MPIM](https://www.postdocnet.mpg.de/list-of-external-reps) in the [Postdoc Network of the Max Planck Society](https://www.postdocnet.mpg.de/postdoc-representatives): Please let me know if there is anything which you would like to discuss (it is of course confidential)
+
+### Participation at Workshop
+
+[Mathematical Structures in Scattering Amplitudes](https://www.ggi.infn.it/showevent.pl?id=468) at the [Galileo Galilei Institute for Theoretical Physics](https://www.ggi.infn.it) in Florence
+
 ## 08/2024
 
 ### Co-Organization and talk at Workshop
