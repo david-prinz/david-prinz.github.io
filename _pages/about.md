@@ -18,7 +18,7 @@ Welcome! I am a mathematical physicist working in the area of Quantum Field Theo
 
 ### Topics I have worked on:
 * Renormalization in Quantum Field Theory
-* Quantization of gauge theories and gravity
+* Quantization of Gauge Theories and Gravity
 * Mathematical Relativity
 * Structure of asymptotically flat spacetimes
 
