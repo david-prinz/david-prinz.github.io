@@ -91,6 +91,9 @@ In August 2024, this seminar was combined with the one-month [QFT Workshop](http
 ### [September 5](https://www.mpim-bonn.mpg.de/node/13411):
 * Connor Malin: "A glimpse into Koszul duality for factorization algebras" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13411)
 
+### [September 19](https://www.mpim-bonn.mpg.de/node/13452):
+* Johnny Nicholson: "Simple homotopy types of 4-manifolds" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13452)
+
 
 # Spring Term 2024
 
