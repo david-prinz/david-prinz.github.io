@@ -97,6 +97,9 @@ In August 2024, this seminar was combined with the one-month [QFT Workshop](http
 ### [September 26](https://www.mpim-bonn.mpg.de/node/13471):
 * Owen Gwilliam: "Generalized Global Symmetries and Factorization Homology"
 
+### October 2 (Wednesday, usual time):
+* Ingmar Saberi: TBA
+
 
 # Spring Term 2024
 
