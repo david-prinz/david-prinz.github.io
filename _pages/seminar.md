@@ -94,6 +94,9 @@ In August 2024, this seminar was combined with the one-month [QFT Workshop](http
 ### [September 19](https://www.mpim-bonn.mpg.de/node/13452):
 * Johnny Nicholson: "Simple homotopy types of 4-manifolds" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13452)
 
+### [September 26](https://www.mpim-bonn.mpg.de/node/13471):
+* Owen Gwilliam: "Generalized Global Symmetries and Factorization Homology"
+
 
 # Spring Term 2024
 
