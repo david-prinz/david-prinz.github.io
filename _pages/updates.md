@@ -16,6 +16,10 @@ I will serve as a [spokesperson for postdoc related matters at the MPIM](https:/
 
 [Mathematical Structures in Scattering Amplitudes](https://www.ggi.infn.it/showevent.pl?id=468) at the [Galileo Galilei Institute for Theoretical Physics](https://www.ggi.infn.it) in Florence
 
+### Participation at Conference
+
+[Fishnets: Conformal Field Theories and Feynman Graphs](https://indico.hiskp.uni-bonn.de/event/445/) at the [Bethe Center for Theoretical Physics](https://www.bctp.uni-bonn.de) in Bonn
+
 ## 08/2024
 
 ### Co-Organization and talk at Workshop
