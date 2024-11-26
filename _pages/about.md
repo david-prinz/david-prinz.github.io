@@ -15,7 +15,7 @@ Welcome! I am a mathematical physicist working in the area of Quantum Field Theo
 
 Find my entry in the Mathematics Genealogy Project [here](https://www.mathgenealogy.org/id.php?id=291529).
 
-Currently, I am the [MPIM's postdoc representative](https://www.postdocnet.mpg.de/list-of-external-reps) within the [Max Planck PostdocNet](https://www.postdocnet.mpg.de): Feel free to contact me in case of any institute-related questions or issues (confidentially, of course).
+Currently, I am the [Postdoc Representative of the MPIM](https://www.postdocnet.mpg.de/list-of-external-reps) within the [Max Planck PostdocNet](https://www.postdocnet.mpg.de): Feel free to contact me in case of any institute-related questions or issues (confidentially, of course).
 
 
 ## Research interests
