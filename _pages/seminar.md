@@ -16,7 +16,18 @@ A seminar about different topics in Mathematical Physics, broadly around Quantum
 If not stated otherwise, we meet Thursdays at 12:00 a.m. in the [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444) (see the exceptions below).
 
 
-# Summer Term 2024
+# Spring 2025
+
+Currently, the seminar proceeds mainly via informal discussions in weekly meetings: Please contact me if you are interested to join. Nevertheless, we also occasionally have official talks, which are announced here:
+
+### [Januar 9, 2025](https://www.mpim-bonn.mpg.de/node/13813):
+* Luuk Stehouwer: "The unitary cobordism hypothesis" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13813)
+
+### [Januar 16, 2025](https://www.mpim-bonn.mpg.de/node/13844):
+* Luuk Stehouwer: "The unitary cobordism hypothesis, part 2" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13844)
+
+
+# Summer and Winter Term 2024
 
 In August 2024, this seminar was combined with the one-month [QFT Workshop](https://www.mpim-bonn.mpg.de/node/13203) that took place at the MPIM. Currently, we aim to understand this [Preprint](https://arxiv.org/abs/2108.13542) via some appropriate review talks.
 
@@ -97,8 +108,17 @@ In August 2024, this seminar was combined with the one-month [QFT Workshop](http
 ### [September 26](https://www.mpim-bonn.mpg.de/node/13471):
 * Owen Gwilliam: "Generalized Global Symmetries and Factorization Homology"
 
-### October 2 (Wednesday, usual time):
-* Ingmar Saberi: TBA
+### [October 2 (Wednesday, usual time)](https://www.mpim-bonn.mpg.de/node/13486):
+* Ingmar Saberi: "Local Lie algebras from superconformal structures"
+
+### [November 28](https://www.mpim-bonn.mpg.de/node/13725):
+* Mayuko Yamashita: "Topological Elliptic Genera" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13725)
+
+### [December 3](https://www.mpim-bonn.mpg.de/node/13764):
+* Victor Carmona: "AQFTs vs. Factorization Algebras: toward a higher comparison" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13764)
+
+### [December 5](https://www.mpim-bonn.mpg.de/node/13769):
+* Mayuko Yamashita: "Topological Elliptic Genera, II" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13769)
 
 
 # Spring Term 2024
