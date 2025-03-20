@@ -114,7 +114,7 @@ If not stated otherwise, we meet Thursdays at 12:00 a.m. in the [MPIM Lecture Ha
 ### [November 28](https://www.mpim-bonn.mpg.de/node/13725):
 * Mayuko Yamashita: "Topological Elliptic Genera" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13725)
 
-### [December 3](https://www.mpim-bonn.mpg.de/node/13764):
+### [December 3, Tuesday 11:00--12:30, Seminar Room](https://www.mpim-bonn.mpg.de/node/13764):
 * Victor Carmona: "AQFTs vs. Factorization Algebras: toward a higher comparison" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13764)
 
 ### [December 5](https://www.mpim-bonn.mpg.de/node/13769):
