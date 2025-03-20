@@ -13,12 +13,10 @@ A seminar about different topics in Mathematical Physics, broadly around Quantum
 
 [Official MPIM seminar webpage](https://www.mpim-bonn.mpg.de/node/13069) and [program overview](https://www.mpim-bonn.mpg.de/node/13069/program).
 
-If not stated otherwise, we meet Thursdays at 12:00 a.m. in the [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444) (see the exceptions below).
-
 
 # Spring 2025
 
-Currently, the seminar proceeds mainly via informal discussions in weekly meetings: Please contact me if you are interested to join. Nevertheless, we also occasionally have official talks, which are announced here:
+Currently, the seminar proceeds mainly via informal discussions in weekly meetings: Please [contact me](mailto:prinz@mpim-bonn.mpg.de) if you are interested to join. Nevertheless, we also occasionally have official talks, which are announced here:
 
 ### [Januar 9, 2025](https://www.mpim-bonn.mpg.de/node/13813):
 * Luuk Stehouwer: "The unitary cobordism hypothesis" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13813)
@@ -30,6 +28,8 @@ Currently, the seminar proceeds mainly via informal discussions in weekly meetin
 # Summer and Winter Term 2024
 
 In August 2024, this seminar was combined with the one-month [QFT Workshop](https://www.mpim-bonn.mpg.de/node/13203) that took place at the MPIM. Currently, we aim to understand this [Preprint](https://arxiv.org/abs/2108.13542) via some appropriate review talks.
+
+If not stated otherwise, we meet Thursdays at 12:00 a.m. in the [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444) (see the exceptions below).
 
 ## Talks
 
