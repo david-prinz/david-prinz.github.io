@@ -7,6 +7,44 @@ author_profile: true
 
 
 
+## 04/2025
+
+### Participation and Poster Presentation at Conference
+
+[Quantum Spacetime and the Renormalization Group](https://hyperspace.uni-frankfurt.de/2024/11/18/workshop-quantum-spacetime-and-the-renormalization-group-heidelberg-germany/) at the [University of Heidelberg](https://www.uni-heidelberg.de/de)
+
+## 03/2025
+
+### Article accepted for publication
+
+[The BRST Double Complex for the Coupling of Gravity to Gauge Theories](https://arxiv.org/abs/2206.00780) in [Adv. Theor. Math. Phys.](https://intlpress.com/journals/journalList?p=4&id=1804410812806262786)
+
+### Visitor and Scientific Collaboration
+
+[Dr. Arne Hofmann](https://www.analysis.uni-hannover.de/de/institut/personenverzeichnis/personen-detailansicht/institut-fur-analysis-pkkpg/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter-1-1/dr-arne-hofmann?tx_t3luhepv_t3luhepvoe%5BdisablePersHomepages%5D=0&cHash=5cb97c1e01c3f21f40470277b16bbf66) from the [Leibniz University Hannover](https://www.uni-hannover.de/de/) has been visiting me at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de) for a scientific collaboration
+
+## 02/2025
+
+### Participation and Poster Presentation at Conference
+
+[Statistical Mechanics, Algebra, and Geometry](https://swissmaprs.ch/events/statistical-mechanics-algebra-and-geometry/) at the [(SRS SwissMAP Research Station in Les Diablerets)](https://swissmaprs.ch)
+
+## 01/2025
+
+### Participation and Poster Presentation at Conference
+
+[Winter School in Mathematical Physics 2025](https://swissmaprs.ch/events/winter-school-in-mathematical-physics-2025/) at the [(SRS SwissMAP Research Station in Les Diablerets)](https://swissmaprs.ch)
+
+## 11/2024
+
+### Participation at Workshop
+
+[2024 PostdocNet General Meeting](https://www.postdocnet.mpg.de/2024-general-meeting) at the [MPI for Multidisciplinary Sciences](https://www.mpinat.mpg.de/en) in Göttingen
+
+## 10/2024
+
+### Popular Science talk "Quantum Gravity" at the [MinD-Akademie](https://www.mind-hochschul-netzwerk.de/akademie) of the [MinD-Hochschul-Netzwerk](https://www.mind-hochschul-netzwerk.de), see the timetable [here](https://www.mind-hochschul-netzwerk.de/pluginfile.php/3796/mod_book/chapter/46/Programmplan_2024.pdf?time=1727904425987)
+
 ## 09/2024
 
 ### Election to be Postdoc Representative of the MPIM
@@ -34,7 +72,7 @@ I will serve as a [spokesperson for postdoc related matters at the MPIM](https:/
 
 ## 05/2024
 
-### Participation at Spring School and gong show (Max Planck Institute for Mathematics in the Sciences, Leipzig)
+### Participation at Spring School and Gong Show (Max Planck Institute for Mathematics in the Sciences, Leipzig)
 
 [Combinatorial Algebraic Geometry from Physics](https://www.mis.mpg.de/de/events/series/combinatorial-algebraic-geometry-from-physics)
 
@@ -42,7 +80,7 @@ I will serve as a [spokesperson for postdoc related matters at the MPIM](https:/
 
 ### Visitor and Scientific Collaboration
 
-[Philip Schwartz](https://www.pschwartz.de) from the [Leibnitz University of Hannover](https://www.uni-hannover.de/de/) will visit me at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de) for a scientific collaboration
+[Dr. Philip Schwartz](https://www.pschwartz.de) from the [Leibnitz University of Hannover](https://www.uni-hannover.de/de/) will visit me at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de) for a scientific collaboration
 
 ### Talk and Research Stay (University of Münster)
 
@@ -68,9 +106,9 @@ I will serve as a [spokesperson for postdoc related matters at the MPIM](https:/
 
 ## 01/2024
 
-### Participation and talk at Winter School (SRS SwissMAP Research Station in Les Diablerets)
+### Participation and Talk at Winter School
 
-[2024 Winter School in Mathematical Physics](https://indico.cern.ch/event/1225541/)
+[2024 Winter School in Mathematical Physics](https://indico.cern.ch/event/1225541/) at the [(SRS SwissMAP Research Station in Les Diablerets)](https://swissmaprs.ch)
 
 ## 10/2023
 
