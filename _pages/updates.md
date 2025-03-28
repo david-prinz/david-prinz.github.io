@@ -43,7 +43,9 @@ author_profile: true
 
 ## 10/2024
 
-### Popular Science talk "Quantum Gravity" at the [MinD-Akademie](https://www.mind-hochschul-netzwerk.de/akademie) of the [MinD-Hochschul-Netzwerk](https://www.mind-hochschul-netzwerk.de), see the timetable [here](https://www.mind-hochschul-netzwerk.de/pluginfile.php/3796/mod_book/chapter/46/Programmplan_2024.pdf?time=1727904425987)
+### Popular Science talk
+
+"Quantum Gravity" at the [MinD-Akademie](https://www.mind-hochschul-netzwerk.de/akademie) of the [MinD-Hochschul-Netzwerk](https://www.mind-hochschul-netzwerk.de), see the timetable [here](https://www.mind-hochschul-netzwerk.de/pluginfile.php/3796/mod_book/chapter/46/Programmplan_2024.pdf?time=1727904425987)
 
 ## 09/2024
 
