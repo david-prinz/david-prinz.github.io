@@ -27,13 +27,13 @@ author_profile: true
 
 ### Participation and Poster Presentation at Conference
 
-[Statistical Mechanics, Algebra, and Geometry](https://swissmaprs.ch/events/statistical-mechanics-algebra-and-geometry/) at the [(SRS SwissMAP Research Station in Les Diablerets)](https://swissmaprs.ch)
+[Statistical Mechanics, Algebra, and Geometry](https://swissmaprs.ch/events/statistical-mechanics-algebra-and-geometry/) at the [SRS SwissMAP Research Station in Les Diablerets](https://swissmaprs.ch)
 
 ## 01/2025
 
 ### Participation and Poster Presentation at Conference
 
-[Winter School in Mathematical Physics 2025](https://swissmaprs.ch/events/winter-school-in-mathematical-physics-2025/) at the [(SRS SwissMAP Research Station in Les Diablerets)](https://swissmaprs.ch)
+[Winter School in Mathematical Physics 2025](https://swissmaprs.ch/events/winter-school-in-mathematical-physics-2025/) at the [SRS SwissMAP Research Station in Les Diablerets](https://swissmaprs.ch)
 
 ## 11/2024
 
@@ -110,7 +110,7 @@ I will serve as a [spokesperson for postdoc related matters at the MPIM](https:/
 
 ### Participation and Talk at Winter School
 
-[2024 Winter School in Mathematical Physics](https://indico.cern.ch/event/1225541/) at the [(SRS SwissMAP Research Station in Les Diablerets)](https://swissmaprs.ch)
+[2024 Winter School in Mathematical Physics](https://indico.cern.ch/event/1225541/) at the [SRS SwissMAP Research Station in Les Diablerets](https://swissmaprs.ch)
 
 ## 10/2023
 
