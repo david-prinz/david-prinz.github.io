@@ -27,6 +27,7 @@ redirect_from:
 
 ## Academic services
 
+* Serving as [Postdoc Representative of the MPIM](https://www.postdocnet.mpg.de/list-of-external-reps) within the [Max Planck PostdocNet](https://www.postdocnet.mpg.de)
 * Co-Organizing the [Workshop on "Combinatorics, Resurgence and Algebraic Geometry in Quantum Field Theory"](https://www.mpim-bonn.mpg.de/node/13203)
 * Organizing the [Physical Math Seminar](https://davidprinz.org/seminar/), see also the [official MPIM website](https://www.mpim-bonn.mpg.de/node/13069)
 * Organizing the [MPIM Math-Phys Seminar](https://davidprinz.org/seminar/), see also the [official MPIM website](https://www.mpim-bonn.mpg.de/node/12745)
