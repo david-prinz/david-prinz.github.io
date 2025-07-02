@@ -6,6 +6,21 @@ author_profile: true
 ---
 
 
+## 08/2025
+
+### Participation at Conference
+[Conference in Memory of Yuri Manin](https://www.mpim-bonn.mpg.de/maninmemorial) at the [MPIM Bonn](https://www.mpim-bonn.mpg.de)
+
+## 07/2025
+
+### Participation at Conference
+[Workshop on Quantum Field Theory and Topological Phases via Homotopy Theory and Operator Algebras](https://www.mpim-bonn.mpg.de/qft25) at the [MPIM Bonn](https://www.mpim-bonn.mpg.de)
+
+## 06/2025
+
+### Participation and Gong Show Talk at Conference
+
+[Summer School on Topological Symmetries and Defects in Quantum Field Theory](https://swissmaprs.ch/events/2025-scgcs-school-topological-symmetries-and-defects-in-quantum-field-theory-workshop-school/) at the [SRS SwissMAP Research Station in Les Diablerets](https://swissmaprs.ch)
 
 ## 04/2025
 
