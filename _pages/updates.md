@@ -6,6 +6,24 @@ author_profile: true
 ---
 
 
+## 11/2025
+
+### Participation at Conference
+[Kickoff Meeting DFG Research Unit: Modern Foundations of Scattering Amplitudes](https://indico.hiskp.uni-bonn.de/event/973/) at the [Bethe Center for Theoretical Physics](https://www.bctp.uni-bonn.de) in Bonn
+
+## 10/2025
+
+### Participation at Conference
+[Chow Lectures 2025 by Nima Arkani-Hamed](https://www.mis.mpg.de/events/series/chow-lectures-2025) "Geometry and Combinatorics of Scattering Amplitudes" at the [MPI for Mathematics in the Sciences, Leipzig](https://www.mis.mpg.de)
+
+## 09/2025
+
+### Participation at Conference
+[Gauge Summer with BV](https://sites.google.com/view/konstantinwernli/activities/gauge-summer-with-bv-2025) in Scalea, Italy
+
+### Participation at Conference
+[Elliptics and Beyond '25](https://indico.hiskp.uni-bonn.de/event/833/) at the [Bethe Center for Theoretical Physics](https://www.bctp.uni-bonn.de) in Bonn
+
 ## 08/2025
 
 ### Participation at Conference
