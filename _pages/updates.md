@@ -13,7 +13,7 @@ author_profile: true
 
 ## 10/2025
 
-### Participation at Conference
+### Participation and Poster Presentation at Conference
 [Chow Lectures 2025 by Nima Arkani-Hamed](https://www.mis.mpg.de/events/series/chow-lectures-2025) "Geometry and Combinatorics of Scattering Amplitudes" at the [MPI for Mathematics in the Sciences, Leipzig](https://www.mis.mpg.de)
 
 ## 09/2025
