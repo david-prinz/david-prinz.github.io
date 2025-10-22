@@ -13,6 +13,9 @@ author_profile: true
 
 ## 10/2025
 
+### Article accepted for publication
+[Symmetric Ghost Lagrange Densities for the Coupling of Gravity to Gauge Theories](https://arxiv.org/abs/2207.07593) in [Adv. High Energy Phys.](https://onlinelibrary.wiley.com/journal/1682)
+
 ### Participation and Poster Presentation at Conference
 [Chow Lectures 2025 by Nima Arkani-Hamed](https://www.mis.mpg.de/events/series/chow-lectures-2025) "Geometry and Combinatorics of Scattering Amplitudes" at the [MPI for Mathematics in the Sciences, Leipzig](https://www.mis.mpg.de)
 
@@ -37,47 +40,39 @@ author_profile: true
 ## 06/2025
 
 ### Participation and Gong Show Talk at Conference
-
 [Summer School on Topological Symmetries and Defects in Quantum Field Theory](https://swissmaprs.ch/events/2025-scgcs-school-topological-symmetries-and-defects-in-quantum-field-theory-workshop-school/) at the [SRS SwissMAP Research Station in Les Diablerets](https://swissmaprs.ch)
 
 ## 04/2025
 
 ### Participation and Poster Presentation at Conference
-
 [Quantum Spacetime and the Renormalization Group](https://hyperspace.uni-frankfurt.de/2024/11/18/workshop-quantum-spacetime-and-the-renormalization-group-heidelberg-germany/) at the [University of Heidelberg](https://www.uni-heidelberg.de/de)
 
 ## 03/2025
 
 ### Article accepted for publication
-
 [The BRST Double Complex for the Coupling of Gravity to Gauge Theories](https://arxiv.org/abs/2206.00780) in [Adv. Theor. Math. Phys.](https://intlpress.com/journals/journalList?p=4&id=1804410812806262786)
 
 ### Visitor and Scientific Collaboration
-
 [Dr. Arne Hofmann](https://www.analysis.uni-hannover.de/de/institut/personenverzeichnis/personen-detailansicht/institut-fur-analysis-pkkpg/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter-1-1/dr-arne-hofmann?tx_t3luhepv_t3luhepvoe%5BdisablePersHomepages%5D=0&cHash=5cb97c1e01c3f21f40470277b16bbf66) from the [Leibniz University Hannover](https://www.uni-hannover.de/de/) has been visiting me at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de) for a scientific collaboration
 
 ## 02/2025
 
 ### Participation and Poster Presentation at Conference
-
 [Statistical Mechanics, Algebra, and Geometry](https://swissmaprs.ch/events/statistical-mechanics-algebra-and-geometry/) at the [SRS SwissMAP Research Station in Les Diablerets](https://swissmaprs.ch)
 
 ## 01/2025
 
 ### Participation and Poster Presentation at Conference
-
 [Winter School in Mathematical Physics 2025](https://swissmaprs.ch/events/winter-school-in-mathematical-physics-2025/) at the [SRS SwissMAP Research Station in Les Diablerets](https://swissmaprs.ch)
 
 ## 11/2024
 
 ### Participation at Workshop
-
 [2024 PostdocNet General Meeting](https://www.postdocnet.mpg.de/2024-general-meeting) at the [MPI for Multidisciplinary Sciences](https://www.mpinat.mpg.de/en) in Göttingen
 
 ## 10/2024
 
 ### Popular Science talk
-
 "Quantum Gravity" at the [MinD-Akademie](https://www.mind-hochschul-netzwerk.de/akademie) of the [MinD-Hochschul-Netzwerk](https://www.mind-hochschul-netzwerk.de), see the timetable [here](https://www.mind-hochschul-netzwerk.de/pluginfile.php/3796/mod_book/chapter/46/Programmplan_2024.pdf?time=1727904425987)
 
 ## 09/2024
@@ -86,91 +81,74 @@ author_profile: true
 I will serve as a [spokesperson for postdoc related matters at the MPIM](https://www.postdocnet.mpg.de/list-of-external-reps) in the [Postdoc Network of the Max Planck Society](https://www.postdocnet.mpg.de/postdoc-representatives): Please let me know if there is anything which you would like to discuss (it is of course confidential)
 
 ### Participation at Workshop
-
 [Mathematical Structures in Scattering Amplitudes](https://www.ggi.infn.it/showevent.pl?id=468) at the [Galileo Galilei Institute for Theoretical Physics](https://www.ggi.infn.it) in Florence
 
 ### Participation at Conference
-
 [Fishnets: Conformal Field Theories and Feynman Graphs](https://indico.hiskp.uni-bonn.de/event/445/) at the [Bethe Center for Theoretical Physics](https://www.bctp.uni-bonn.de) in Bonn
 
 ## 08/2024
 
 ### Co-Organization and talk at Workshop
-
 [Combinatorics, Resurgence and Algebraic Geometry in Quantum Field Theory](https://www.mpim-bonn.mpg.de/node/13203), [conference program](https://www.mpim-bonn.mpg.de/node/13203/program) and [announcement of my talk](https://www.mpim-bonn.mpg.de/node/13275)
 
 ## 06/2024
 
 ### Participation and Poster Presentation/Gong Show at Conference (Institut of Advanced Study, Princeton)
-
 [Amplitudes 2024 Conference and Summer School](https://www.ias.edu/amplitudes2024)
 
 ## 05/2024
 
 ### Participation at Spring School and Gong Show (Max Planck Institute for Mathematics in the Sciences, Leipzig)
-
 [Combinatorial Algebraic Geometry from Physics](https://www.mis.mpg.de/de/events/series/combinatorial-algebraic-geometry-from-physics)
 
 ## 04/2024
 
 ### Visitor and Scientific Collaboration
-
 [Dr. Philip Schwartz](https://www.pschwartz.de) from the [Leibnitz University of Hannover](https://www.uni-hannover.de/de/) will visit me at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de) for a scientific collaboration
 
 ### Talk and Research Stay (University of Münster)
-
 [Official announcement](https://www.uni-muenster.de/Physik.TP/en/teaching/courses/research_seminar_quantum_field_theory_ss2024.html) and scientific collaboration with [Dr Johannes Thüringen](https://www.uni-muenster.de/FB10/Service/show_perspage.shtml?id=1408)
 
 ### Co-Supervision of Doctoral Student
-
 [Jonah Epstein](https://www.mpim-bonn.mpg.de/peoplelist?pltype=0&plcount=0&plgroup=graduates&plkeyword=Epstein) starts his doctoral studies at [University of Bonn](https://www.uni-bonn.de/de), which I will co-supervise together with [Prof Albrecht Klemm](http://www.th.physik.uni-bonn.de/Groups/Klemm/)
 
 ## 02/2024
 
 ### Talk in Learning Seminar (Max Planck Institute for Mathematics, Bonn)
-
 [MPIM Math-Phys Seminar](https://davidprinz.org/seminar/)
 
 ### Participation and Talk at Conference (Max Planck Institute for Mathematics in the Sciences, Leipzig)
-
 [Positive Geometry in Particle Physics and Cosmology](https://www.mis.mpg.de/events/series/positive-geometry-in-particle-physics-and-cosmology)
 
 ### Organization of Seminar
-
 [MPIM Math-Phys Seminar](https://davidprinz.org/seminar/) together with David Aretz
 
 ## 01/2024
 
 ### Participation and Talk at Winter School
-
 [2024 Winter School in Mathematical Physics](https://indico.cern.ch/event/1225541/) at the [SRS SwissMAP Research Station in Les Diablerets](https://swissmaprs.ch)
 
 ## 10/2023
 
 ### Participation at conference (University of Bonn)
-
 [Panorama of Mathematics II](https://www.hcm.uni-bonn.de/events/eventpages/2023/panorama2/), find me in the [Mood video](https://youtu.be/w9fQUvXn3hQ) at [0:32](https://youtu.be/w9fQUvXn3hQ&t=32), while asking a question to [Martin Hairer](https://www.hairer.org)
 
 ## 09/2023
 
 ### Supervising MPIM Interns
-
 I am conducting a small research project with students from the [Mathematik-Olympiade](https://www.mathematik-olympiaden.de) at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de)
 
 ## 08/2023
 
 ### Talk at MPIM Oberseminar, August 31
-
 I will speak about ["Renormalization of Gauge Theories and Gravity"](https://www.mpim-bonn.mpg.de/de/node/12415), please [let me know](mailto:prinz@mpim-bonn.mpg.de) if you want to participate
 
 ### Visitor and Scientific Collaboration
-
 [Arne Hofmann](https://www.studip.uni-goettingen.de/extern.php?module=Persondetails&config_id=897b155b5389e37c6d7cb8eda9833d46&range_id=db66fd7fdd6564055fadd6873d86b790&username=hofmann12&seminar_id=ea2ad126dc58374bf3ce47c6d38be5a9) from the [University of Göttingen](https://www.uni-goettingen.de) has been visiting me at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de) for a scientific collaboration
 
 ## 07/2023
 
 ### Participation and poster at conference (University of Warsaw)
-
 [School of General Relativity, Astrophysics and Cosmology](https://indico2.fuw.edu.pl/event/5/)
 
 ## 06/2023

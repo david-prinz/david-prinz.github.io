@@ -21,11 +21,11 @@ D. Prinz, [arXiv:2303.14160 [hep-th]](https://arxiv.org/abs/2303.14160)
 ### Transversality in the Coupling of Gravity to Gauge Theories
 D. Prinz, [arXiv:2208.14166 [hep-th]](https://arxiv.org/abs/2208.14166)
 
-### Symmetric Ghost Lagrange Densities for the Coupling of Gravity to Gauge Theories
-D. Prinz, [arXiv:2207.07593 [hep-th]](https://arxiv.org/abs/2207.07593)
-
 
 ## Journal articles
+
+### Symmetric Ghost Lagrange Densities for the Coupling of Gravity to Gauge Theories
+D. Prinz, [arXiv:2207.07593 [hep-th]](https://arxiv.org/abs/2207.07593), accepted for publication in [Adv. High Energy Phys.](https://onlinelibrary.wiley.com/journal/1682)
 
 ### The BRST Double Complex for the Coupling of Gravity to Gauge Theories
 D. Prinz, [arXiv:2206.00780 [hep-th]](https://arxiv.org/abs/2206.00780), accepted for publication in [Adv. Theor. Math. Phys.](https://intlpress.com/journals/journalList?p=4&id=1804410812806262786)
