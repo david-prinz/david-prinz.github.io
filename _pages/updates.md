@@ -13,6 +13,9 @@ author_profile: true
 
 ## 10/2025
 
+### Visitor and Scientific Collaboration
+[Dr. Filippo Fila-Robattino](https://www.math.uzh.ch/en/people?key1=33315&L=1) from the [University of Zurich](https://www.uzh.ch/en.html) will visit me at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de) for a scientific collaboration
+
 ### Article accepted for publication
 [Symmetric Ghost Lagrange Densities for the Coupling of Gravity to Gauge Theories](https://arxiv.org/abs/2207.07593) in [Adv. High Energy Phys.](https://onlinelibrary.wiley.com/journal/1682)
 
