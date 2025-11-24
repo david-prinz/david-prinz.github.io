@@ -28,7 +28,7 @@ D. Prinz, [arXiv:2208.14166 [hep-th]](https://arxiv.org/abs/2208.14166)
 D. Prinz, [arXiv:2207.07593 [hep-th]](https://arxiv.org/abs/2207.07593), accepted for publication in [Adv. High Energy Phys.](https://onlinelibrary.wiley.com/journal/1682)
 
 ### The BRST Double Complex for the Coupling of Gravity to Gauge Theories
-D. Prinz, [arXiv:2206.00780 [hep-th]](https://arxiv.org/abs/2206.00780), accepted for publication in [Adv. Theor. Math. Phys.](https://intlpress.com/journals/journalList?p=4&id=1804410812806262786)
+D. Prinz, [Adv.Theor.Math.Phys. 29 (2025) 7, 2005-2045](https://link.intlpress.com/JDetail/1991244996424151042), [arXiv:2206.00780 [hep-th]](https://arxiv.org/abs/2206.00780)
 
 ### Gauge Symmetries and Renormalization
 D. Prinz, [Math. Phys. Anal. Geom. 25 (2022) 3, 20](https://link.springer.com/article/10.1007/s11040-022-09423-8), [arXiv:2001.00104 [math-ph]](https://arxiv.org/abs/2001.00104)

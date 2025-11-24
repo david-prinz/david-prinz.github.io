@@ -8,6 +8,9 @@ author_profile: true
 
 ## 11/2025
 
+### Article published
+[The BRST Double Complex for the Coupling of Gravity to Gauge Theories](https://link.intlpress.com/JDetail/1991244996424151042)
+
 ### Participation at Conference
 [Kickoff Meeting DFG Research Unit: Modern Foundations of Scattering Amplitudes](https://indico.hiskp.uni-bonn.de/event/973/) at the [Bethe Center for Theoretical Physics](https://www.bctp.uni-bonn.de) in Bonn
 
