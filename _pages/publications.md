@@ -15,6 +15,9 @@ D. Prinz, [Humboldt University of Berlin (2022)](https://edoc.hu-berlin.de/18452
 
 ## Preprints
 
+### Cancellation Identities and Renormalization
+D. Prinz, [arXiv:2512.02253 [math-ph]](https://arxiv.org/abs/2512.02253)
+
 ### On Perturbative Quantum Gravity with a Cosmological Constant
 D. Prinz, [arXiv:2303.14160 [hep-th]](https://arxiv.org/abs/2303.14160)
 
