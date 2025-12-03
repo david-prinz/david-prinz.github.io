@@ -13,6 +13,15 @@ author_profile: true
 D. Prinz, [Humboldt University of Berlin (2022)](https://edoc.hu-berlin.de/18452/26190), [arXiv:2210.17510 [hep-th]](https://arxiv.org/abs/2210.17510)
 
 
+## In preparation
+
+### Multiplicative Renormalization in Causal Perturbation Theory
+J. Epstein, A. Hofmann and D. Prinz; expected 12/2025
+
+### Lie Group Contractions via Infinite-Dimensional Lie Theory
+D. Prinz, A. Schmeding and P. Schwartz; expected 12/2025
+
+
 ## Preprints
 
 ### Cancellation Identities and Renormalization
