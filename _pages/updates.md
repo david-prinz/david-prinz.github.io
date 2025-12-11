@@ -9,6 +9,9 @@ author_profile: true
 ## 12/2025
 
 ### New Preprint online
+[Multiplicative Renormalization in Causal Perturbation Theory](https://arxiv.org/abs/2512.09918)
+
+### New Preprint online
 [Cancellation Identities and Renormalization](https://arxiv.org/abs/2512.02253)
 
 ## 11/2025
