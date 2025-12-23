@@ -13,13 +13,10 @@ author_profile: true
 D. Prinz, [Humboldt University of Berlin (2022)](https://edoc.hu-berlin.de/18452/26190), [arXiv:2210.17510 [hep-th]](https://arxiv.org/abs/2210.17510)
 
 
-## In preparation
-
-### Lie Group Contractions via Infinite-Dimensional Lie Theory
-D. Prinz & A. Schmeding & P. Schwartz; expected 12/2025
-
-
 ## Preprints
+
+### Group Contractions via Infinite-Dimensional Lie Theory
+D. Prinz & A. Schmeding & P. Schwartz, [arXiv:2512.18530 [math-ph]](https://arxiv.org/abs/2512.18530)
 
 ### Multiplicative Renormalization in Causal Perturbation Theory
 J. Epstein & A. Hofmann & D. Prinz, [arXiv:2512.09918 [math-ph]](https://arxiv.org/abs/2512.09918)
