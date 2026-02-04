@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 
+## 01/2026
+
+### Participation and Poster Presentation at Conference
+[Winter School in Mathematical Physics 2026](https://swissmaprs.ch/events/winter-school-in-mathematical-physics-2026/) at the [SRS SwissMAP Research Station in Les Diablerets](https://swissmaprs.ch)
+
 ## 12/2025
 
 ### New Preprint online
