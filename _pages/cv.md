@@ -11,7 +11,7 @@ redirect_from:
 
 ## Employment
 
-* [Lamarr Institute](https://lamarr-institute.org), Lamarr Fellow in the group of [Prof Flek](https://caisa-lab.github.io/members/lucie-flek.html), starting 05/2026
+* [Lamarr Institute](https://lamarr-institute.org), Lamarr Fellow in the group of [Prof Flek](https://caisa-lab.github.io/members/lucie-flek.html), 05/2026--07/2026
 * [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de), Postdoctoral Fellow and Postdoc Representative, 04/2023--04/2026
 * [Riemann Center for Geometry and Physics](https://www.rc.uni-hannover.de/en/), Riemann Fellow in the group of [Prof Giulini](https://www.itp.uni-hannover.de/de/ag/giulini/), 01/2023--03/2023
 * [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam), Academic Assistant in the group of [Prof Paycha](https://www.math.uni-potsdam.de/~paycha/paycha/Home.html), 08/2021--02/2022
