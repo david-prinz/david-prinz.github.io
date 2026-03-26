@@ -14,7 +14,7 @@ Find me in the background of the [official video of Uni Bonn](https://youtu.be/4
 ## 02/2026
 
 ### Obtained Lamarr fellowship
-I have obtained a [Lamarr fellowship](https://lamarr-institute.org/lamarr-fellowship/) to work with [Prof Flek](https://caisa-lab.github.io/members/lucie-flek.html) and her group this summer
+I have obtained a [Lamarr fellowship](https://lamarr-institute.org/lamarr-fellowship/) to work with [Prof Flek](https://caisa-lab.github.io/members/lucie-flek.html) and her group this summer at [Uni Bonn](https://www.uni-bonn.de/en/home?set_language=en)
 
 ## 01/2026
 
