@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 
+## 02/2026
+
+### Obtained Lamarr fellowship
+I have obtained a [Lamarr fellowship](https://lamarr-institute.org/lamarr-fellowship/) to work with [Prof Flek](https://caisa-lab.github.io/members/lucie-flek.html) and her group this summer
+
 ## 01/2026
 
 ### Participation and Poster Presentation at Conference
