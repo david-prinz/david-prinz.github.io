@@ -8,7 +8,8 @@ author_profile: true
 
 ## 03/2026
 
-### Gerd Faltings wins the Abel Prize 2026, find me in the background of the [official video of Uni Bonn](https://youtu.be/4TBAhKCJ27E)
+### Gerd Faltings wins the Abel Prize 2026
+Find me in the background of the [official video of Uni Bonn](https://youtu.be/4TBAhKCJ27E)
 
 ## 02/2026
 
