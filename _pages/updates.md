@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 
+## 05/2026
+
+### Article accepted for publication
+[Group Contractions via Infinite-Dimensional Lie Theory](https://arxiv.org/abs/2512.18530) in [J. Geom. Phys.](https://www.sciencedirect.com/journal/journal-of-geometry-and-physics)
+
+### Lamarr fellowship started
+I started my [Lamarr fellowship](https://lamarr-institute.org/lamarr-fellowship/) on the intersection of math, physics and AI/ML at [Uni Bonn](https://www.uni-bonn.de/en/home?set_language=en)
+
 ## 03/2026
 
 ### Gerd Faltings wins the Abel Prize 2026
@@ -44,9 +52,6 @@ I have obtained a [Lamarr fellowship](https://lamarr-institute.org/lamarr-fellow
 
 ### Visitor and Scientific Collaboration
 [Dr. Filippo Fila-Robattino](https://www.math.uzh.ch/en/people?key1=33315&L=1) from the [University of Zurich](https://www.uzh.ch/en.html) will visit me at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de) for a scientific collaboration
-
-### Article accepted for publication
-[Symmetric Ghost Lagrange Densities for the Coupling of Gravity to Gauge Theories](https://arxiv.org/abs/2207.07593) in [Adv. High Energy Phys.](https://onlinelibrary.wiley.com/journal/1682)
 
 ### Participation and Poster Presentation at Conference
 [Chow Lectures 2025 by Nima Arkani-Hamed](https://www.mis.mpg.de/events/series/chow-lectures-2025) "Geometry and Combinatorics of Scattering Amplitudes" at the [MPI for Mathematics in the Sciences, Leipzig](https://www.mis.mpg.de)
