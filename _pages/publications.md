@@ -15,9 +15,6 @@ D. Prinz, [Humboldt University of Berlin (2022)](https://edoc.hu-berlin.de/18452
 
 ## Preprints
 
-### Group Contractions via Infinite-Dimensional Lie Theory
-D. Prinz & A. Schmeding & P. Schwartz, [arXiv:2512.18530 [math-ph]](https://arxiv.org/abs/2512.18530)
-
 ### Multiplicative Renormalization in Causal Perturbation Theory
 J. Epstein & A. Hofmann & D. Prinz, [arXiv:2512.09918 [math-ph]](https://arxiv.org/abs/2512.09918)
 
@@ -35,6 +32,9 @@ D. Prinz, [arXiv:2207.07593 [hep-th]](https://arxiv.org/abs/2207.07593)
 
 
 ## Journal articles
+
+### Group Contractions via Infinite-Dimensional Lie Theory
+D. Prinz & A. Schmeding & P. Schwartz, [arXiv:2512.18530 [math-ph]](https://arxiv.org/abs/2512.18530), accepted for publication in [Journal of Geometry and Physics](https://www.sciencedirect.com/journal/journal-of-geometry-and-physics)
 
 ### The BRST Double Complex for the Coupling of Gravity to Gauge Theories
 D. Prinz, [Adv. Theor. Math. Phys. 29 (2025) 7, 2005-2045](https://link.intlpress.com/JDetail/1991244996424151042), [arXiv:2206.00780 [hep-th]](https://arxiv.org/abs/2206.00780)
