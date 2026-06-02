@@ -61,8 +61,8 @@ I have obtained a [Lamarr fellowship](https://lamarr-institute.org/lamarr-fellow
 ### Visitor and Scientific Collaboration
 [Dr. Filippo Fila-Robattino](https://www.math.uzh.ch/en/people?key1=33315&L=1) from the [University of Zurich](https://www.uzh.ch/en.html) will visit me at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de) for a scientific collaboration
 
-### Image Film of Uni Bonn / Hausdorff School of Mathematics
-Find me in the [Image Film](https://youtu.be/WxXn31ayzzY) of Uni Bonn / Hausdorff School of Mathematics
+### Image Film of Uni Bonn & Hausdorff School of Mathematics
+Find me in the [Image Film](https://youtu.be/WxXn31ayzzY) of Uni Bonn & Hausdorff School of Mathematics
 
 ### Participation and Poster Presentation at Conference
 [Chow Lectures 2025 by Nima Arkani-Hamed](https://www.mis.mpg.de/events/series/chow-lectures-2025) "Geometry and Combinatorics of Scattering Amplitudes" at the [MPI for Mathematics in the Sciences, Leipzig](https://www.mis.mpg.de)
