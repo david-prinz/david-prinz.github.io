@@ -6,10 +6,15 @@ author_profile: true
 ---
 
 
-## 05/2026
+## 06/2026
+
+### Math meets Music Event at MPIM
+I will play together with [Liza Schonlau](https://www.mathematics.uni-bonn.de/hsm-school/new-at-hsm/liza-schonlau) at the [June Math meets Music Event](https://www.mpim-bonn.mpg.de/MmM) at the MPIM
 
 ### Article accepted for publication
 [Group Contractions via Infinite-Dimensional Lie Theory](https://arxiv.org/abs/2512.18530) in [J. Geom. Phys.](https://www.sciencedirect.com/journal/journal-of-geometry-and-physics)
+
+## 05/2026
 
 ### Lamarr fellowship started
 I started my [Lamarr fellowship](https://lamarr-institute.org/lamarr-fellowship/) on the intersection of math, physics and AI/ML at [Uni Bonn](https://www.uni-bonn.de/en/home?set_language=en)
@@ -20,6 +25,9 @@ I started my [Lamarr fellowship](https://lamarr-institute.org/lamarr-fellowship/
 Find me in the background of the [official video of Uni Bonn](https://youtu.be/4TBAhKCJ27E)
 
 ## 02/2026
+
+### Math meets Music Event at MPIM
+I will play at the [February Math meets Music Event](https://www.mpim-bonn.mpg.de/MmM) at the MPIM
 
 ### Obtained Lamarr fellowship
 I have obtained a [Lamarr fellowship](https://lamarr-institute.org/lamarr-fellowship/) to work with [Prof Flek](https://caisa-lab.github.io/members/lucie-flek.html) and her group this summer at [Uni Bonn](https://www.uni-bonn.de/en/home?set_language=en)
