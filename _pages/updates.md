@@ -12,7 +12,7 @@ author_profile: true
 I will play together with [Liza Schonlau](https://www.mathematics.uni-bonn.de/hsm-school/new-at-hsm/liza-schonlau) at the [June Math meets Music Event](https://www.mpim-bonn.mpg.de/MmM) at the MPIM
 
 ### Article accepted for publication
-[Group Contractions via Infinite-Dimensional Lie Theory](https://arxiv.org/abs/2512.18530) in [J. Geom. Phys.](https://www.sciencedirect.com/journal/journal-of-geometry-and-physics)
+[Group Contractions via Infinite-Dimensional Lie Theory](https://arxiv.org/abs/2512.18530) in [J. Geom. Phys.](https://www.sciencedirect.com/journal/journal-of-geometry-and-physics), see [here for the prepublished version](https://www.sciencedirect.com/science/article/pii/S0393044026001440)
 
 ## 05/2026
 
