@@ -34,7 +34,7 @@ D. Prinz, [arXiv:2207.07593 [hep-th]](https://arxiv.org/abs/2207.07593)
 ## Journal articles
 
 ### Group Contractions via Infinite-Dimensional Lie Theory
-D. Prinz & A. Schmeding & P. Schwartz, [arXiv:2512.18530 [math-ph]](https://arxiv.org/abs/2512.18530), accepted for publication in [J. Geom. Phys.](https://www.sciencedirect.com/journal/journal-of-geometry-and-physics), see [here for the prepublished version](https://www.sciencedirect.com/science/article/pii/S0393044026001440)
+D. Prinz & A. Schmeding & P. Schwartz, [J. Geom. Phys. 228 (2026) 105894](https://www.sciencedirect.com/science/article/pii/S0393044026001440), [arXiv:2512.18530 [math-ph]](https://arxiv.org/abs/2512.18530)
 
 ### The BRST Double Complex for the Coupling of Gravity to Gauge Theories
 D. Prinz, [Adv. Theor. Math. Phys. 29 (2025) 7, 2005-2045](https://link.intlpress.com/JDetail/1991244996424151042), [arXiv:2206.00780 [hep-th]](https://arxiv.org/abs/2206.00780)
