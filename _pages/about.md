@@ -23,7 +23,7 @@ Find my entry in the Mathematics Genealogy Project [here](https://www.mathgeneal
 * Quantization of Gauge Theories and Gravity (BV-BRST Formalism)
 * Algebraic Quantum Field Theory (Extension of Distributions via Epstein--Glaser Renormalization)
 * Structure of Asymptotically Flat Spacetimes (Penrose Compactifications, BMS & NU Groups)
-* Group Contractions (Lie Theory, İnönü--Wigner Construction)
+* Group Contractions (Lie Theory, Inönü--Wigner Construction)
 
 ### Mathematical Foundations of Machine Learning:
 * Geometric Deep Learning
