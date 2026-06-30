@@ -18,17 +18,17 @@ Find my entry in the Mathematics Genealogy Project [here](https://www.mathgeneal
 
 ## Research interests
 
-### Topics I have worked on:
-* Renormalization in Quantum Field Theory
-* Quantization of Gauge Theories and Gravity
-* Mathematical Relativity
-* Structure of asymptotically flat spacetimes
+### Mathematical Physics:
+* Renormalization in Quantum Field Theory (Connes--Kreimer Framework)
+* Quantization of Gauge Theories and Gravity (BV-BRST Formalism)
+* Algebraic Quantum Field Theory (Extension of Distributions via Epstein--Glaser Renormalization)
+* Structure of Asymptotically Flat Spacetimes (Penrose Compactifications, BMS & NU Groups)
+* Group Contractions (Lie Theory, Inönü--Wigner Construction)
 
-### Topics I am keen to learn:
-* Algebraic Quantum Field Theory
-* BV formalism
-* Deformation quantization
-* Noncommutative geometry
+### Mathematical Foundations of Machine Learning:
+* Geometric Deep Learning
+* LLM Reasoning
+* Statistical Mechanics of Learning
 
 
 ## You can find my articles here:
