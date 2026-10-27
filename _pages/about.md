@@ -40,6 +40,7 @@ Find my entry in the Mathematics Genealogy Project [here](https://www.mathgeneal
 
 ## Furthermore, you can view some of my recent talks here:
 
+* [Mathematics and AI Discussion Seminar, MPIM Bonn](https://youtu.be/y_wJcLq5oaU)
 * [Interdisciplinary junior scientist workshop: Mathematical General Relativity](https://mediaup.uni-potsdam.de/Play/48577)
 * [Erwin Schrödinger Institute Vienna, AT](https://youtu.be/beUsX0497DE)
 * [University of Potsdam, DE](https://youtu.be/OtAfPwqOlqA)
