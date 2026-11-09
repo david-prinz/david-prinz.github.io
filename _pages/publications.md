@@ -15,6 +15,9 @@ D. Prinz, [Humboldt University of Berlin (2022)](https://edoc.hu-berlin.de/18452
 
 ## Preprints
 
+### Overcoming the Representational Limitations of Amplitude Encoding for Quantum Neural Networks
+V. Gurgul & D. Prinz, [arXiv:2610.41824 [quant-ph]](https://arxiv.org/abs/2610.41824)
+
 ### Multiplicative Renormalization in Causal Perturbation Theory
 J. Epstein & A. Hofmann & D. Prinz, [arXiv:2512.09918 [math-ph]](https://arxiv.org/abs/2512.09918)
 
