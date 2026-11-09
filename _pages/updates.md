@@ -13,7 +13,8 @@ author_profile: true
 
 ## 10/2026
 
-### I gave a talk at the [Maths for AI Safety Workshop](https://safeaigermany.org/programmes/maths-workshop/) in Bonn
+### Talk at Workshop in Bonn
+I gave a talk at the [Maths for AI Safety Workshop](https://safeaigermany.org/programmes/maths-workshop/) in Bonn
 
 ### New Preprint online
 [Overcoming the Representational Limitations of Amplitude Encoding for Quantum Neural Networks](https://arxiv.org/abs/2610.41824) joint with [Vincent Gurgul](https://www.wiwi.hu-berlin.de/en/Professorships/bwl/wi/personen-en/vincent-gurgul-m-sc)
