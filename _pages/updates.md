@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 
+## 11/2026
+
+### Article accepted for publication
+[Transversality in the Coupling of Gravity to Gauge Theories](https://arxiv.org/abs/2208.14166) in [Class. Quantum Grav.](https://iopscience.iop.org/journal/0264-9381)
+
 ## 10/2026
 
 ### I gave a talk at the [Maths for AI Safety Workshop](https://safeaigermany.org/programmes/maths-workshop/) in Bonn
@@ -24,7 +29,7 @@ author_profile: true
 ## 06/2026
 
 ### Article published
-[Group Contractions via Infinite-Dimensional Lie Theory](https://www.sciencedirect.com/science/article/pii/S0393044026001440)
+[Group Contractions via Infinite-Dimensional Lie Theory](https://www.sciencedirect.com/science/article/pii/S0393044026001440) in [J. Geom. Phys.](https://www.sciencedirect.com/journal/journal-of-geometry-and-physics)
 
 ### Math meets Music Event at MPIM
 I will play together with [Liza Schonlau](https://www.mathematics.uni-bonn.de/hsm-school/new-at-hsm/liza-schonlau) at the [June Math meets Music Event](https://www.mpim-bonn.mpg.de/MmM) at the MPIM
@@ -69,7 +74,7 @@ I have obtained a [Lamarr fellowship](https://lamarr-institute.org/lamarr-fellow
 ## 11/2025
 
 ### Article published
-[The BRST Double Complex for the Coupling of Gravity to Gauge Theories](https://link.intlpress.com/JDetail/1991244996424151042)
+[The BRST Double Complex for the Coupling of Gravity to Gauge Theories](https://link.intlpress.com/JDetail/1991244996424151042) in [Adv. Theor. Math. Phys.](https://intlpress.com/journals/journalList?id=1804410812806262786)
 
 ### Participation at Conference
 [Kickoff Meeting DFG Research Unit: Modern Foundations of Scattering Amplitudes](https://indico.hiskp.uni-bonn.de/event/973/) at the [Bethe Center for Theoretical Physics](https://www.bctp.uni-bonn.de) in Bonn
