@@ -24,14 +24,14 @@ D. Prinz, [arXiv:2512.02253 [math-ph]](https://arxiv.org/abs/2512.02253)
 ### On Perturbative Quantum Gravity with a Cosmological Constant
 D. Prinz, [arXiv:2303.14160 [hep-th]](https://arxiv.org/abs/2303.14160)
 
-### Transversality in the Coupling of Gravity to Gauge Theories
-D. Prinz, [arXiv:2208.14166 [hep-th]](https://arxiv.org/abs/2208.14166)
-
 ### Symmetric Ghost Lagrange Densities for the Coupling of Gravity to Gauge Theories
 D. Prinz, [arXiv:2207.07593 [hep-th]](https://arxiv.org/abs/2207.07593)
 
 
 ## Journal articles
+
+### Transversality in the Coupling of Gravity to Gauge Theories
+D. Prinz, [arXiv:2208.14166 [hep-th]](https://arxiv.org/abs/2208.14166); to appear in [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381)
 
 ### Group Contractions via Infinite-Dimensional Lie Theory
 D. Prinz & A. Schmeding & P. Schwartz, [J. Geom. Phys. 228 (2026) 105894](https://www.sciencedirect.com/science/article/pii/S0393044026001440), [arXiv:2512.18530 [math-ph]](https://arxiv.org/abs/2512.18530)
