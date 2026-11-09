@@ -21,11 +21,13 @@ I gave a talk at the [Maths for AI Safety Workshop](https://safeaigermany.org/pr
 
 ## 09/2026
 
-### I obtained an [Iliad Fellowship](https://www.iliad.ac/fellowship) for theoretical AI Safety research in London, UK
+### Iliad Fellowship obtained
+I obtained an [Iliad Fellowship](https://www.iliad.ac/fellowship) for theoretical AI Safety research in London, UK
 
 ## 08/2026
 
-### I participated in the [Iliad Intensive Summer School](https://iliad-intensive.org) on theoretical AI Safety in Berkeley, California
+### Summer School participation
+I participated in the [Iliad Intensive Summer School](https://iliad-intensive.org) on theoretical AI Safety in Berkeley, California
 
 ## 06/2026
 
@@ -40,7 +42,7 @@ I will play together with [Liza Schonlau](https://www.mathematics.uni-bonn.de/hs
 
 ## 05/2026
 
-### Lamarr fellowship started
+### Lamarr Fellowship started
 I started my [Lamarr fellowship](https://lamarr-institute.org/lamarr-fellowship/) on the intersection of math, physics and AI/ML at [Uni Bonn](https://www.uni-bonn.de/en/home?set_language=en)
 
 ## 03/2026
@@ -53,7 +55,7 @@ Find me in the background of the [official video of Uni Bonn](https://youtu.be/4
 ### Math meets Music Event at MPIM
 I will play at the [February Math meets Music Event](https://www.mpim-bonn.mpg.de/MmM) at the MPIM
 
-### Obtained Lamarr fellowship
+### Lamarr Fellowship obtained
 I have obtained a [Lamarr fellowship](https://lamarr-institute.org/lamarr-fellowship/) to work with [Prof Flek](https://caisa-lab.github.io/members/lucie-flek.html) and her group this summer at [Uni Bonn](https://www.uni-bonn.de/en/home?set_language=en)
 
 ## 01/2026
@@ -262,7 +264,7 @@ I will speak about ["Renormalization of Gauge Theories and Gravity"](https://www
 
 ## 01/2023
 
-### Riemann fellowship started
+### Riemann Fellowship started
 [Official announcement](https://www.rc.uni-hannover.de/en/center/news-and-events/news/aktuelles-detailansicht/news/the-rc-welcomes-new-riemann-fellow-david-prinz)
 
 ## 12/2022
@@ -308,7 +310,7 @@ My disputation will take place on August 31 at 3 pm Berlin time in a hybrid form
 ### Offered postdoc position at MPIM Bonn
 I have been offered a postdoc position at [MPIM Bonn](https://www.mpim-bonn.mpg.de), which I will start next year (Q2/2023)
 
-### Obtained Riemann fellowship
+### Riemann Fellowship obtained
 I have obtained a [Riemann fellowship](https://www.rc.uni-hannover.de/en/), with which I will visit the group of [Prof Giulini](https://www.itp.uni-hannover.de/de/ag/giulini/) next spring (Q1/2023)
 
 ### Article accepted for publication
