@@ -6,6 +6,21 @@ author_profile: true
 ---
 
 
+## 10/2026
+
+### I gave a talk at the [Maths for AI Safety Workshop](https://safeaigermany.org/programmes/maths-workshop/) in Bonn
+
+### New Preprint online
+[Overcoming the Representational Limitations of Amplitude Encoding for Quantum Neural Networks](https://arxiv.org/abs/2610.41824) joint with [Vincent Gurgul](https://www.wiwi.hu-berlin.de/en/Professorships/bwl/wi/personen-en/vincent-gurgul-m-sc)
+
+## 09/2026
+
+### I obtained an [Iliad Fellowship](https://www.iliad.ac/fellowship) for theoretical AI Safety research in London, UK
+
+## 08/2026
+
+### I participated in the [Iliad Intensive Summer School](https://iliad-intensive.org) on theoretical AI Safety in Berkeley, California
+
 ## 06/2026
 
 ### Article published
