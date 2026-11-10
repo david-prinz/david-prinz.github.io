@@ -9,6 +9,7 @@ redirect_from:
 
 ## Employment
 
+* [Iliad](https://www.iliad.ac), Iliad Fellow at the [London Initiative for Safe AI (LISA)](https://www.safeai.org.uk), since 09/2026
 * [Lamarr Institute](https://lamarr-institute.org), Lamarr Fellow in the group of [Prof Flek](https://caisa-lab.github.io/members/lucie-flek.html), 05/2026--07/2026
 * [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de), Postdoctoral Fellow and Postdoc Representative, 04/2023--04/2026
 * [Riemann Center for Geometry and Physics](https://www.rc.uni-hannover.de/en/), Riemann Fellow in the group of [Prof Giulini](https://www.itp.uni-hannover.de/de/ag/giulini/), 01/2023--03/2023
