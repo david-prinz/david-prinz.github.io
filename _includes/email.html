@@ -1,0 +1,10 @@
+{%- comment -%}
+  Spam-protected e-mail link. The address is only assembled in the browser (assets/js/site.js);
+  without JavaScript it reads "user [at] domain". Usage:
+  {% include email.html %}                                      -> site contact address
+  {% include email.html user="name" domain="example.org" %}     -> another address
+  {% include email.html text="e-mail" %}                        -> custom link text
+{%- endcomment -%}
+{%- assign u = include.user | default: site.author.email_user -%}
+{%- assign d = include.domain | default: site.author.email_domain -%}
+<a class="mail" data-u="{{ u }}" data-d="{{ d }}"{% if include.text %} data-keep-text{% endif %} href="#">{% if include.text %}{{ include.text }}{% else %}{{ u }} [at] {{ d }}{% endif %}</a>

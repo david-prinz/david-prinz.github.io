@@ -1,8 +1,7 @@
 ---
-layout: archive
 title: "Past Seminars @ MPIM"
 permalink: /seminar/
-author_profile: true
+badge: "Archive, 2024–2025"
 ---
 
 
@@ -15,7 +14,7 @@ This page shows the seminars that I co-organized during my time at the [Max Plan
 
 Organized by [David Aretz](https://guests.mpim-bonn.mpg.de/aretz/), [Peter Teichner](https://people.mpim-bonn.mpg.de/teichner/) and myself. Contact: {aretz, prinz, teichner}@mpim-bonn.mpg.de
 
-A seminar about different topics in Mathematical Physics, broadly around Quantum Field Theory, Algebraic Topology and Differential Geometry. We host research talks as well as review talks.
+A seminar about different topics in Mathematical Physics, broadly around Quantum Field Theory, Algebraic Topology and Differential Geometry. We hosted research talks as well as review talks.
 
 [Official MPIM seminar webpage](https://www.mpim-bonn.mpg.de/node/13069) and [program overview](https://www.mpim-bonn.mpg.de/node/13069/program).
 
@@ -23,7 +22,7 @@ A seminar about different topics in Mathematical Physics, broadly around Quantum
 
 In spring 2025, the seminar proceeded mainly via informal discussions in weekly meetings, together with occasional official talks.
 
-### Talks:
+### Talks
 
 ### [January 9, 2025](https://www.mpim-bonn.mpg.de/node/13813):
 * Luuk Stehouwer: "The unitary cobordism hypothesis" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13813)
@@ -33,9 +32,9 @@ In spring 2025, the seminar proceeded mainly via informal discussions in weekly 
 
 ## Summer and Winter Term 2024
 
-In August 2024, this seminar was combined with the one-month [QFT Workshop](https://www.mpim-bonn.mpg.de/node/13203) that took place at the MPIM. Currently, we aim to understand this [Preprint](https://arxiv.org/abs/2108.13542) via some appropriate review talks.
+In August 2024, this seminar was combined with the one-month [QFT Workshop](https://www.mpim-bonn.mpg.de/node/13203) that took place at the MPIM. We also worked through this [preprint](https://arxiv.org/abs/2108.13542) in a series of review talks.
 
-If not stated otherwise, we meet Thursdays at 12:00 p.m. in the [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444) (see the exceptions below).
+If not stated otherwise, we met on Thursdays at 12:00 p.m. in the [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444) (see the exceptions below).
 
 ### Talks
 
@@ -138,7 +137,7 @@ Organized by David Aretz and myself. Contact: {aretz, prinz}@mpim-bonn.mpg.de
 
 ### Topics
 
-We have decided on the following three main topics, with some additional points that we would like to cover:
+We decided on the following three main topics, with some additional points that we wanted to cover:
 
 ### [Supersymmetric Quantum Field Theories](https://ncatlab.org/nlab/show/supersymmetry):
 * [Supergeometry](https://ncatlab.org/nlab/show/supergeometry)

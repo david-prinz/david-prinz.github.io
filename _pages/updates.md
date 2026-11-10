@@ -1,8 +1,6 @@
 ---
-layout: archive
 permalink: /updates/
 title: "Updates"
-author_profile: true
 ---
 
 

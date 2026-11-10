@@ -1,32 +1,16 @@
-# main links links
+# Main menu, in this order. The home page is reached via the name in the header.
 main:
-    
   - title: "CV"
     url: /cv/
-    
   - title: "Publications"
     url: /publications/
-
   - title: "AIL2026"
     url: /ail2026/
-    
   - title: "Music"
     url: /music/
-    
   - title: "Personal"
     url: /personal/
-    
   - title: "Updates"
     url: /updates/
-    
   - title: "Seminar"
     url: /seminar/
-  
-#  - title: "Talks"
-#    url: /talks/
-
-#  - title: "Teaching"
-#    url: /teaching/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/

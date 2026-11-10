@@ -1,13 +1,10 @@
 ---
-layout: archive
 permalink: /personal/
 title: "Personal"
-author_profile: true
 ---
 
 
 
-# ---
 
 I am always very curious in the personalities behind the professional curtain. Thus, this page is intended to offer a little glimpse into my hobbies and interests beside math.
 
@@ -24,4 +21,4 @@ Currently, I am doing the following volunteering work:
 * Organizing regular events aimed for mathematicians in Bonn
 * Organizing regular events for the [Mensa association](https://www.mensa.de)
 
-Please [get in touch with me](mailto:prinz@mpim-bonn.mpg.de), if you wish to participate.
+Please get in touch via {% include email.html %} if you wish to participate.
