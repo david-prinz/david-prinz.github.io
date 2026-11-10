@@ -25,6 +25,10 @@ redirect_from:
 * Bachelor of Science (Physics), 2013, [University of Innsbruck](https://www.uibk.ac.at/index.html.en)
 * High school diploma (Abitur), 2010, [Alexander-von-Humboldt-Gymnasium Konstanz](https://humboldt-konstanz.de)
 
+## Further training
+
+* [Iliad Intensive Summer School](https://iliad-intensive.org) on theoretical AI safety, Berkeley, California, 08/2026
+
 ## Academic services
 
 * Serving as [Postdoc Representative of the MPIM](https://www.postdocnet.mpg.de/list-of-external-reps) within the [Max Planck PostdocNet](https://www.postdocnet.mpg.de)
