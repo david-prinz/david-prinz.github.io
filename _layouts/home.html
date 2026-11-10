@@ -10,7 +10,7 @@ layout: default
            onerror="this.parentNode.classList.add('is-missing'); this.remove();">
     </figure>
     <div class="hero-text">
-      <h1>{{ a.name }}</h1>
+      <h1>{% if a.title %}{{ a.title }} {% endif %}{{ a.name }}</h1>
       <p class="lead">{{ a.tagline }}</p>
       <p class="hero-links">
         <a href="{{ a.arxiv }}">arXiv</a>

@@ -13,6 +13,7 @@ theme       : null   # no GitHub Pages default theme; this site has its own layo
 # Shown on the home page and in the footer
 author:
   name     : "David Prinz"
+  title    : "Dr."                     # shown before the name on the home page
   avatar   : "David_Prinz.jpg"          # file in /images/
   tagline  : "Mathematical physicist working on quantum field theory, quantum gravity and the mathematical foundations of AI. Iliad Fellow at LISA, London."
   email_user   : "relay"              # public address, stored in two parts against spam bots
