@@ -21,7 +21,9 @@ A seminar about different topics in Mathematical Physics, broadly around Quantum
 
 ## Spring 2025
 
-In spring 2025, the seminar proceeded mainly via informal discussions in weekly meetings, together with occasional official talks:
+In spring 2025, the seminar proceeded mainly via informal discussions in weekly meetings, together with occasional official talks.
+
+### Talks:
 
 ### [January 9, 2025](https://www.mpim-bonn.mpg.de/node/13813):
 * Luuk Stehouwer: "The unitary cobordism hypothesis" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13813)
@@ -35,7 +37,7 @@ In August 2024, this seminar was combined with the one-month [QFT Workshop](http
 
 If not stated otherwise, we meet Thursdays at 12:00 p.m. in the [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444) (see the exceptions below).
 
-Talks:
+### Talks
 
 ### [May 2](https://www.mpim-bonn.mpg.de/node/13024):
 * Organizational Meeting for the Summer Term
@@ -134,7 +136,7 @@ Organized by David Aretz and myself. Contact: {aretz, prinz}@mpim-bonn.mpg.de
 
 ## Spring Term 2024
 
-Topics:
+### Topics
 
 We have decided on the following three main topics, with some additional points that we would like to cover:
 
@@ -155,7 +157,7 @@ We have decided on the following three main topics, with some additional points 
 * [Knot theory](https://ncatlab.org/nlab/show/knot+theory+-+contentsk)
 * [Kontsevich integral](https://ncatlab.org/nlab/show/Kontsevich+integral) (with link to supersymmetry)
 
-Talks:
+### Talks
 
 ### [February 1](https://www.mpim-bonn.mpg.de/node/12747):
 * Clarifying organizational issues, setting up schedule
