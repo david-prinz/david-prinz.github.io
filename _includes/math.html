@@ -1,0 +1,9 @@
+{% comment %}
+  Opt-in formula rendering with KaTeX. Add `math: true` to a page's front matter,
+  then write inline math as $...$ and display math as $$...$$.
+  Note: this loads KaTeX from cdn.jsdelivr.net on that page only.
+{% endcomment %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" crossorigin="anonymous"
+  onload="renderMathInElement(document.querySelector('main'), {delimiters: [{left: '$$', right: '$$', display: true}, {left: '$', right: '$', display: false}]});"></script>

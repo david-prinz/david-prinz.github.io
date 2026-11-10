@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{% assign a = site.author %}
+<section class="hero-band"{% if page.animation %} data-animation="{{ page.animation }}"{% endif %}>
+  {% if page.animation %}<canvas class="hero-canvas" aria-hidden="true"></canvas>{% endif %}
+  <div class="wrap hero">
+    <figure class="portrait">
+      <img src="{{ '/images/' | append: a.avatar | relative_url }}" alt="Portrait of {{ a.name }}" width="400" height="500"
+           onerror="this.parentNode.classList.add('is-missing'); this.remove();">
+    </figure>
+    <div class="hero-text">
+      <h1>{{ a.name }}</h1>
+      <p class="lead">{{ a.tagline }}</p>
+      <p class="hero-links">
+        <a href="{{ a.arxiv }}">arXiv</a>
+        <a href="{{ a.inspire }}">INSPIRE</a>
+        <a href="{{ a.orcid }}">ORCID</a>
+        {% include email.html %}
+      </p>
+    </div>
+  </div>
+</section>
+<article class="page wrap">
+  <div class="prose">
+    {{ content }}
+  </div>
+</article>

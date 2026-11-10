@@ -1,0 +1,172 @@
+/* davidprinz.org — Bodensee theme
+   Day: the lake at midday. Night: after the sunset over the Reichenau.
+   Fonts are self-hosted (no requests to Google). Licence: SIL Open Font License. */
+
+/* ---------- Fonts ---------- */
+@font-face { font-family: 'Newsreader'; font-style: normal; font-weight: 400 500; font-display: swap; src: url('../fonts/newsreader-normal-latin.woff2') format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'Newsreader'; font-style: italic; font-weight: 400; font-display: swap; src: url('../fonts/newsreader-italic-latin.woff2') format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'IBM Plex Sans'; font-style: normal; font-weight: 400 500; font-display: swap; src: url('../fonts/ibm-plex-sans-normal-latin.woff2') format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'IBM Plex Sans'; font-style: italic; font-weight: 400; font-display: swap; src: url('../fonts/ibm-plex-sans-italic-latin.woff2') format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'IBM Plex Mono'; font-style: normal; font-weight: 400; font-display: swap; src: url('../fonts/ibm-plex-mono-normal-latin.woff2') format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+/* ---------- Tokens ---------- */
+:root {
+  --bg: #FAF7F2;          /* warm off-white */
+  --surface: #F1EEE7;
+  --fg: #1D2B2F;          /* deep lake grey-green */
+  --muted: #5B6B6E;
+  --lake: #1F7A7A;        /* Bodensee turquoise: links, accents */
+  --sun: #E0782F;         /* Reichenau sunset: decoration only in daylight */
+  --sun-text: #B4531A;    /* orange that is readable as text on --bg */
+  --rule: #DCDFDA;
+  --wave-alpha: 0.32;
+  --glint-alpha: 0.6;
+
+  --font-display: "Newsreader", "Iowan Old Style", Georgia, serif;
+  --font-body: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+
+  --measure: 42rem;
+  --wide: 60rem;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0F1C22; --surface: #14252C; --fg: #E6ECE9; --muted: #93A7A9;
+    --lake: #5CC4BF; --sun: #F29A5B; --sun-text: #F29A5B; --rule: #22363D;
+    --wave-alpha: 0.26; --glint-alpha: 0.9;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0F1C22; --surface: #14252C; --fg: #E6ECE9; --muted: #93A7A9;
+  --lake: #5CC4BF; --sun: #F29A5B; --sun-text: #F29A5B; --rule: #22363D;
+  --wave-alpha: 0.26; --glint-alpha: 0.9;
+  color-scheme: dark;
+}
+
+/* ---------- Base ---------- */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--fg);
+  font-family: var(--font-body); font-size: 1.0625rem; line-height: 1.65;
+  min-height: 100vh; display: flex; flex-direction: column;
+}
+main { flex: 1 0 auto; }
+img { max-width: 100%; height: auto; }
+a { color: var(--lake); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+@media (hover: hover) { a:hover { color: var(--sun-text); } }
+:focus-visible { outline: 2px solid var(--sun); outline-offset: 3px; border-radius: 2px; }
+::selection { background: color-mix(in srgb, var(--sun) 30%, transparent); }
+
+.wrap {
+  max-width: var(--wide); margin-inline: auto;
+  padding-left: max(20px, env(safe-area-inset-left, 0px));
+  padding-right: max(20px, env(safe-area-inset-right, 0px));
+}
+.skip { position: absolute; left: -999px; top: 8px; background: var(--bg); padding: 6px 12px; z-index: 10; }
+.skip:focus { left: 12px; }
+
+/* ---------- Header ---------- */
+.site-header { border-bottom: 1px solid var(--rule); position: relative; z-index: 2; background: var(--bg); }
+.bar { display: flex; align-items: center; gap: 12px 28px; padding-block: 18px; }
+.brand {
+  font-family: var(--font-display); font-size: 1.35rem; color: var(--fg); text-decoration: none; white-space: nowrap;
+}
+@media (hover: hover) { .brand:hover { color: var(--lake); } }
+.nav { margin-left: auto; }
+.nav ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 4px 20px; }
+.nav a { color: var(--muted); text-decoration: none; font-size: 0.95rem; padding-block: 4px; border-bottom: 1.5px solid transparent; }
+@media (hover: hover) { .nav a:hover { color: var(--fg); border-bottom-color: var(--rule); } }
+.nav a[aria-current="page"] { color: var(--fg); border-bottom-color: var(--sun); }
+.theme-toggle {
+  flex: none; display: grid; place-items: center; width: 38px; height: 38px; padding: 0;
+  border: 1px solid var(--rule); border-radius: 50%; background: transparent; color: var(--fg); cursor: pointer;
+}
+@media (hover: hover) { .theme-toggle:hover { border-color: var(--lake); color: var(--lake); } }
+.theme-toggle .icon-sun { display: none; }
+:root[data-theme="dark"] .theme-toggle .icon-sun { display: block; }
+:root[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .theme-toggle .icon-sun { display: block; }
+  :root:not([data-theme="light"]) .theme-toggle .icon-moon { display: none; }
+}
+
+@media (max-width: 860px) {
+  .bar { display: grid; grid-template-columns: 1fr auto; padding-block: 14px 12px; }
+  .nav { grid-column: 1 / -1; grid-row: 2; margin-left: 0; }
+  .nav ul { gap: 2px 18px; }
+}
+
+/* ---------- Home hero ---------- */
+.hero-band { position: relative; overflow: hidden; border-bottom: 1px solid var(--rule); touch-action: pan-y; }
+.hero-canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+.hero {
+  position: relative; z-index: 1; pointer-events: none;
+  display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 40px; align-items: center;
+  padding-block: 72px 88px;
+}
+.hero a { pointer-events: auto; }
+.portrait {
+  margin: 0; width: 184px; aspect-ratio: 4 / 5; border-radius: 3px; overflow: hidden;
+  background: var(--surface); border: 1px solid var(--rule);
+}
+.portrait img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.portrait.is-missing { display: grid; place-items: center; }
+.portrait.is-missing::after { content: "Photo"; font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
+.hero-text { min-width: 0; }
+.hero h1 { font-family: var(--font-display); font-weight: 400; font-size: clamp(2.6rem, 6vw, 4rem); line-height: 1.05; margin: 0; letter-spacing: -0.01em; }
+.hero .lead { font-family: var(--font-display); font-size: clamp(1.2rem, 2.2vw, 1.4rem); line-height: 1.45; max-width: 34ch; margin: 16px 0 0; }
+.hero-links { display: flex; flex-wrap: wrap; gap: 6px 20px; margin: 20px 0 0; font-size: 0.95rem; }
+.hero-text > * { text-shadow: 0 0 12px var(--bg), 0 0 4px var(--bg); }
+
+@media (max-width: 640px) {
+  .hero { grid-template-columns: 1fr; gap: 24px; padding-block: 40px 56px; }
+  .portrait { width: 132px; }
+}
+
+/* ---------- Pages ---------- */
+.page { padding-block: 56px 72px; }
+.page-head { max-width: var(--measure); margin-bottom: 32px; }
+.page-head h1 { font-family: var(--font-display); font-weight: 400; font-size: clamp(2.2rem, 5vw, 3rem); line-height: 1.1; margin: 0; text-wrap: balance; }
+.page-head .lead { color: var(--muted); margin: 12px 0 0; }
+.badge {
+  font-family: var(--font-mono); font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--sun-text); margin: 0 0 10px;
+}
+
+.prose { max-width: var(--measure); }
+.prose > :first-child { margin-top: 0; }
+.prose p, .prose ul, .prose ol { margin: 0 0 1em; }
+.prose ul, .prose ol { padding-left: 1.25em; }
+.prose li { margin-bottom: 0.35em; }
+.prose li::marker { color: var(--muted); }
+.prose h1, .prose h2 {
+  font-family: var(--font-display); font-weight: 400; font-size: 1.75rem; line-height: 1.2;
+  margin: 2.2em 0 0.6em; padding-top: 0.6em; border-top: 1px solid var(--rule); text-wrap: balance;
+}
+.prose > h1:first-child, .prose > h2:first-child { border-top: 0; padding-top: 0; }
+.prose h3 { font-family: var(--font-display); font-weight: 500; font-size: 1.22rem; line-height: 1.3; margin: 1.6em 0 0.3em; text-wrap: balance; }
+.prose h3 + p { color: var(--muted); font-size: 0.97rem; }
+.prose h3 + p a { color: var(--lake); }
+.prose h4 { font-size: 1rem; font-weight: 500; margin: 1.4em 0 0.3em; }
+.prose code { font-family: var(--font-mono); font-size: 0.88em; background: var(--surface); border: 1px solid var(--rule); border-radius: 3px; padding: 0.05em 0.35em; }
+.prose blockquote { margin: 1.2em 0; padding-left: 1em; border-left: 2px solid var(--sun); color: var(--muted); }
+.prose hr { border: 0; border-top: 1px solid var(--rule); margin: 2em 0; }
+.prose table { border-collapse: collapse; display: block; overflow-x: auto; font-size: 0.95rem; }
+.prose th, .prose td { border-bottom: 1px solid var(--rule); padding: 6px 12px 6px 0; text-align: left; }
+.prose strong { font-weight: 500; }
+
+/* ---------- Footer ---------- */
+.site-footer { border-top: 1px solid var(--rule); color: var(--muted); font-size: 0.9rem; }
+.foot { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; padding-block: 28px 40px; }
+.foot p { margin: 0; }
+.foot-links { display: flex; flex-wrap: wrap; gap: 4px 18px; }
+.site-footer a { color: var(--muted); }
+@media (hover: hover) { .site-footer a:hover { color: var(--lake); } }
+
+@media print {
+  .site-header, .site-footer, .hero-canvas, .theme-toggle { display: none; }
+  body { background: #fff; color: #000; }
+}

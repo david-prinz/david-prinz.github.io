@@ -1,8 +1,7 @@
 ---
-layout: archive
 permalink: /seminar/
 title: "Physical Math Seminar @ MPIM"
-author_profile: true
+badge: "Past seminar, 2024–2025"
 ---
 
 
@@ -16,12 +15,12 @@ A seminar about different topics in Mathematical Physics, broadly around Quantum
 
 # Spring 2025
 
-Currently, the seminar proceeds mainly via informal discussions in weekly meetings: Please [contact me](mailto:prinz@mpim-bonn.mpg.de) if you are interested to join. Nevertheless, we also occasionally have official talks, which are announced here:
+In spring 2025, the seminar proceeded mainly via informal discussions in weekly meetings, together with occasional official talks:
 
-### [Januar 9, 2025](https://www.mpim-bonn.mpg.de/node/13813):
+### [January 9, 2025](https://www.mpim-bonn.mpg.de/node/13813):
 * Luuk Stehouwer: "The unitary cobordism hypothesis" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13813)
 
-### [Januar 16, 2025](https://www.mpim-bonn.mpg.de/node/13844):
+### [January 16, 2025](https://www.mpim-bonn.mpg.de/node/13844):
 * Luuk Stehouwer: "The unitary cobordism hypothesis, part 2" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13844)
 
 
@@ -29,7 +28,7 @@ Currently, the seminar proceeds mainly via informal discussions in weekly meetin
 
 In August 2024, this seminar was combined with the one-month [QFT Workshop](https://www.mpim-bonn.mpg.de/node/13203) that took place at the MPIM. Currently, we aim to understand this [Preprint](https://arxiv.org/abs/2108.13542) via some appropriate review talks.
 
-If not stated otherwise, we meet Thursdays at 12:00 a.m. in the [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444) (see the exceptions below).
+If not stated otherwise, we meet Thursdays at 12:00 p.m. in the [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444) (see the exceptions below).
 
 ## Talks
 
@@ -156,7 +155,7 @@ We have decided on the following three main topics, with some additional points 
 * David Aretz: "Supersymmetric Quantum Mechanics"
 
 ### [February 8](https://de.wikipedia.org/wiki/Weiberfastnacht):
-* No meeting due to carneval
+* No meeting due to carnival
 
 ### [February 15](https://www.mpim-bonn.mpg.de/node/12762):
 * David Aretz: "Supersymmetric Quantum Mechanics, Part 2"
@@ -173,7 +172,7 @@ We have decided on the following three main topics, with some additional points 
 ### [March 14](https://www.mpim-bonn.mpg.de/node/12825) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
 * Werner Nahm: "Euclidean Quantum Field Theory in One Axiom" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12825)
 
-### [March 20 (Wednesday, 12:00 a.m.)](https://www.mpim-bonn.mpg.de/node/12843) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
+### [March 20 (Wednesday, 12:00 p.m.)](https://www.mpim-bonn.mpg.de/node/12843) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
 * Paolo Tomasini: "Some Aspects of Vertex Algebras" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12843)
 
 ### [March 28](https://www.mpim-bonn.mpg.de/node/12873):
@@ -189,4 +188,4 @@ We have decided on the following three main topics, with some additional points 
 * Philip Schwartz: "Teleparallel Newton—Cartan Gravity" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12916)
 
 ### [April 26 (Friday, 11:30 a.m.)](https://www.mpim-bonn.mpg.de/node/12832) in [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444):
-* Bernd Sturmfels: "Minimal Kinematics on $\mathcal{M}_{0,n}$" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12832)
+* Bernd Sturmfels: "Minimal Kinematics on ℳ<sub>0,<i>n</i></sub>" [-> Abstract](https://www.mpim-bonn.mpg.de/node/12832)
