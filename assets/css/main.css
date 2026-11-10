@@ -19,8 +19,10 @@
   --sun: #E0782F;         /* Reichenau sunset: decoration only in daylight */
   --sun-text: #B4531A;    /* orange that is readable as text on --bg */
   --rule: #DCDFDA;
-  --wave-alpha: 0.32;
-  --glint-alpha: 0.6;
+  --wave: #12A8A2;        /* water animation: wave lines (brighter than --lake) */
+  --glint: #F5781E;       /* water animation: sunlit crests */
+  --wave-alpha: 0.55;
+  --glint-alpha: 0.95;
 
   --font-display: "Newsreader", "Iowan Old Style", Georgia, serif;
   --font-body: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
@@ -34,14 +36,14 @@
   :root:not([data-theme="light"]) {
     --bg: #0F1C22; --surface: #14252C; --fg: #E6ECE9; --muted: #93A7A9;
     --lake: #5CC4BF; --sun: #F29A5B; --sun-text: #F29A5B; --rule: #22363D;
-    --wave-alpha: 0.26; --glint-alpha: 0.9;
+    --wave: #5CC4BF; --glint: #F29A5B; --wave-alpha: 0.26; --glint-alpha: 0.9;
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --bg: #0F1C22; --surface: #14252C; --fg: #E6ECE9; --muted: #93A7A9;
   --lake: #5CC4BF; --sun: #F29A5B; --sun-text: #F29A5B; --rule: #22363D;
-  --wave-alpha: 0.26; --glint-alpha: 0.9;
+  --wave: #5CC4BF; --glint: #F29A5B; --wave-alpha: 0.26; --glint-alpha: 0.9;
   color-scheme: dark;
 }
 

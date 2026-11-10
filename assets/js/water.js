@@ -18,8 +18,8 @@
 
   function readColors() {
     var s = getComputedStyle(root);
-    col.wave = s.getPropertyValue('--lake').trim();
-    col.sun = s.getPropertyValue('--sun').trim();
+    col.wave = (s.getPropertyValue('--wave') || s.getPropertyValue('--lake')).trim();
+    col.sun = (s.getPropertyValue('--glint') || s.getPropertyValue('--sun')).trim();
     col.waveA = parseFloat(s.getPropertyValue('--wave-alpha')) || 0.3;
     col.glintA = parseFloat(s.getPropertyValue('--glint-alpha')) || 0.6;
   }
