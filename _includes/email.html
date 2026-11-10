@@ -2,7 +2,7 @@
   Spam-protected e-mail link. The address is only assembled in the browser (assets/js/site.js);
   without JavaScript it reads "user [at] domain". Usage:
   {% include email.html %}                                      -> site contact address
-  {% include email.html user="music" domain="davidprinz.org" %} -> another address
+  {% include email.html user="name" domain="example.org" %}     -> another address
   {% include email.html text="e-mail" %}                        -> custom link text
 {%- endcomment -%}
 {%- assign u = include.user | default: site.author.email_user -%}
