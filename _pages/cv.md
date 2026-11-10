@@ -27,7 +27,7 @@ redirect_from:
 
 ## Further training
 
-* [Iliad Intensive Summer School](https://iliad-intensive.org) on theoretical AI safety, Berkeley, California, 08/2026
+* [Iliad Intensive](https://iliad-intensive.org), summer school on theoretical AI safety, Berkeley, California, 08/2026
 
 ## Academic services
 

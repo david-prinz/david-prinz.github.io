@@ -25,7 +25,7 @@ I obtained an [Iliad Fellowship](https://www.iliad.ac/fellowship) for theoretica
 ## 08/2026
 
 ### Summer School participation
-I participated in the [Iliad Intensive Summer School](https://iliad-intensive.org) on theoretical AI Safety in Berkeley, California
+I participated in the [Iliad Intensive](https://iliad-intensive.org), a summer school on theoretical AI Safety in Berkeley, California
 
 ## 06/2026
 
