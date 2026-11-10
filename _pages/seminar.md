@@ -1,7 +1,8 @@
 ---
+layout: archive
+title: "Past Seminars @ MPIM"
 permalink: /seminar/
-title: "Physical Math Seminar @ MPIM"
-badge: "Past seminar, 2024–2025"
+author_profile: true
 ---
 
 
@@ -10,14 +11,15 @@ This page shows the seminars that I co-organized during my time at the [Max Plan
 
 ---
 
+# Physical Math Seminar
+
 Organized by [David Aretz](https://guests.mpim-bonn.mpg.de/aretz/), [Peter Teichner](https://people.mpim-bonn.mpg.de/teichner/) and myself. Contact: {aretz, prinz, teichner}@mpim-bonn.mpg.de
 
 A seminar about different topics in Mathematical Physics, broadly around Quantum Field Theory, Algebraic Topology and Differential Geometry. We host research talks as well as review talks.
 
 [Official MPIM seminar webpage](https://www.mpim-bonn.mpg.de/node/13069) and [program overview](https://www.mpim-bonn.mpg.de/node/13069/program).
 
-
-# Spring 2025
+## Spring 2025
 
 In spring 2025, the seminar proceeded mainly via informal discussions in weekly meetings, together with occasional official talks:
 
@@ -27,14 +29,13 @@ In spring 2025, the seminar proceeded mainly via informal discussions in weekly 
 ### [January 16, 2025](https://www.mpim-bonn.mpg.de/node/13844):
 * Luuk Stehouwer: "The unitary cobordism hypothesis, part 2" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13844)
 
-
-# Summer and Winter Term 2024
+## Summer and Winter Term 2024
 
 In August 2024, this seminar was combined with the one-month [QFT Workshop](https://www.mpim-bonn.mpg.de/node/13203) that took place at the MPIM. Currently, we aim to understand this [Preprint](https://arxiv.org/abs/2108.13542) via some appropriate review talks.
 
 If not stated otherwise, we meet Thursdays at 12:00 p.m. in the [MPIM Lecture Hall](https://www.mpim-bonn.mpg.de/node/3444) (see the exceptions below).
 
-## Talks
+Talks:
 
 ### [May 2](https://www.mpim-bonn.mpg.de/node/13024):
 * Organizational Meeting for the Summer Term
@@ -123,14 +124,17 @@ If not stated otherwise, we meet Thursdays at 12:00 p.m. in the [MPIM Lecture Ha
 ### [December 5](https://www.mpim-bonn.mpg.de/node/13769):
 * Mayuko Yamashita: "Topological Elliptic Genera, II" [-> Abstract](https://www.mpim-bonn.mpg.de/node/13769)
 
+---
 
-# Spring Term 2024
+# MPIM Math-Phys Seminar
 
 Organized by David Aretz and myself. Contact: {aretz, prinz}@mpim-bonn.mpg.de
 
 [Official MPIM seminar webpage](https://www.mpim-bonn.mpg.de/node/12745) and [program overview](https://www.mpim-bonn.mpg.de/node/12745/program).
 
-## Topics
+## Spring Term 2024
+
+Topics:
 
 We have decided on the following three main topics, with some additional points that we would like to cover:
 
@@ -151,8 +155,7 @@ We have decided on the following three main topics, with some additional points 
 * [Knot theory](https://ncatlab.org/nlab/show/knot+theory+-+contentsk)
 * [Kontsevich integral](https://ncatlab.org/nlab/show/Kontsevich+integral) (with link to supersymmetry)
 
-
-## Talks
+Talks:
 
 ### [February 1](https://www.mpim-bonn.mpg.de/node/12747):
 * Clarifying organizational issues, setting up schedule
