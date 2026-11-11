@@ -4,7 +4,8 @@
    A timelike worldline runs from i- to i+ and passes through every dated CV entry (read from the page,
    so the diagram follows the CV text). Scrolling to an entry, pointing at it or focusing one of its links
    marks its event and shades its past and future light cones; a period of employment is drawn as a segment.
-   Moving over the diagram shows your own light cone and a trail coloured by its causal character.
+   Moving over the diagram shades your own future and past light cone (timelike, turquoise) and the
+   spacelike region (orange), and draws a trail coloured by its causal character.
    Respects "reduce motion" (no drawing-in, no fading trail). */
 (function () {
   var aside = document.querySelector('.cv-page .penrose');
@@ -123,7 +124,8 @@
 
   var world = el('g', { 'clip-path': 'url(#penrose-clip)' });
   var pastCone = el('path', { 'stroke-width': 0.8, 'stroke-dasharray': '3 3' }, world);
-  var ownCone = el('path', { 'stroke-width': 0 }, world);
+  var ownElse = el('path', { 'stroke-width': 0 }, world);   // spacelike to the pointer
+  var ownCone = el('path', { 'stroke-width': 0 }, world);   // timelike: future and past cone
   var ownRays = el('path', { fill: 'none', 'stroke-width': 0.8, 'stroke-dasharray': '3 3' }, world);
   var trailG = el('g', { fill: 'none', 'stroke-width': 1.6, 'stroke-linecap': 'round' }, world);
 
@@ -149,7 +151,8 @@
     ghost.setAttribute('stroke', col.muted);
     line.setAttribute('stroke', col.lake);
     pastCone.setAttribute('fill', col.event); pastCone.setAttribute('fill-opacity', 0.1); pastCone.setAttribute('stroke', col.event);
-    ownCone.setAttribute('fill', col.lake); ownCone.setAttribute('fill-opacity', 0.1);
+    ownCone.setAttribute('fill', col.lake); ownCone.setAttribute('fill-opacity', 0.12);
+    ownElse.setAttribute('fill', col.sun); ownElse.setAttribute('fill-opacity', 0.15);
     ownRays.setAttribute('stroke', col.muted);
     tag.setAttribute('fill', col.event); tag.setAttribute('stroke', col.bg);
     spans.forEach(function (s) { if (s) s.setAttribute('stroke', col.event); });
@@ -219,7 +222,13 @@
   }
   function drawCone(p) {
     var L = 2 * W;
-    ownCone.setAttribute('d', 'M' + p.x + ' ' + p.y + 'L' + (p.x - L) + ' ' + (p.y - L) + 'L' + (p.x + L) + ' ' + (p.y - L) + 'Z');
+    function wedge(dx1, dy1, dx2, dy2) {
+      return 'M' + p.x + ' ' + p.y + 'L' + (p.x + dx1) + ' ' + (p.y + dy1) + 'L' + (p.x + dx2) + ' ' + (p.y + dy2) + 'Z';
+    }
+    // while you point, the entry's cone keeps only its dashed outline, so the two colours stay clean
+    pastCone.setAttribute('fill-opacity', 0);
+    ownCone.setAttribute('d', wedge(-L, -L, L, -L) + wedge(-L, L, L, L));    // future (up) and past (down)
+    ownElse.setAttribute('d', wedge(-L, -L, -L, L) + wedge(L, -L, L, L));    // spacelike (left and right)
     ownRays.setAttribute('d', 'M' + (p.x - L) + ' ' + (p.y - L) + 'L' + (p.x + L) + ' ' + (p.y + L) + 'M' + (p.x + L) + ' ' + (p.y - L) + 'L' + (p.x - L) + ' ' + (p.y + L));
   }
   function drawTrail() {
@@ -245,7 +254,10 @@
     } else if (!prev) prev = p;
   });
   svg.addEventListener('pointerdown', function (e) { var p = toSvg(e); drawCone(p); prev = p; });
-  svg.addEventListener('pointerleave', function () { ownCone.setAttribute('d', ''); ownRays.setAttribute('d', ''); prev = null; });
+  svg.addEventListener('pointerleave', function () {
+    ownCone.setAttribute('d', ''); ownElse.setAttribute('d', ''); ownRays.setAttribute('d', ''); prev = null;
+    pastCone.setAttribute('fill-opacity', 0.1);
+  });
 
   /* ---------- Start ---------- */
   document.addEventListener('themechange', paint);
