@@ -1,6 +1,8 @@
 ---
 title: "Publications"
 permalink: /publications/
+layout: publications
+animation: feynman
 ---
 
 
