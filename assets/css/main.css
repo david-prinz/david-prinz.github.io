@@ -189,6 +189,13 @@ a { color: var(--lake); text-decoration-thickness: 1px; text-underline-offset: 3
 .penrose-legend .is-timelike { background: var(--lake); }
 .penrose-legend .is-spacelike { background: var(--sun); }
 
+/* AIL2026: gradient flow */
+.flow-canvas { display: block; width: 100%; aspect-ratio: 1 / 1.84; touch-action: pan-y; }
+.flow-tag { min-height: 4.4em; margin: 6px 0 0; font-family: var(--font-mono); font-size: 0.76rem; line-height: 1.45; color: var(--event); }
+.flow-legend i { display: inline-block; width: 14px; height: 2px; vertical-align: middle; margin-right: 6px; }
+.flow-legend .is-research { background: var(--lake); }
+.flow-legend .is-support { background: var(--sun); }
+
 /* Publications: Feynman graph */
 .pub-page .prose h2 + .pub > h3 { margin-top: 0.4em; }
 .feyn-svg .edge { fill: none; stroke: var(--muted); stroke-width: 1; opacity: 0.6; transition: opacity 0.2s ease; }
@@ -216,7 +223,7 @@ a { color: var(--lake); text-decoration-thickness: 1px; text-underline-offset: 3
   .side-page .page-head { grid-column: 1 / -1; grid-row: 1; }
   .side-page .prose { grid-column: 1; grid-row: 2; min-width: 0; }
   .side-fig { grid-column: 2; grid-row: 2; top: 12px; padding-top: 4px; }
-  .side-legend, .side-note, .feyn-caption { display: none; }
+  .side-legend, .side-note, .feyn-caption, .flow-tag { display: none; }
 }
 
 /* ---------- Footer ---------- */

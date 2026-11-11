@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="page wrap side-page ail-page">
+  <aside class="side-fig flow" hidden>
+    <canvas class="flow-canvas" aria-hidden="true"></canvas>
+    <p class="flow-tag" aria-live="polite"></p>
+    <p class="side-legend flow-legend"><span><i class="is-research"></i>research labels</span><span><i class="is-support"></i>supporting labels</span></p>
+    <p class="side-note">Gradient flow on a loss landscape with five singular minima, one for each headline level, shaped like the zero set of w₁²w₂². The labels of an example paper flow into the minimum of their depth. Scroll down for more AI, or start your own flow with the pointer.</p>
+  </aside>
+  <div class="side-main">
+    <header class="page-head">
+      {% if page.badge %}<p class="badge">{{ page.badge }}</p>{% endif %}
+      <h1>{{ page.title }}</h1>
+      {% if page.lead %}<p class="lead">{{ page.lead }}</p>{% endif %}
+    </header>
+    <div class="prose">
+      {{ content }}
+    </div>
+  </div>
+  <script type="application/json" class="flow-data">{{ page.flow_examples | jsonify }}</script>
+</article>
