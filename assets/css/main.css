@@ -176,10 +176,21 @@ a { color: var(--lake); text-decoration-thickness: 1px; text-underline-offset: 3
 .penrose-legend .is-spacelike { background: var(--sun); }
 .penrose-note { font-size: 0.8rem; line-height: 1.45; color: var(--muted); margin: 8px 0 0; }
 .prose li.is-active::marker { color: var(--event); }
+/* the entry shown in the diagram gets a soft violet backlight, bullet included */
+.cv-page .prose li { position: relative; isolation: isolate; }
+.cv-page .prose li::before {
+  content: ""; position: absolute; z-index: -1; inset: -3px -8px -3px calc(-1.25em - 4px);
+  border-radius: 6px; background: color-mix(in srgb, var(--event) 13%, transparent);
+  opacity: 0; transition: opacity 0.2s ease;
+}
+.cv-page .prose li.is-active::before { opacity: 1; }
+@media (prefers-reduced-motion: reduce) { .cv-page .prose li::before { transition: none; } }
 @media (max-width: 900px) {
   .cv-page { display: block; }
-  .penrose { float: right; position: static; width: 32%; max-width: 128px; margin: 0 0 12px 16px; padding-top: 0; }
+  /* padding instead of margin, on the page colour, so a backlight stops where the text wraps */
+  .penrose { float: right; position: relative; z-index: 1; background: var(--bg); width: calc(32% + 16px); max-width: 144px; margin: 0; padding: 0 0 12px 16px; }
   .penrose-legend, .penrose-note { display: none; }
+  .cv-page .prose li::before { right: 0; }
 }
 
 /* ---------- Footer ---------- */
