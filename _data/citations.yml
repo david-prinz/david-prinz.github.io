@@ -1,0 +1,21 @@
+# Citations between the papers on the publications page, drawn as the Feynman graph beside them
+# (assets/js/feynman.js). Keys are arXiv ids, as linked on the page.
+#   topic: gravity, gauge, lie or ml. It picks the particles on the lines (see feynman.js).
+#   cites: the papers on the page that this paper cites (taken from INSPIRE, November 2026).
+# Whether a paper is drawn as a vertex (preprint) or a loop (journal article, dissertation)
+# follows the section it is listed under on the page.
+"1603.03321": { topic: gauge,   cites: [] }                                   # Corolla Polynomial
+"1812.09919": { topic: gravity, cites: ["1603.03321", "2001.00104", "2004.09543"] } # Algebraic Structures
+"2001.00104": { topic: gauge,   cites: ["1603.03321", "1812.09919", "2004.09543", "2206.00780"] } # Gauge Symmetries and Renormalization
+"2004.09543": { topic: gravity, cites: ["1603.03321", "1812.09919", "2001.00104"] } # Gravity-Matter Feynman Rules
+"2106.12513": { topic: lie,     cites: ["2004.09543", "2109.11476"] }             # BMS Group
+"2109.11476": { topic: lie,     cites: ["2004.09543", "2106.12513"] }             # NU Group
+"2206.00780": { topic: gravity, cites: ["1603.03321", "1812.09919", "2001.00104", "2004.09543", "2106.12513", "2109.11476", "2207.07593", "2208.14166", "2210.17510", "2303.14160"] } # BRST Double Complex
+"2207.07593": { topic: gravity, cites: ["1603.03321", "1812.09919", "2001.00104", "2004.09543", "2206.00780", "2208.14166", "2210.17510", "2303.14160"] } # Symmetric Ghost Lagrange Densities
+"2208.14166": { topic: gravity, cites: ["1603.03321", "1812.09919", "2001.00104", "2004.09543", "2206.00780", "2207.07593", "2210.17510", "2303.14160", "2512.02253"] } # Transversality
+"2210.17510": { topic: gravity, cites: ["1603.03321", "1812.09919", "2001.00104", "2004.09543", "2106.12513", "2109.11476", "2206.00780", "2207.07593", "2208.14166"] } # Dissertation
+"2303.14160": { topic: gravity, cites: ["1812.09919", "2001.00104", "2004.09543", "2206.00780", "2207.07593", "2208.14166", "2210.17510"] } # Cosmological Constant
+"2512.02253": { topic: gauge,   cites: ["1603.03321", "1812.09919", "2001.00104", "2004.09543", "2206.00780", "2207.07593", "2208.14166", "2210.17510", "2303.14160"] } # Cancellation Identities
+"2512.09918": { topic: gauge,   cites: ["1603.03321", "1812.09919", "2001.00104", "2210.17510", "2512.02253"] } # Multiplicative Renormalization
+"2512.18530": { topic: lie,     cites: ["2106.12513", "2109.11476"] }             # Group Contractions
+"2610.41824": { topic: ml,      cites: [] }                                   # Quantum Neural Networks

@@ -161,38 +161,62 @@ a { color: var(--lake); text-decoration-thickness: 1px; text-underline-offset: 3
 .prose th, .prose td { border-bottom: 1px solid var(--rule); padding: 6px 12px 6px 0; text-align: left; }
 .prose strong { font-weight: 500; }
 
-/* ---------- CV with Penrose diagram (assets/js/penrose.js) ---------- */
-.cv-page {
+/* ---------- Pages with a diagram beside the text: CV (penrose.js), publications (feynman.js) ---------- */
+.side-page {
   display: grid; grid-template-columns: minmax(0, var(--measure)) minmax(180px, 230px);
   justify-content: space-between; column-gap: 48px;
 }
-.cv-main { grid-column: 1; grid-row: 1; min-width: 0; }
-.penrose { grid-column: 2; grid-row: 1; position: sticky; top: 24px; align-self: start; padding-top: 6px; }
-.penrose[hidden] { display: none; }
-.penrose-svg { display: block; width: 100%; height: auto; overflow: visible; touch-action: pan-y; }
-.penrose-legend { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 8px 0 0; font-family: var(--font-mono); font-size: 0.72rem; color: var(--muted); }
-.penrose-legend i { display: inline-block; width: 14px; height: 2px; vertical-align: middle; margin-right: 6px; }
-.penrose-legend .is-timelike { background: var(--lake); }
-.penrose-legend .is-spacelike { background: var(--sun); }
-.penrose-note { font-size: 0.8rem; line-height: 1.45; color: var(--muted); margin: 8px 0 0; }
-.prose li.is-active::marker { color: var(--event); }
+.side-main { grid-column: 1; grid-row: 1; min-width: 0; }
+.side-fig { grid-column: 2; grid-row: 1; position: sticky; top: 24px; align-self: start; padding-top: 6px; }
+.side-fig[hidden] { display: none; }
+.side-fig > svg { display: block; width: 100%; height: auto; overflow: visible; touch-action: pan-y; }
+.side-legend { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 8px 0 0; font-family: var(--font-mono); font-size: 0.72rem; color: var(--muted); }
+.side-note { font-size: 0.8rem; line-height: 1.45; color: var(--muted); margin: 8px 0 0; }
 /* the entry shown in the diagram gets a soft violet backlight, bullet included */
-.cv-page .prose li { position: relative; isolation: isolate; }
-.cv-page .prose li::before {
+.cv-page .prose li, .pub { position: relative; isolation: isolate; }
+.cv-page .prose li::before, .pub::before {
   content: ""; position: absolute; z-index: -1; inset: -3px -8px -3px calc(-1.25em - 4px);
   border-radius: 6px; background: color-mix(in srgb, var(--event) 13%, transparent);
   opacity: 0; transition: opacity 0.2s ease;
 }
-.cv-page .prose li.is-active::before { opacity: 1; }
-@media (prefers-reduced-motion: reduce) { .cv-page .prose li::before { transition: none; } }
+.pub::before { inset: -6px -10px -2px; }
+.cv-page .prose li.is-active::before, .pub.is-active::before { opacity: 1; }
+@media (prefers-reduced-motion: reduce) { .cv-page .prose li::before, .pub::before { transition: none; } }
+.prose li.is-active::marker { color: var(--event); }
+
+/* CV: Penrose diagram */
+.penrose-legend i { display: inline-block; width: 14px; height: 2px; vertical-align: middle; margin-right: 6px; }
+.penrose-legend .is-timelike { background: var(--lake); }
+.penrose-legend .is-spacelike { background: var(--sun); }
+
+/* Publications: Feynman graph */
+.pub-page .prose h2 + .pub > h3 { margin-top: 0.4em; }
+.feyn-svg .edge { fill: none; stroke: var(--muted); stroke-width: 1; opacity: 0.6; transition: opacity 0.2s ease; }
+.feyn-svg .edge .arrow, .feyn-key .arrow { fill: var(--muted); stroke: none; }
+.feyn-svg.has-active .edge { opacity: 0.16; }
+.feyn-svg .edge.is-hot { stroke: var(--lake); opacity: 1; }
+.feyn-svg .edge.is-hot .arrow { fill: var(--lake); }
+.feyn-svg .ring { fill: var(--bg); stroke: var(--lake); stroke-width: 1.3; }
+.feyn-svg .dot { fill: var(--lake); stroke: var(--lake); stroke-width: 1; }
+.feyn-svg .bubble { fill: none; stroke: var(--lake); stroke-width: 1.3; }
+.feyn-svg .is-active .dot { fill: var(--event); stroke: var(--event); }
+.feyn-svg .ct circle { fill: var(--bg); stroke: var(--event); stroke-width: 1.4; }
+.feyn-svg .ct path { stroke: var(--event); stroke-width: 1.4; }
+.feyn-svg .hit { fill: transparent; cursor: pointer; }
+.feyn-svg .years { fill: var(--muted); font-family: var(--font-mono); font-size: 9px; }
+.feyn-caption { min-height: 2.9em; margin: 4px 0 0; font-size: 0.8rem; line-height: 1.45; color: var(--event); }
+.feyn-legend { display: grid; grid-template-columns: auto auto; justify-content: start; gap: 2px 14px; }
+.feyn-key { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; }
+.feyn-key svg { fill: none; stroke: var(--muted); stroke-width: 1; overflow: visible; }
+
 @media (max-width: 900px) {
   /* title across the full width; below it the text, with the diagram pinned in a slim column beside it */
-  .cv-page { grid-template-columns: minmax(0, 1fr) clamp(80px, 24vw, 180px); column-gap: 14px; }
-  .cv-main { display: contents; }
-  .cv-page .page-head { grid-column: 1 / -1; grid-row: 1; }
-  .cv-page .prose { grid-column: 1; grid-row: 2; min-width: 0; }
-  .penrose { grid-column: 2; grid-row: 2; top: 12px; padding-top: 4px; }
-  .penrose-legend, .penrose-note { display: none; }
+  .side-page { grid-template-columns: minmax(0, 1fr) clamp(80px, 24vw, 180px); column-gap: 14px; }
+  .side-main { display: contents; }
+  .side-page .page-head { grid-column: 1 / -1; grid-row: 1; }
+  .side-page .prose { grid-column: 1; grid-row: 2; min-width: 0; }
+  .side-fig { grid-column: 2; grid-row: 2; top: 12px; padding-top: 4px; }
+  .side-legend, .side-note, .feyn-caption { display: none; }
 }
 
 /* ---------- Footer ---------- */
@@ -204,6 +228,6 @@ a { color: var(--lake); text-decoration-thickness: 1px; text-underline-offset: 3
 @media (hover: hover) { .site-footer a:hover { color: var(--lake); } }
 
 @media print {
-  .site-header, .site-footer, .hero-canvas, .theme-toggle, .penrose { display: none; }
+  .site-header, .site-footer, .hero-canvas, .theme-toggle, .side-fig { display: none; }
   body { background: #fff; color: #000; }
 }

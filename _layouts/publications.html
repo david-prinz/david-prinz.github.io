@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article class="page wrap side-page pub-page">
+  <aside class="side-fig feyn" hidden>
+    <svg class="feyn-svg" role="img"
+         aria-label="Feynman graph of the papers on this page: preprints are vertices, journal articles loops, and the lines are citations between them"></svg>
+    <p class="feyn-caption" aria-live="polite"></p>
+    <p class="side-legend feyn-legend"></p>
+    <p class="side-note">My papers as a Feynman graph, with time running upwards: preprints are vertices, journal articles are one-loop graphs and my dissertation is a two-loop graph. Bosons join papers that cite each other, the other lines run from a paper to one that cites it. Point at a paper to renormalize it.</p>
+  </aside>
+  <div class="side-main">
+    <header class="page-head">
+      {% if page.badge %}<p class="badge">{{ page.badge }}</p>{% endif %}
+      <h1>{{ page.title }}</h1>
+      {% if page.lead %}<p class="lead">{{ page.lead }}</p>{% endif %}
+    </header>
+    <div class="prose">
+      {{ content }}
+    </div>
+  </div>
+  <script type="application/json" class="feyn-data">{{ site.data.citations | jsonify }}</script>
+</article>
