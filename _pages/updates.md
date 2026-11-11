@@ -1,6 +1,8 @@
 ---
 permalink: /updates/
 title: "Updates"
+layout: updates
+animation: cosmos
 ---
 
 
