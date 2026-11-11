@@ -19,6 +19,7 @@
   --sun: #E0782F;         /* Reichenau sunset: decoration only in daylight */
   --sun-text: #B4531A;    /* orange that is readable as text on --bg */
   --rule: #DCDFDA;
+  --event: #7A52B3;       /* highlighted CV entry in the Penrose diagram */
   --wave-alpha: 0.32;
   --glint-alpha: 0.6;
 
@@ -33,14 +34,14 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #0F1C22; --surface: #14252C; --fg: #E6ECE9; --muted: #93A7A9;
-    --lake: #5CC4BF; --sun: #F29A5B; --sun-text: #F29A5B; --rule: #22363D;
+    --lake: #5CC4BF; --sun: #F29A5B; --sun-text: #F29A5B; --rule: #22363D; --event: #B497E6;
     --wave-alpha: 0.26; --glint-alpha: 0.9;
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --bg: #0F1C22; --surface: #14252C; --fg: #E6ECE9; --muted: #93A7A9;
-  --lake: #5CC4BF; --sun: #F29A5B; --sun-text: #F29A5B; --rule: #22363D;
+  --lake: #5CC4BF; --sun: #F29A5B; --sun-text: #F29A5B; --rule: #22363D; --event: #B497E6;
   --wave-alpha: 0.26; --glint-alpha: 0.9;
   color-scheme: dark;
 }
@@ -160,6 +161,27 @@ a { color: var(--lake); text-decoration-thickness: 1px; text-underline-offset: 3
 .prose th, .prose td { border-bottom: 1px solid var(--rule); padding: 6px 12px 6px 0; text-align: left; }
 .prose strong { font-weight: 500; }
 
+/* ---------- CV with Penrose diagram (assets/js/penrose.js) ---------- */
+.cv-page {
+  display: grid; grid-template-columns: minmax(0, var(--measure)) minmax(180px, 230px);
+  justify-content: space-between; column-gap: 48px;
+}
+.cv-main { grid-column: 1; grid-row: 1; min-width: 0; }
+.penrose { grid-column: 2; grid-row: 1; position: sticky; top: 24px; align-self: start; padding-top: 6px; }
+.penrose[hidden] { display: none; }
+.penrose-svg { display: block; width: 100%; height: auto; overflow: visible; touch-action: pan-y; }
+.penrose-legend { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 8px 0 0; font-family: var(--font-mono); font-size: 0.72rem; color: var(--muted); }
+.penrose-legend i { display: inline-block; width: 14px; height: 2px; vertical-align: middle; margin-right: 6px; }
+.penrose-legend .is-timelike { background: var(--lake); }
+.penrose-legend .is-spacelike { background: var(--sun); }
+.penrose-note { font-size: 0.8rem; line-height: 1.45; color: var(--muted); margin: 8px 0 0; }
+.prose li.is-active::marker { color: var(--event); }
+@media (max-width: 900px) {
+  .cv-page { display: block; }
+  .penrose { float: right; position: static; width: 32%; max-width: 128px; margin: 0 0 12px 16px; padding-top: 0; }
+  .penrose-legend, .penrose-note { display: none; }
+}
+
 /* ---------- Footer ---------- */
 .site-footer { border-top: 1px solid var(--rule); color: var(--muted); font-size: 0.9rem; }
 .foot { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; padding-block: 28px 40px; }
@@ -169,6 +191,6 @@ a { color: var(--lake); text-decoration-thickness: 1px; text-underline-offset: 3
 @media (hover: hover) { .site-footer a:hover { color: var(--lake); } }
 
 @media print {
-  .site-header, .site-footer, .hero-canvas, .theme-toggle { display: none; }
+  .site-header, .site-footer, .hero-canvas, .theme-toggle, .penrose { display: none; }
   body { background: #fff; color: #000; }
 }
