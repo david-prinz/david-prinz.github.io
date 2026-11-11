@@ -1,6 +1,8 @@
 ---
 title: "CV"
 permalink: /cv/
+layout: cv
+animation: penrose
 redirect_from:
   - /resume
 ---
@@ -11,7 +13,7 @@ redirect_from:
 
 * [Iliad](https://www.iliad.ac), Iliad Fellow at the [London Initiative for Safe AI (LISA)](https://www.safeai.org.uk), London (UK), since 09/2026
 * [Lamarr Institute](https://lamarr-institute.org), Bonn (DE), Lamarr Fellow in the group of [Prof Flek](https://caisa-lab.github.io/members/lucie-flek.html), 05/2026--07/2026
-* [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de), Bonn (DE), Postdoctoral Fellow and Postdoc Representative, 04/2023--04/2026
+* [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de), Bonn (DE), Postdoctoral Fellow, 04/2023--04/2026
 * [Riemann Center for Geometry and Physics](https://www.rc.uni-hannover.de/en/), Hannover (DE), Riemann Fellow in the group of [Prof Giulini](https://www.itp.uni-hannover.de/de/ag/giulini/), 01/2023--03/2023
 * [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam), Potsdam (DE), Academic Assistant in the group of [Prof Paycha](https://www.math.uni-potsdam.de/~paycha/paycha/Home.html), 08/2021--02/2022
 * [Humboldt University of Berlin](https://www.hu-berlin.de/en?set_language=en), Berlin (DE), Guest Scientist at [KMPB](https://kmpb.physik.hu-berlin.de), 01/2021--06/2021
@@ -31,11 +33,11 @@ redirect_from:
 
 ## Academic services
 
-* Serving as [Postdoc Representative of the MPIM](https://www.postdocnet.mpg.de/list-of-external-reps) within the [Max Planck PostdocNet](https://www.postdocnet.mpg.de)
-* Co-Organizing the [Workshop on "Combinatorics, Resurgence and Algebraic Geometry in Quantum Field Theory"](https://www.mpim-bonn.mpg.de/node/13203)
-* Organizing the [Physical Math Seminar](https://davidprinz.org/seminar/), see also the [official MPIM website](https://www.mpim-bonn.mpg.de/node/13069)
-* Organizing the [MPIM Math-Phys Seminar](https://davidprinz.org/seminar/), see also the [official MPIM website](https://www.mpim-bonn.mpg.de/node/12745)
-* Organizing regular social events for the math community in Bonn
+* Serving as [Postdoc Representative of the MPIM](https://www.postdocnet.mpg.de/list-of-external-reps) within the [Max Planck PostdocNet](https://www.postdocnet.mpg.de), 10/2024--04/2026
+* Co-Organizing the [Workshop on "Combinatorics, Resurgence and Algebraic Geometry in Quantum Field Theory"](https://www.mpim-bonn.mpg.de/node/13203), 08/2024
+* Organizing the [Physical Math Seminar](https://davidprinz.org/seminar/), see also the [official MPIM website](https://www.mpim-bonn.mpg.de/node/13069), summer 2024 -- spring 2025
+* Organizing the [MPIM Math-Phys Seminar](https://davidprinz.org/seminar/), see also the [official MPIM website](https://www.mpim-bonn.mpg.de/node/12745), spring 2024
+* Organizing regular social events for the math community in Bonn, 04/2023--09/2024
 * Refereeing an article for [Computer Physics Communications](https://www.sciencedirect.com/journal/computer-physics-communications), summer 2023
 * Supporting the organization of the conference [Microlocal and Global Analysis, Interactions with Geometry](https://potsdamconference2022.math.uni-potsdam.de/potsdamconference2022/index.html), spring 2022
 * Refereeing an article for [Nuclear Physics B](https://www.journals.elsevier.com/nuclear-physics-b), spring 2021
