@@ -1,6 +1,8 @@
 ---
 permalink: /personal/
 title: "Personal"
+layout: mountain
+animation: mountain
 ---
 
 
