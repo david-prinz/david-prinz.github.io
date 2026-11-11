@@ -29,4 +29,4 @@ bundle exec jekyll serve
 
 Then open http://localhost:4000.
 
-Originally based on the AcademicPages template (MIT License, see `LICENSE`). Fonts: Newsreader, IBM Plex Sans and IBM Plex Mono (SIL Open Font License).
+© 2026 David Prinz. All rights reserved: texts, images, design, code and animations may not be reused without permission (see `LICENSE`). Fonts: Newsreader, IBM Plex Sans and IBM Plex Mono, and Bravura glyphs in `staff.js`, under the SIL Open Font License (see `assets/fonts/OFL.txt`). Versions before the November 2026 redesign were based on the AcademicPages template (MIT License).
