@@ -196,6 +196,13 @@ a { color: var(--lake); text-decoration-thickness: 1px; text-underline-offset: 3
 .flow-legend .is-research { background: var(--lake); }
 .flow-legend .is-support { background: var(--sun); }
 
+/* Music: a staff written by the pointer */
+.staff-band { border-bottom: 1px solid var(--rule); touch-action: pan-y; }
+.staff-band[hidden] { display: none; }
+.staff-canvas { display: block; width: 100%; height: 140px; }
+.staff-note { margin-block: 0; padding-bottom: 12px; font-family: var(--font-mono); font-size: 0.72rem; line-height: 1.5; color: var(--muted); }
+@media (prefers-reduced-motion: reduce) { .staff-note { display: none; } }
+
 /* Publications: Feynman graph */
 .pub-page .prose h2 + .pub > h3 { margin-top: 0.4em; }
 .feyn-svg .edge { fill: none; stroke: var(--muted); stroke-width: 1; opacity: 0.6; transition: opacity 0.2s ease; }
@@ -235,6 +242,6 @@ a { color: var(--lake); text-decoration-thickness: 1px; text-underline-offset: 3
 @media (hover: hover) { .site-footer a:hover { color: var(--lake); } }
 
 @media print {
-  .site-header, .site-footer, .hero-canvas, .theme-toggle, .side-fig { display: none; }
+  .site-header, .site-footer, .hero-canvas, .theme-toggle, .side-fig, .staff-band { display: none; }
   body { background: #fff; color: #000; }
 }

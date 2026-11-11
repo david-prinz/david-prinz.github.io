@@ -1,6 +1,8 @@
 ---
 permalink: /music/
 title: "Music"
+layout: music
+animation: staff
 ---
 
 
