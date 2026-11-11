@@ -1,6 +1,8 @@
 ---
 title: "Past Seminars @ MPIM"
 permalink: /seminar/
+layout: knots
+animation: knots
 badge: "Archive, 2024–2025"
 ---
 

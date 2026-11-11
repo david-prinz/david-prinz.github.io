@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article class="page wrap side-page knots-page">
+  <aside class="side-fig knots" hidden>
+    <canvas class="knot-canvas" aria-hidden="true"></canvas>
+    <p class="knot-tag"><span class="knot-name"></span><span class="knot-poly"></span><span class="knot-cross"></span></p>
+    <p class="side-note">Knots and their Jones polynomials, which Chern–Simons theory computes as Wilson loops (Witten 1989). Scroll for more knots, and drag a strand or turn the knot: the picture and its crossings change, the polynomial does not. It is computed live from the crossings you see, by Kauffman's bracket.</p>
+  </aside>
+  <div class="side-main">
+    <header class="page-head">
+      {% if page.badge %}<p class="badge">{{ page.badge }}</p>{% endif %}
+      <h1>{{ page.title }}</h1>
+      {% if page.lead %}<p class="lead">{{ page.lead }}</p>{% endif %}
+    </header>
+    <div class="prose">
+      {{ content }}
+    </div>
+  </div>
+</article>

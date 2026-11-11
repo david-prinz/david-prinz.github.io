@@ -215,6 +215,15 @@ a { color: var(--lake); text-decoration-thickness: 1px; text-underline-offset: 3
 .cosmos-stage { color: var(--event); }
 .cosmos-tag sup { font-size: 0.7em; line-height: 0; }
 
+/* Seminar: knots and their Jones polynomials */
+.knot-canvas { display: block; width: 100%; aspect-ratio: 1 / 1; touch-action: pan-y; cursor: grab; }
+.knot-canvas.is-dragging { cursor: grabbing; }
+.knot-tag { min-height: 5.8em; margin: 6px 0 0; font-family: var(--font-mono); font-size: 0.76rem; line-height: 1.45; color: var(--muted); }
+.knot-tag span { display: block; }
+.knot-name { color: var(--event); }
+.knot-poly { color: var(--fg); }
+.knot-tag sup, .knot-tag sub { font-size: 0.7em; line-height: 0; }
+
 /* Publications: Feynman graph */
 .pub-page .prose h2 + .pub > h3 { margin-top: 0.4em; }
 .feyn-svg .edge { fill: none; stroke: var(--muted); stroke-width: 1; opacity: 0.6; transition: opacity 0.2s ease; }
@@ -242,7 +251,7 @@ a { color: var(--lake); text-decoration-thickness: 1px; text-underline-offset: 3
   .side-page .page-head { grid-column: 1 / -1; grid-row: 1; }
   .side-page .prose { grid-column: 1; grid-row: 2; min-width: 0; }
   .side-fig { grid-column: 2; grid-row: 2; top: 12px; padding-top: 4px; }
-  .side-legend, .side-note, .feyn-caption, .flow-tag, .cosmos-tag { display: none; }
+  .side-legend, .side-note, .feyn-caption, .flow-tag, .cosmos-tag, .knot-tag { display: none; }
 }
 
 /* ---------- Footer ---------- */
