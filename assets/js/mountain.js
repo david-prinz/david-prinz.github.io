@@ -2,8 +2,9 @@
    A stick figure hikes along the ridge and climbs the steep summit block, cheers at the summit cross,
    and then skis down the face in turns through deep snow. Its tracks stay on the face and slowly drift
    over, so every run adds a new line, as on a real powder slope. The ridge is drawn from a fixed seed,
-   so the mountain looks the same on every visit. By day a pale sun stands in a light turquoise sky; by night
-   a pale crescent moon and a few stars, with a faint violet afterglow above the ranges.
+   so the mountain looks the same on every visit. By day a pale sun with eight light rays stands in a
+   light turquoise sky; by night a pale crescent moon and a few stars, with a faint violet afterglow
+   above the ranges.
    Respects "reduce motion" (then the figure stands at the summit beside two old tracks) and pauses
    while the tab is hidden. */
 (function () {
@@ -85,6 +86,13 @@
       g.addColorStop(0, col.sun); g.addColorStop(1, 'rgba(0,0,0,0)');
       c.globalAlpha = 0.12; c.fillStyle = g; c.beginPath(); c.arc(x, y, r * 2.6, 0, 2 * Math.PI); c.fill();
       c.globalAlpha = 0.36; c.fillStyle = col.sun; c.beginPath(); c.arc(x, y, r, 0, 2 * Math.PI); c.fill();
+      c.globalAlpha = 0.18; c.strokeStyle = col.sun; c.lineCap = 'round';      // eight light rays
+      c.lineWidth = Math.max(2.5, 0.24 * r); c.beginPath();
+      for (var k = 0; k < 8; k++) {
+        var ca = Math.cos(k * Math.PI / 4), sa = Math.sin(k * Math.PI / 4);
+        c.moveTo(x + 1.45 * r * ca, y + 1.45 * r * sa); c.lineTo(x + 2.05 * r * ca, y + 2.05 * r * sa);
+      }
+      c.stroke();
       c.globalAlpha = 1;
       return;
     }
