@@ -186,11 +186,13 @@ a { color: var(--lake); text-decoration-thickness: 1px; text-underline-offset: 3
 .cv-page .prose li.is-active::before { opacity: 1; }
 @media (prefers-reduced-motion: reduce) { .cv-page .prose li::before { transition: none; } }
 @media (max-width: 900px) {
-  .cv-page { display: block; }
-  /* padding instead of margin, on the page colour, so a backlight stops where the text wraps */
-  .penrose { float: right; position: relative; z-index: 1; background: var(--bg); width: calc(32% + 16px); max-width: 144px; margin: 0; padding: 0 0 12px 16px; }
+  /* title across the full width; below it the text, with the diagram pinned in a slim column beside it */
+  .cv-page { grid-template-columns: minmax(0, 1fr) clamp(80px, 24vw, 180px); column-gap: 14px; }
+  .cv-main { display: contents; }
+  .cv-page .page-head { grid-column: 1 / -1; grid-row: 1; }
+  .cv-page .prose { grid-column: 1; grid-row: 2; min-width: 0; }
+  .penrose { grid-column: 2; grid-row: 2; top: 12px; padding-top: 4px; }
   .penrose-legend, .penrose-note { display: none; }
-  .cv-page .prose li::before { right: 0; }
 }
 
 /* ---------- Footer ---------- */
